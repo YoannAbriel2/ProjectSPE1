@@ -1,4 +1,4 @@
-id_expedition;id_commande;id_produit;quantité;entrepôt;date_expedition;date_livraison;transporteur;coût_transport
+id_expedition;id_commande;id_produit;quantite;entrepot;date_expedition;date_livraison;transporteur;cout_transport
 SHP000001;O000001;P00527;6;Marseille;25/07/2024;29/07/2024;FedEx;33.08
 SHP000002;O000002;P00336;5;Lyon;22/02/2024;27/02/2024;UPS;5.41
 SHP000003;O000004;P00887;8;Lyon;30/08/2024;31/08/2024;FedEx;38.47
