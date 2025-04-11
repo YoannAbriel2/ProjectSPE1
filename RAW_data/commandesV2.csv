@@ -1,4 +1,4 @@
-﻿id_commande;date_commande;id_produit;quantité;entrepôt;statut
+id_commande;date_commande;id_produit;quantité;entrepôt;statut
 O000001;2024-09-03;P00413;2;Marseille;Livré
 O000002;2024-11-09;P00778;15;Lyon;Expédié
 O000004;2024-11-03;P00535;8;Lyon;Livré

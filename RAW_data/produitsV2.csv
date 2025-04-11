@@ -1,504 +1,504 @@
-﻿id_produit;catégorie;marque;prix;stock_minimum
+id_produit;catégorie;marque;prix;stock_minimum
 P00001;Soins capillaires;Luxe eclat;467.42;52
 P00002;Accessoires;Maison Pure;291.26;10
 P00003;Maquillage;Essentielle Paris;354.39;60
 P00004;Accessoires;Reflet d'or;462.8;33
-P00005;Accessoires;Elixir Haute Beauté;359.47;33
+P00005;Accessoires;Elixir Haute Beauté;359.47;33
 P00006;Parfums;Luxe eclat;93.22;26
 P00007;Maquillage;Maison Pure;296.62;14
 P00008;Maquillage;Essentielle Paris;311.22;29
 P00009;Maquillage;Reflet d'or;223.58;30
-P00010;Accessoires;Elixir Haute Beauté;373.49;67
+P00010;Accessoires;Elixir Haute Beauté;373.49;67
 P00011;Soins capillaires;Luxe eclat;468.5;40
 P00012;Maquillage;Maison Pure;464.27;20
 P00013;Accessoires;Essentielle Paris;236.4;61
 P00014;Parfums;Reflet d'or;74.35;24
-P00015;Soins capillaires;Elixir Haute Beauté;492.72;92
+P00015;Soins capillaires;Elixir Haute Beauté;492.72;92
 P00016;Parfums;Luxe eclat;422.67;16
 P00017;Soins capillaires;Maison Pure;79.84;37
 P00018;Accessoires;Essentielle Paris;462.0;60
 P00019;Soins de la peau;Reflet d'or;437.55;67
-P00020;Soins capillaires;Elixir Haute Beauté;269.04;14
+P00020;Soins capillaires;Elixir Haute Beauté;269.04;14
 P00021;Parfums;Luxe eclat;303.81;14
 P00022;Accessoires;Maison Pure;211.52;17
 P00023;Soins capillaires;Essentielle Paris;46.29;73
 P00024;Soins de la peau;Reflet d'or;180.89;19
-P00025;Soins de la peau;Elixir Haute Beauté;405.37;47
+P00025;Soins de la peau;Elixir Haute Beauté;405.37;47
 P00026;Maquillage;Luxe eclat;22.22;90
 P00027;Maquillage;Maison Pure;180.08;17
 P00028;Parfums;Essentielle Paris;211.12;34
 P00029;Soins capillaires;Reflet d'or;277.95;82
-P00030;Soins capillaires;Elixir Haute Beauté;461.53;75
+P00030;Soins capillaires;Elixir Haute Beauté;461.53;75
 P00031;Maquillage;Luxe eclat;186.25;88
 P00032;Soins capillaires;Maison Pure;186.54;59
 P00033;Soins capillaires;Essentielle Paris;374.0;76
 P00034;Soins de la peau;Reflet d'or;237.06;58
-P00035;Maquillage;Elixir Haute Beauté;127.81;45
+P00035;Maquillage;Elixir Haute Beauté;127.81;45
 P00036;Accessoires;Luxe eclat;237.17;77
 P00037;Maquillage;Maison Pure;87.61;87
 P00038;Accessoires;Essentielle Paris;104.67;50
 P00039;Soins de la peau;Reflet d'or;259.22;98
-P00040;Parfums;Elixir Haute Beauté;221.08;71
+P00040;Parfums;Elixir Haute Beauté;221.08;71
 P00041;Soins capillaires;Luxe eclat;459.13;19
 P00042;Soins de la peau;Maison Pure;193.95;30
 P00043;Soins capillaires;Essentielle Paris;298.68;45
 P00044;Parfums;Reflet d'or;323.49;21
-P00045;Parfums;Elixir Haute Beauté;26.29;11
+P00045;Parfums;Elixir Haute Beauté;26.29;11
 P00046;Soins de la peau;Luxe eclat;338.5;22
 P00047;Parfums;Maison Pure;105.46;62
 P00048;Accessoires;Essentielle Paris;481.31;41
 P00049;Parfums;Reflet d'or;91.36;25
-P00050;Soins capillaires;Elixir Haute Beauté;219.02;41
+P00050;Soins capillaires;Elixir Haute Beauté;219.02;41
 P00051;Soins capillaires;Luxe eclat;60.97;41
 P00052;Soins capillaires;Maison Pure;498.5;20
 P00053;Soins capillaires;Essentielle Paris;261.05;19
 P00054;Accessoires;Reflet d'or;305.78;24
-P00055;Maquillage;Elixir Haute Beauté;52.2;26
+P00055;Maquillage;Elixir Haute Beauté;52.2;26
 P00056;Soins de la peau;Luxe eclat;379.98;49
 P00057;Soins capillaires;Maison Pure;120.75;27
 P00058;Parfums;Essentielle Paris;451.07;64
 P00059;Soins capillaires;Reflet d'or;118.47;82
-P00060;Parfums;Elixir Haute Beauté;111.53;34
+P00060;Parfums;Elixir Haute Beauté;111.53;34
 P00061;Parfums;Luxe eclat;37.54;68
 P00062;Soins capillaires;Maison Pure;246.59;87
 P00063;Accessoires;Essentielle Paris;291.12;98
 P00064;Parfums;Reflet d'or;51.54;31
-P00065;Parfums;Elixir Haute Beauté;392.25;39
+P00065;Parfums;Elixir Haute Beauté;392.25;39
 P00066;Soins capillaires;Luxe eclat;237.58;93
 P00067;Parfums;Maison Pure;271.71;94
 P00068;Parfums;Essentielle Paris;231.57;53
 P00069;Soins capillaires;Reflet d'or;212.37;41
-P00070;Soins capillaires;Elixir Haute Beauté;288.63;60
+P00070;Soins capillaires;Elixir Haute Beauté;288.63;60
 P00071;Soins de la peau;Luxe eclat;94.52;55
 P00072;Accessoires;Maison Pure;107.33;30
 P00073;Accessoires;Essentielle Paris;433.66;41
 P00074;Parfums;Reflet d'or;474.14;48
-P00075;Accessoires;Elixir Haute Beauté;199.19;21
+P00075;Accessoires;Elixir Haute Beauté;199.19;21
 P00076;Parfums;Luxe eclat;149.96;56
 P00077;Soins de la peau;Maison Pure;329.12;27
 P00078;Soins capillaires;Essentielle Paris;216.19;30
 P00079;Soins capillaires;Reflet d'or;32.19;22
-P00080;Soins capillaires;Elixir Haute Beauté;94.95;30
+P00080;Soins capillaires;Elixir Haute Beauté;94.95;30
 P00081;Accessoires;Luxe eclat;363.67;17
 P00082;Soins de la peau;Maison Pure;336.28;55
 P00083;Accessoires;Essentielle Paris;33.01;16
 P00084;Accessoires;Reflet d'or;126.55;32
-P00085;Soins de la peau;Elixir Haute Beauté;130.92;84
+P00085;Soins de la peau;Elixir Haute Beauté;130.92;84
 P00086;Soins de la peau;Luxe eclat;342.51;95
 P00087;Soins de la peau;Maison Pure;29.46;31
 P00088;Soins de la peau;Essentielle Paris;69.97;98
 P00089;Soins capillaires;Reflet d'or;403.96;31
-P00090;Maquillage;Elixir Haute Beauté;105.7;38
+P00090;Maquillage;Elixir Haute Beauté;105.7;38
 P00091;Maquillage;Luxe eclat;333.32;22
 P00092;Soins de la peau;Maison Pure;134.33;91
 P00093;Maquillage;Essentielle Paris;67.73;11
 P00094;Maquillage;Reflet d'or;136.72;38
-P00095;Soins de la peau;Elixir Haute Beauté;366.69;94
+P00095;Soins de la peau;Elixir Haute Beauté;366.69;94
 P00096;Maquillage;Luxe eclat;430.73;88
 P00097;Accessoires;Maison Pure;418.51;61
 P00098;Parfums;Essentielle Paris;210.65;36
 P00099;Parfums;Reflet d'or;340.68;59
-P00100;Soins de la peau;Elixir Haute Beauté;118.39;88
+P00100;Soins de la peau;Elixir Haute Beauté;118.39;88
 P00101;Soins capillaires;Luxe eclat;160.71;32
 P00102;Soins de la peau;Maison Pure;450.24;97
 P00103;Soins capillaires;Essentielle Paris;26.24;53
 P00104;Parfums;Reflet d'or;61.04;86
-P00105;Soins de la peau;Elixir Haute Beauté;119.79;31
+P00105;Soins de la peau;Elixir Haute Beauté;119.79;31
 P00106;Accessoires;Luxe eclat;32.74;52
 P00107;Maquillage;Maison Pure;107.09;46
 P00108;Soins capillaires;Essentielle Paris;299.86;70
 P00109;Maquillage;Reflet d'or;222.28;65
-P00110;Maquillage;Elixir Haute Beauté;448.48;12
+P00110;Maquillage;Elixir Haute Beauté;448.48;12
 P00111;Soins de la peau;Luxe eclat;412.37;72
 P00112;Maquillage;Maison Pure;184.07;28
 P00113;Accessoires;Essentielle Paris;144.52;32
 P00114;Maquillage;Reflet d'or;202.25;38
-P00115;Soins de la peau;Elixir Haute Beauté;303.34;39
+P00115;Soins de la peau;Elixir Haute Beauté;303.34;39
 P00116;Accessoires;Luxe eclat;148.67;48
 P00117;Parfums;Maison Pure;319.59;34
 P00118;Maquillage;Essentielle Paris;216.52;17
 P00119;Soins de la peau;Reflet d'or;284.98;67
-P00120;Parfums;Elixir Haute Beauté;229.34;25
+P00120;Parfums;Elixir Haute Beauté;229.34;25
 P00121;Parfums;Luxe eclat;161.34;81
 P00122;Soins capillaires;Maison Pure;475.26;10
 P00123;Accessoires;Essentielle Paris;386.53;14
 P00124;Maquillage;Reflet d'or;87.25;12
-P00125;Soins de la peau;Elixir Haute Beauté;436.86;74
+P00125;Soins de la peau;Elixir Haute Beauté;436.86;74
 P00126;Soins capillaires;Luxe eclat;253.97;13
 P00127;Accessoires;Maison Pure;449.39;73
 P00128;Soins capillaires;Essentielle Paris;403.93;98
 P00129;Accessoires;Reflet d'or;224.1;19
-P00130;Accessoires;Elixir Haute Beauté;30.79;30
+P00130;Accessoires;Elixir Haute Beauté;30.79;30
 P00131;Maquillage;Luxe eclat;148.97;55
 P00132;Accessoires;Maison Pure;279.98;36
 P00133;Soins capillaires;Essentielle Paris;324.07;75
 P00134;Accessoires;Reflet d'or;143.79;50
-P00135;Maquillage;Elixir Haute Beauté;86.89;22
+P00135;Maquillage;Elixir Haute Beauté;86.89;22
 P00136;Maquillage;Luxe eclat;420.77;18
 P00137;Soins capillaires;Maison Pure;492.51;45
 P00138;Parfums;Essentielle Paris;272.33;95
 P00139;Parfums;Reflet d'or;102.41;99
-P00140;Accessoires;Elixir Haute Beauté;150.71;67
+P00140;Accessoires;Elixir Haute Beauté;150.71;67
 P00141;Soins de la peau;Luxe eclat;28.83;63
 P00142;Accessoires;Maison Pure;458.86;21
 P00143;Soins capillaires;Essentielle Paris;76.52;90
 P00144;Soins capillaires;Reflet d'or;296.73;87
-P00145;Soins capillaires;Elixir Haute Beauté;151.55;23
+P00145;Soins capillaires;Elixir Haute Beauté;151.55;23
 P00146;Soins capillaires;Luxe eclat;286.01;43
 P00147;Soins capillaires;Maison Pure;332.68;62
 P00148;Maquillage;Essentielle Paris;418.28;29
 P00149;Parfums;Reflet d'or;119.08;84
-P00150;Soins capillaires;Elixir Haute Beauté;25.28;25
+P00150;Soins capillaires;Elixir Haute Beauté;25.28;25
 P00151;Soins de la peau;Luxe eclat;85.71;79
 P00152;Soins de la peau;Maison Pure;452.01;65
 P00153;Soins de la peau;Essentielle Paris;439.47;92
 P00154;Soins de la peau;Reflet d'or;306.76;67
-P00155;Maquillage;Elixir Haute Beauté;308.25;13
+P00155;Maquillage;Elixir Haute Beauté;308.25;13
 P00156;Soins de la peau;Luxe eclat;339.22;13
 P00157;Soins capillaires;Maison Pure;104.18;29
 P00158;Accessoires;Essentielle Paris;458.92;19
 P00159;Soins de la peau;Reflet d'or;221.01;33
-P00160;Maquillage;Elixir Haute Beauté;203.91;35
+P00160;Maquillage;Elixir Haute Beauté;203.91;35
 P00161;Maquillage;Luxe eclat;269.08;46
 P00162;Soins de la peau;Maison Pure;42.54;94
 P00163;Accessoires;Essentielle Paris;99.82;63
 P00164;Soins de la peau;Reflet d'or;374.26;30
-P00165;Maquillage;Elixir Haute Beauté;59.74;83
+P00165;Maquillage;Elixir Haute Beauté;59.74;83
 P00166;Parfums;Luxe eclat;309.51;47
 P00167;Soins capillaires;Maison Pure;137.77;55
 P00168;Maquillage;Essentielle Paris;206.86;13
 P00169;Soins de la peau;Reflet d'or;158.57;69
-P00170;Soins capillaires;Elixir Haute Beauté;190.72;66
+P00170;Soins capillaires;Elixir Haute Beauté;190.72;66
 P00171;Soins de la peau;Luxe eclat;365.14;54
 P00172;Soins de la peau;Maison Pure;162.62;29
 P00173;Parfums;Essentielle Paris;291.87;26
 P00174;Soins capillaires;Reflet d'or;248.5;80
-P00175;Soins capillaires;Elixir Haute Beauté;338.56;13
+P00175;Soins capillaires;Elixir Haute Beauté;338.56;13
 P00176;Parfums;Luxe eclat;469.68;23
 P00177;Maquillage;Maison Pure;371.63;12
 P00178;Soins de la peau;Essentielle Paris;123.17;97
 P00179;Accessoires;Reflet d'or;34.97;89
-P00180;Soins de la peau;Elixir Haute Beauté;145.89;67
+P00180;Soins de la peau;Elixir Haute Beauté;145.89;67
 P00181;Soins de la peau;Luxe eclat;305.64;64
 P00182;Maquillage;Maison Pure;44.68;13
 P00183;Soins de la peau;Essentielle Paris;258.26;33
 P00184;Parfums;Reflet d'or;306.48;43
-P00185;Parfums;Elixir Haute Beauté;180.44;39
+P00185;Parfums;Elixir Haute Beauté;180.44;39
 P00186;Soins capillaires;Luxe eclat;390.04;91
 P00187;Accessoires;Maison Pure;71.17;28
 P00188;Soins de la peau;Essentielle Paris;56.07;40
 P00189;Soins de la peau;Reflet d'or;369.53;69
-P00190;Maquillage;Elixir Haute Beauté;257.84;69
+P00190;Maquillage;Elixir Haute Beauté;257.84;69
 P00191;Parfums;Luxe eclat;350.43;28
 P00192;Accessoires;Maison Pure;228.72;58
 P00193;Soins capillaires;Essentielle Paris;138.27;72
 P00194;Parfums;Reflet d'or;413.17;92
-P00195;Soins capillaires;Elixir Haute Beauté;403.72;31
+P00195;Soins capillaires;Elixir Haute Beauté;403.72;31
 P00196;Maquillage;Luxe eclat;353.45;33
 P00197;Maquillage;Maison Pure;150.63;85
 P00198;Soins de la peau;Essentielle Paris;303.31;39
 P00199;Accessoires;Reflet d'or;193.27;67
-P00200;Soins capillaires;Elixir Haute Beauté;63.96;40
+P00200;Soins capillaires;Elixir Haute Beauté;63.96;40
 P00201;Parfums;Luxe eclat;460.31;73
 P00202;Maquillage;Maison Pure;85.67;28
 P00203;Soins de la peau;Essentielle Paris;476.11;57
 P00204;Soins de la peau;Reflet d'or;234.08;54
-P00205;Soins capillaires;Elixir Haute Beauté;108.86;64
+P00205;Soins capillaires;Elixir Haute Beauté;108.86;64
 P00206;Maquillage;Luxe eclat;280.11;64
 P00207;Accessoires;Maison Pure;439.01;27
 P00208;Maquillage;Essentielle Paris;371.47;72
 P00209;Soins capillaires;Reflet d'or;407.15;56
-P00210;Soins capillaires;Elixir Haute Beauté;336.22;84
+P00210;Soins capillaires;Elixir Haute Beauté;336.22;84
 P00211;Maquillage;Luxe eclat;352.29;66
 P00212;Soins capillaires;Maison Pure;427.61;54
 P00213;Maquillage;Essentielle Paris;139.84;42
 P00214;Parfums;Reflet d'or;254.92;26
-P00215;Maquillage;Elixir Haute Beauté;126.18;79
+P00215;Maquillage;Elixir Haute Beauté;126.18;79
 P00216;Maquillage;Luxe eclat;494.08;13
 P00217;Soins capillaires;Maison Pure;473.15;29
 P00218;Soins capillaires;Essentielle Paris;38.92;56
 P00219;Soins de la peau;Reflet d'or;358.68;24
-P00220;Soins de la peau;Elixir Haute Beauté;464.12;79
+P00220;Soins de la peau;Elixir Haute Beauté;464.12;79
 P00221;Parfums;Luxe eclat;106.68;56
 P00222;Soins de la peau;Maison Pure;292.61;87
 P00223;Maquillage;Essentielle Paris;459.43;84
 P00224;Soins capillaires;Reflet d'or;36.29;18
-P00225;Soins de la peau;Elixir Haute Beauté;354.76;99
+P00225;Soins de la peau;Elixir Haute Beauté;354.76;99
 P00226;Soins de la peau;Luxe eclat;162.73;25
 P00227;Parfums;Maison Pure;463.71;78
 P00228;Parfums;Essentielle Paris;486.11;70
 P00229;Maquillage;Reflet d'or;473.25;19
-P00230;Soins capillaires;Elixir Haute Beauté;247.62;59
+P00230;Soins capillaires;Elixir Haute Beauté;247.62;59
 P00231;Parfums;Luxe eclat;433.78;12
 P00232;Soins de la peau;Maison Pure;425.38;86
 P00233;Soins capillaires;Essentielle Paris;173.17;79
 P00234;Soins capillaires;Reflet d'or;417.88;90
-P00235;Soins de la peau;Elixir Haute Beauté;37.76;60
+P00235;Soins de la peau;Elixir Haute Beauté;37.76;60
 P00236;Parfums;Luxe eclat;306.21;28
 P00237;Soins de la peau;Maison Pure;130.4;51
 P00238;Soins capillaires;Essentielle Paris;77.87;44
 P00239;Accessoires;Reflet d'or;56.94;55
-P00240;Accessoires;Elixir Haute Beauté;354.22;35
+P00240;Accessoires;Elixir Haute Beauté;354.22;35
 P00241;Maquillage;Luxe eclat;183.14;78
 P00242;Soins de la peau;Maison Pure;367.89;73
 P00243;Soins de la peau;Essentielle Paris;51.37;46
 P00244;Maquillage;Reflet d'or;171.34;93
-P00245;Maquillage;Elixir Haute Beauté;278.96;58
+P00245;Maquillage;Elixir Haute Beauté;278.96;58
 P00246;Maquillage;Luxe eclat;399.55;30
 P00247;Soins capillaires;Maison Pure;173.0;83
 P00248;Soins de la peau;Essentielle Paris;320.43;73
 P00249;Soins capillaires;Reflet d'or;445.27;14
-P00250;Maquillage;Elixir Haute Beauté;315.61;79
+P00250;Maquillage;Elixir Haute Beauté;315.61;79
 P00251;Soins de la peau;Luxe eclat;131.82;99
 P00252;Soins capillaires;Maison Pure;31.71;13
 P00253;Soins capillaires;Essentielle Paris;437.65;48
 P00254;Maquillage;Reflet d'or;30.21;44
-P00255;Soins de la peau;Elixir Haute Beauté;439.86;10
+P00255;Soins de la peau;Elixir Haute Beauté;439.86;10
 P00256;Maquillage;Luxe eclat;273.89;33
 P00257;Soins de la peau;Maison Pure;470.75;66
 P00258;Accessoires;Essentielle Paris;403.42;79
 P00259;Parfums;Reflet d'or;499.01;50
-P00260;Parfums;Elixir Haute Beauté;188.34;63
+P00260;Parfums;Elixir Haute Beauté;188.34;63
 P00261;Parfums;Luxe eclat;388.25;55
 P00262;Maquillage;Maison Pure;212.93;69
 P00263;Accessoires;Essentielle Paris;250.34;69
 P00264;Soins de la peau;Reflet d'or;321.2;66
-P00265;Soins capillaires;Elixir Haute Beauté;439.37;40
+P00265;Soins capillaires;Elixir Haute Beauté;439.37;40
 P00266;Soins de la peau;Luxe eclat;492.36;93
 P00267;Soins capillaires;Maison Pure;388.77;33
 P00268;Soins de la peau;Essentielle Paris;220.53;98
 P00269;Accessoires;Reflet d'or;222.25;45
-P00270;Soins capillaires;Elixir Haute Beauté;374.04;94
+P00270;Soins capillaires;Elixir Haute Beauté;374.04;94
 P00271;Maquillage;Luxe eclat;134.61;39
 P00272;Soins de la peau;Maison Pure;73.03;33
 P00273;Soins de la peau;Essentielle Paris;190.22;39
 P00274;Soins capillaires;Reflet d'or;157.87;95
-P00275;Maquillage;Elixir Haute Beauté;162.23;16
+P00275;Maquillage;Elixir Haute Beauté;162.23;16
 P00276;Maquillage;Luxe eclat;132.13;44
 P00277;Accessoires;Maison Pure;40.2;64
 P00278;Maquillage;Essentielle Paris;28.58;23
 P00279;Maquillage;Reflet d'or;494.11;19
-P00280;Maquillage;Elixir Haute Beauté;225.33;89
+P00280;Maquillage;Elixir Haute Beauté;225.33;89
 P00281;Parfums;Luxe eclat;204.48;25
 P00282;Accessoires;Maison Pure;346.23;63
 P00283;Soins de la peau;Essentielle Paris;124.76;98
 P00284;Soins capillaires;Reflet d'or;475.98;86
-P00285;Soins de la peau;Elixir Haute Beauté;397.45;79
+P00285;Soins de la peau;Elixir Haute Beauté;397.45;79
 P00286;Accessoires;Luxe eclat;62.92;53
 P00287;Soins capillaires;Maison Pure;220.44;82
 P00288;Accessoires;Essentielle Paris;441.98;54
 P00289;Maquillage;Reflet d'or;473.47;65
-P00290;Soins capillaires;Elixir Haute Beauté;244.35;93
+P00290;Soins capillaires;Elixir Haute Beauté;244.35;93
 P00291;Maquillage;Luxe eclat;314.44;91
 P00292;Soins de la peau;Maison Pure;100.18;66
 P00293;Soins de la peau;Essentielle Paris;495.76;30
 P00294;Soins capillaires;Reflet d'or;131.2;77
-P00295;Soins capillaires;Elixir Haute Beauté;472.51;59
+P00295;Soins capillaires;Elixir Haute Beauté;472.51;59
 P00296;Accessoires;Luxe eclat;331.83;42
 P00297;Accessoires;Maison Pure;311.71;16
 P00298;Maquillage;Essentielle Paris;266.09;79
 P00299;Soins capillaires;Reflet d'or;130.72;24
-P00300;Soins de la peau;Elixir Haute Beauté;104.73;91
+P00300;Soins de la peau;Elixir Haute Beauté;104.73;91
 P00301;Accessoires;Luxe eclat;125.83;41
 P00302;Accessoires;Maison Pure;109.49;84
 P00303;Soins de la peau;Essentielle Paris;394.2;29
 P00304;Accessoires;Reflet d'or;188.06;97
-P00305;Maquillage;Elixir Haute Beauté;47.76;24
+P00305;Maquillage;Elixir Haute Beauté;47.76;24
 P00306;Soins capillaires;Luxe eclat;485.17;57
 P00307;Soins de la peau;Maison Pure;444.22;80
 P00308;Soins capillaires;Essentielle Paris;465.32;30
 P00309;Accessoires;Reflet d'or;497.56;51
-P00310;Accessoires;Elixir Haute Beauté;103.47;35
+P00310;Accessoires;Elixir Haute Beauté;103.47;35
 P00311;Soins de la peau;Luxe eclat;210.2;23
 P00312;Maquillage;Maison Pure;383.95;66
 P00313;Parfums;Essentielle Paris;354.09;46
 P00314;Soins de la peau;Reflet d'or;93.87;67
-P00315;Parfums;Elixir Haute Beauté;411.6;30
+P00315;Parfums;Elixir Haute Beauté;411.6;30
 P00316;Parfums;Luxe eclat;127.73;91
 P00317;Maquillage;Maison Pure;127.43;78
 P00318;Parfums;Essentielle Paris;277.75;12
 P00319;Parfums;Reflet d'or;304.61;96
-P00320;Maquillage;Elixir Haute Beauté;298.44;99
+P00320;Maquillage;Elixir Haute Beauté;298.44;99
 P00321;Parfums;Luxe eclat;63.91;46
 P00322;Parfums;Maison Pure;441.18;97
 P00323;Parfums;Essentielle Paris;147.49;58
 P00324;Soins de la peau;Reflet d'or;82.17;28
-P00325;Soins de la peau;Elixir Haute Beauté;446.6;98
+P00325;Soins de la peau;Elixir Haute Beauté;446.6;98
 P00326;Soins de la peau;Luxe eclat;478.71;94
 P00327;Maquillage;Maison Pure;433.82;21
 P00328;Accessoires;Essentielle Paris;408.57;70
 P00329;Parfums;Reflet d'or;334.52;50
-P00330;Parfums;Elixir Haute Beauté;284.41;42
+P00330;Parfums;Elixir Haute Beauté;284.41;42
 P00331;Maquillage;Luxe eclat;61.75;59
 P00332;Parfums;Maison Pure;216.06;77
 P00333;Soins de la peau;Essentielle Paris;198.89;80
 P00334;Accessoires;Reflet d'or;144.68;95
-P00335;Soins capillaires;Elixir Haute Beauté;367.24;42
+P00335;Soins capillaires;Elixir Haute Beauté;367.24;42
 P00336;Parfums;Luxe eclat;258.02;90
 P00337;Soins de la peau;Maison Pure;58.9;33
 P00338;Soins capillaires;Essentielle Paris;125.69;70
 P00339;Accessoires;Reflet d'or;347.96;70
-P00340;Soins capillaires;Elixir Haute Beauté;56.54;37
+P00340;Soins capillaires;Elixir Haute Beauté;56.54;37
 P00341;Soins de la peau;Luxe eclat;428.58;67
 P00342;Soins capillaires;Maison Pure;257.67;52
 P00343;Maquillage;Essentielle Paris;250.68;50
 P00344;Soins capillaires;Reflet d'or;304.36;48
-P00345;Parfums;Elixir Haute Beauté;415.85;95
+P00345;Parfums;Elixir Haute Beauté;415.85;95
 P00346;Parfums;Luxe eclat;186.95;58
 P00347;Maquillage;Maison Pure;345.45;26
 P00348;Soins de la peau;Essentielle Paris;291.55;79
 P00349;Parfums;Reflet d'or;148.17;79
-P00350;Accessoires;Elixir Haute Beauté;441.74;74
+P00350;Accessoires;Elixir Haute Beauté;441.74;74
 P00351;Parfums;Luxe eclat;402.76;83
 P00352;Parfums;Maison Pure;336.06;94
 P00353;Soins de la peau;Essentielle Paris;428.28;14
 P00354;Soins capillaires;Reflet d'or;436.3;11
-P00355;Parfums;Elixir Haute Beauté;360.01;31
+P00355;Parfums;Elixir Haute Beauté;360.01;31
 P00356;Maquillage;Luxe eclat;421.77;66
 P00357;Soins capillaires;Maison Pure;354.79;75
 P00358;Accessoires;Essentielle Paris;346.47;83
 P00359;Soins de la peau;Reflet d'or;316.93;25
-P00360;Accessoires;Elixir Haute Beauté;381.3;60
+P00360;Accessoires;Elixir Haute Beauté;381.3;60
 P00361;Soins capillaires;Luxe eclat;96.13;48
 P00362;Soins capillaires;Maison Pure;442.82;95
 P00363;Soins capillaires;Essentielle Paris;438.48;85
 P00364;Accessoires;Reflet d'or;34.04;97
-P00365;Soins capillaires;Elixir Haute Beauté;416.39;49
+P00365;Soins capillaires;Elixir Haute Beauté;416.39;49
 P00366;Accessoires;Luxe eclat;81.86;47
 P00367;Soins capillaires;Maison Pure;180.86;69
 P00368;Maquillage;Essentielle Paris;376.88;68
 P00369;Soins capillaires;Reflet d'or;97.16;19
-P00370;Accessoires;Elixir Haute Beauté;412.62;73
+P00370;Accessoires;Elixir Haute Beauté;412.62;73
 P00371;Parfums;Luxe eclat;419.42;72
 P00372;Soins capillaires;Maison Pure;263.58;58
 P00373;Parfums;Essentielle Paris;23.07;73
 P00374;Maquillage;Reflet d'or;157.78;41
-P00375;Soins de la peau;Elixir Haute Beauté;316.12;16
+P00375;Soins de la peau;Elixir Haute Beauté;316.12;16
 P00376;Maquillage;Luxe eclat;490.97;30
 P00377;Soins capillaires;Maison Pure;323.27;29
 P00378;Parfums;Essentielle Paris;144.71;35
 P00379;Parfums;Reflet d'or;324.32;77
-P00380;Accessoires;Elixir Haute Beauté;279.19;95
+P00380;Accessoires;Elixir Haute Beauté;279.19;95
 P00381;Parfums;Luxe eclat;394.33;24
 P00382;Accessoires;Maison Pure;71.35;94
 P00383;Soins de la peau;Essentielle Paris;385.29;88
 P00384;Soins capillaires;Reflet d'or;279.81;95
-P00385;Accessoires;Elixir Haute Beauté;482.24;23
+P00385;Accessoires;Elixir Haute Beauté;482.24;23
 P00386;Soins de la peau;Luxe eclat;184.1;36
 P00387;Parfums;Maison Pure;323.66;49
 P00388;Parfums;Essentielle Paris;467.37;67
 P00389;Soins de la peau;Reflet d'or;69.2;37
-P00390;Parfums;Elixir Haute Beauté;469.87;35
+P00390;Parfums;Elixir Haute Beauté;469.87;35
 P00391;Soins de la peau;Luxe eclat;350.19;72
 P00392;Accessoires;Maison Pure;52.56;75
 P00393;Accessoires;Essentielle Paris;164.46;34
 P00394;Soins de la peau;Reflet d'or;359.92;12
-P00395;Accessoires;Elixir Haute Beauté;52.33;81
+P00395;Accessoires;Elixir Haute Beauté;52.33;81
 P00396;Accessoires;Luxe eclat;299.44;53
 P00397;Accessoires;Maison Pure;186.02;51
 P00398;Maquillage;Essentielle Paris;318.04;15
 P00399;Soins capillaires;Reflet d'or;41.96;48
-P00400;Parfums;Elixir Haute Beauté;438.34;61
+P00400;Parfums;Elixir Haute Beauté;438.34;61
 P00401;Maquillage;Luxe eclat;487.27;32
 P00402;Accessoires;Maison Pure;485.06;98
 P00403;Soins de la peau;Essentielle Paris;379.83;59
 P00404;Accessoires;Reflet d'or;82.44;52
-P00405;Soins capillaires;Elixir Haute Beauté;383.97;28
+P00405;Soins capillaires;Elixir Haute Beauté;383.97;28
 P00406;Accessoires;Luxe eclat;31.8;78
 P00407;Soins de la peau;Maison Pure;30.62;60
 P00408;Soins capillaires;Essentielle Paris;175.33;20
 P00409;Accessoires;Reflet d'or;254.55;21
-P00410;Soins capillaires;Elixir Haute Beauté;389.8;83
+P00410;Soins capillaires;Elixir Haute Beauté;389.8;83
 P00411;Parfums;Luxe eclat;347.98;17
 P00412;Parfums;Maison Pure;234.03;33
 P00413;Accessoires;Essentielle Paris;151.34;50
 P00414;Soins capillaires;Reflet d'or;498.62;45
-P00415;Soins de la peau;Elixir Haute Beauté;224.57;94
+P00415;Soins de la peau;Elixir Haute Beauté;224.57;94
 P00416;Accessoires;Luxe eclat;236.67;81
 P00417;Parfums;Maison Pure;98.54;64
 P00418;Parfums;Essentielle Paris;401.51;18
 P00419;Accessoires;Reflet d'or;352.97;56
-P00420;Soins capillaires;Elixir Haute Beauté;125.97;24
+P00420;Soins capillaires;Elixir Haute Beauté;125.97;24
 P00421;Parfums;Luxe eclat;59.54;57
 P00422;Soins capillaires;Maison Pure;346.64;91
 P00423;Parfums;Essentielle Paris;334.17;51
 P00424;Parfums;Reflet d'or;151.16;69
-P00425;Maquillage;Elixir Haute Beauté;476.41;93
+P00425;Maquillage;Elixir Haute Beauté;476.41;93
 P00426;Parfums;Luxe eclat;92.51;79
 P00427;Soins de la peau;Maison Pure;227.52;21
 P00428;Accessoires;Essentielle Paris;472.94;11
 P00429;Accessoires;Reflet d'or;221.47;16
-P00430;Soins capillaires;Elixir Haute Beauté;326.49;89
+P00430;Soins capillaires;Elixir Haute Beauté;326.49;89
 P00431;Parfums;Luxe eclat;210.85;12
 P00432;Soins de la peau;Maison Pure;151.62;12
 P00433;Soins capillaires;Essentielle Paris;492.31;36
 P00434;Maquillage;Reflet d'or;216.48;49
-P00435;Soins capillaires;Elixir Haute Beauté;449.17;42
+P00435;Soins capillaires;Elixir Haute Beauté;449.17;42
 P00436;Soins capillaires;Luxe eclat;130.38;10
 P00437;Parfums;Maison Pure;122.29;17
 P00438;Maquillage;Essentielle Paris;34.94;41
 P00439;Soins capillaires;Reflet d'or;332.8;57
-P00440;Soins de la peau;Elixir Haute Beauté;196.89;13
+P00440;Soins de la peau;Elixir Haute Beauté;196.89;13
 P00441;Soins de la peau;Luxe eclat;434.89;79
 P00442;Accessoires;Maison Pure;247.14;28
 P00443;Maquillage;Essentielle Paris;484.73;41
 P00444;Maquillage;Reflet d'or;109.05;18
-P00445;Accessoires;Elixir Haute Beauté;436.94;21
+P00445;Accessoires;Elixir Haute Beauté;436.94;21
 P00446;Soins capillaires;Luxe eclat;392.77;20
 P00447;Maquillage;Maison Pure;390.04;55
 P00448;Soins de la peau;Essentielle Paris;425.5;25
 P00449;Soins de la peau;Reflet d'or;385.29;10
-P00450;Parfums;Elixir Haute Beauté;320.59;72
+P00450;Parfums;Elixir Haute Beauté;320.59;72
 P00451;Maquillage;Luxe eclat;83.0;30
 P00452;Soins capillaires;Maison Pure;35.61;39
 P00453;Accessoires;Essentielle Paris;462.01;22
 P00454;Accessoires;Reflet d'or;315.99;43
-P00455;Soins capillaires;Elixir Haute Beauté;402.34;13
+P00455;Soins capillaires;Elixir Haute Beauté;402.34;13
 P00456;Parfums;Luxe eclat;251.13;37
 P00457;Accessoires;Maison Pure;76.31;68
 P00458;Maquillage;Essentielle Paris;80.09;36
 P00459;Parfums;Reflet d'or;349.07;78
-P00460;Maquillage;Elixir Haute Beauté;226.55;34
+P00460;Maquillage;Elixir Haute Beauté;226.55;34
 P00461;Soins de la peau;Luxe eclat;116.25;12
 P00462;Parfums;Maison Pure;255.97;77
 P00463;Accessoires;Essentielle Paris;50.82;34
 P00464;Parfums;Reflet d'or;299.35;29
-P00465;Parfums;Elixir Haute Beauté;149.12;43
+P00465;Parfums;Elixir Haute Beauté;149.12;43
 P00466;Parfums;Luxe eclat;402.83;35
 P00467;Parfums;Maison Pure;168.97;14
 P00468;Maquillage;Essentielle Paris;238.51;70
 P00469;Soins de la peau;Reflet d'or;25.58;18
-P00470;Soins capillaires;Elixir Haute Beauté;54.77;59
+P00470;Soins capillaires;Elixir Haute Beauté;54.77;59
 P00471;Parfums;Luxe eclat;208.4;15
 P00472;Accessoires;Maison Pure;250.37;92
 P00473;Parfums;Essentielle Paris;308.01;69
 P00474;Accessoires;Reflet d'or;160.0;53
-P00475;Maquillage;Elixir Haute Beauté;353.59;20
+P00475;Maquillage;Elixir Haute Beauté;353.59;20
 P00476;Accessoires;Luxe eclat;432.86;75
 P00477;Soins capillaires;Maison Pure;394.33;56
 P00478;Soins de la peau;Essentielle Paris;39.02;82
 P00479;Accessoires;Reflet d'or;250.64;94
-P00480;Accessoires;Elixir Haute Beauté;70.37;97
+P00480;Accessoires;Elixir Haute Beauté;70.37;97
 P00481;Soins de la peau;Luxe eclat;136.18;95
 P00482;Soins capillaires;Maison Pure;493.6;12
 P00483;Parfums;Essentielle Paris;88.4;85
 P00484;Accessoires;Reflet d'or;259.47;39
-P00485;Soins de la peau;Elixir Haute Beauté;316.71;99
+P00485;Soins de la peau;Elixir Haute Beauté;316.71;99
 P00486;Maquillage;Luxe eclat;357.18;30
 P00487;Soins de la peau;Maison Pure;288.63;37
 P00488;Maquillage;Essentielle Paris;24.69;99
 P00489;Soins capillaires;Reflet d'or;176.7;71
-P00490;Parfums;Elixir Haute Beauté;268.5;42
+P00490;Parfums;Elixir Haute Beauté;268.5;42
 P00491;Soins de la peau;Luxe eclat;62.18;94
 P00492;Accessoires;Maison Pure;188.3;44
 P00493;Soins capillaires;Essentielle Paris;35.94;61
 P00494;Soins de la peau;Reflet d'or;57.72;43
-P00495;Accessoires;Elixir Haute Beauté;210.52;50
+P00495;Accessoires;Elixir Haute Beauté;210.52;50
 P00496;Soins de la peau;Luxe eclat;83.7;60
 P00497;Maquillage;Maison Pure;292.42;56
 P00498;Soins de la peau;Essentielle Paris;350.94;91
 P00499;Soins de la peau;Reflet d'or;404.28;67
-P00500;Soins de la peau;Elixir Haute Beauté;116.07;84
+P00500;Soins de la peau;Elixir Haute Beauté;116.07;84
 P00501;Soins capillaires;Clarté Botanique;100.39;66
 P00502;Soins de la peau;Atelier Minéral;70.19;32
 P00503;Accessoires;Silhouette Paris;325.49;57

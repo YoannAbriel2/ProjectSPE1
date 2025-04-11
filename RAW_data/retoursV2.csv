@@ -1,4 +1,4 @@
-﻿id_commande;id_produit;date_retour;motif
+id_commande;id_produit;date_retour;motif
 O026807;P00184;2024-09-12;Client insatisfait
 O008302;P00063;2024-12-15;Livraison incomplète
 O045235;P00158;2024-04-12;Livraison incomplète
