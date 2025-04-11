@@ -1,4 +1,4 @@
-id_achat;date_achat;id_produit;quantité;id_fournisseur;prix_unitaire;délai_livraison_jours
+id_achat;date_achat;id_produit;quantite;id_fournisseur;prix_unitaire;delai_livraison_jours
 PO000001;22/03/2024;P00627;22;S035;129.62;14
 PO000002;12/06/2024;P00469;51;S018;110.81;8
 PO000003;19/01/2024;P00849;16;S046;140.58;8

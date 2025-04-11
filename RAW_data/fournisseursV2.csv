@@ -1,4 +1,4 @@
-﻿id_fournisseur;nom_fournisseur;ville;pays;fiabilité;délai_moyen_jours
+id_fournisseur;nom_fournisseur;ville;pays;fiabilité;délai_moyen_jours
 S001;Lecomte et Fils;Zurich;Suisse;0.84;10
 S002;Morvan;Paris;France;0.86;9
 S003;Germain et Fils;Amsterdam;Pays-Bas;0.85;10
