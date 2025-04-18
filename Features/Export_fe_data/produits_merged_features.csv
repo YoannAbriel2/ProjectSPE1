@@ -1,0 +1,1707 @@
+id_produit,catégorie,marque,prix,stock_minimum,date,entrepot,niveau_stock,stock_gap,month
+P00001,Soins capillaires,Luxe eclat,467.42,52,2024-06-01,Lyon,88,36,6
+P00001,Soins capillaires,Luxe eclat,467.42,52,2024-04-22,Paris,141,89,4
+P00002,Accessoires,Maison Pure,291.26,10,2024-09-25,Lyon,286,276,9
+P00003,Maquillage,Essentielle Paris,354.39,60,2024-02-18,Paris,177,117,2
+P00003,Maquillage,Essentielle Paris,354.39,60,2024-07-13,Lyon,95,35,7
+P00004,Accessoires,Reflet d'or,462.8,33,2024-08-06,Paris,57,24,8
+P00004,Accessoires,Reflet d'or,462.8,33,2024-06-30,Lyon,24,-9,6
+P00005,Accessoires,Elixir Haute Beauté,359.47,33,2024-10-05,Paris,65,32,10
+P00006,Parfums,Luxe eclat,93.22,26,2024-09-03,Paris,215,189,9
+P00006,Parfums,Luxe eclat,93.22,26,2024-09-14,Lyon,182,156,9
+P00007,Maquillage,Maison Pure,296.62,14,2024-10-02,Paris,200,186,10
+P00007,Maquillage,Maison Pure,296.62,14,2024-12-15,Lyon,165,151,12
+P00008,Maquillage,Essentielle Paris,311.22,29,2024-09-15,Paris,296,267,9
+P00009,Maquillage,Reflet d'or,223.58,30,2024-09-13,Paris,88,58,9
+P00009,Maquillage,Reflet d'or,223.58,30,2024-07-06,Marseille,227,197,7
+P00010,Accessoires,Elixir Haute Beauté,373.49,67,2024-11-29,Paris,108,41,11
+P00011,Soins capillaires,Luxe eclat,468.5,40,2024-03-07,Paris,85,45,3
+P00012,Maquillage,Maison Pure,464.27,20,2024-04-04,Paris,31,11,4
+P00012,Maquillage,Maison Pure,464.27,20,2024-11-01,Lyon,98,78,11
+P00013,Accessoires,Essentielle Paris,236.4,61,2024-05-06,Lyon,219,158,5
+P00014,Parfums,Reflet d'or,74.35,24,2024-03-15,Paris,100,76,3
+P00014,Parfums,Reflet d'or,74.35,24,2024-02-14,Lyon,262,238,2
+P00015,Soins capillaires,Elixir Haute Beauté,492.72,92,2024-04-25,Paris,261,169,4
+P00015,Soins capillaires,Elixir Haute Beauté,492.72,92,2024-03-22,Lyon,165,73,3
+P00016,Parfums,Luxe eclat,422.67,16,2024-11-21,Lyon,239,223,11
+P00016,Parfums,Luxe eclat,422.67,16,2024-02-06,Marseille,278,262,2
+P00017,Soins capillaires,Maison Pure,79.84,37,2024-12-03,Lyon,22,-15,12
+P00018,Accessoires,Essentielle Paris,462.0,60,2024-06-28,Paris,93,33,6
+P00018,Accessoires,Essentielle Paris,462.0,60,2024-02-16,Lyon,274,214,2
+P00019,Soins de la peau,Reflet d'or,437.55,67,2024-12-19,Lyon,74,7,12
+P00020,Soins capillaires,Elixir Haute Beauté,269.04,14,2024-03-19,Marseille,297,283,3
+P00021,Parfums,Luxe eclat,303.81,14,2024-01-03,Marseille,176,162,1
+P00021,Parfums,Luxe eclat,303.81,14,2024-07-19,Lyon,264,250,7
+P00022,Accessoires,Maison Pure,211.52,17,2024-01-20,Paris,142,125,1
+P00023,Soins capillaires,Essentielle Paris,46.29,73,2024-06-02,Lyon,298,225,6
+P00023,Soins capillaires,Essentielle Paris,46.29,73,2024-03-13,Marseille,256,183,3
+P00024,Soins de la peau,Reflet d'or,180.89,19,2024-04-28,Paris,113,94,4
+P00024,Soins de la peau,Reflet d'or,180.89,19,2024-09-23,Lyon,266,247,9
+P00025,Soins de la peau,Elixir Haute Beauté,405.37,47,2024-06-11,Paris,78,31,6
+P00026,Maquillage,Luxe eclat,22.22,90,2024-03-20,Lyon,74,-16,3
+P00026,Maquillage,Luxe eclat,22.22,90,2024-04-27,Paris,194,104,4
+P00027,Maquillage,Maison Pure,180.08,17,2024-02-26,Lyon,256,239,2
+P00027,Maquillage,Maison Pure,180.08,17,2024-09-27,Paris,236,219,9
+P00028,Parfums,Essentielle Paris,211.12,34,2024-03-27,Marseille,142,108,3
+P00029,Soins capillaires,Reflet d'or,277.95,82,2024-02-11,Marseille,284,202,2
+P00029,Soins capillaires,Reflet d'or,277.95,82,2024-09-15,Paris,268,186,9
+P00030,Soins capillaires,Elixir Haute Beauté,461.53,75,2024-04-03,Paris,232,157,4
+P00030,Soins capillaires,Elixir Haute Beauté,461.53,75,2024-06-26,Marseille,149,74,6
+P00031,Maquillage,Luxe eclat,186.25,88,2024-07-22,Lyon,30,-58,7
+P00032,Soins capillaires,Maison Pure,186.54,59,2024-07-24,Lyon,57,-2,7
+P00032,Soins capillaires,Maison Pure,186.54,59,2024-12-06,Paris,296,237,12
+P00033,Soins capillaires,Essentielle Paris,374.0,76,2024-11-04,Paris,126,50,11
+P00034,Soins de la peau,Reflet d'or,237.06,58,2024-06-03,Paris,161,103,6
+P00034,Soins de la peau,Reflet d'or,237.06,58,2024-06-17,Lyon,88,30,6
+P00035,Maquillage,Elixir Haute Beauté,127.81,45,2024-06-20,Lyon,187,142,6
+P00035,Maquillage,Elixir Haute Beauté,127.81,45,2024-04-12,Paris,205,160,4
+P00036,Accessoires,Luxe eclat,237.17,77,2024-11-02,Paris,167,90,11
+P00036,Accessoires,Luxe eclat,237.17,77,2024-01-04,Lyon,216,139,1
+P00037,Maquillage,Maison Pure,87.61,87,2024-07-10,Paris,222,135,7
+P00037,Maquillage,Maison Pure,87.61,87,2024-12-06,Marseille,75,-12,12
+P00038,Accessoires,Essentielle Paris,104.67,50,2024-02-17,Paris,131,81,2
+P00039,Soins de la peau,Reflet d'or,259.22,98,2024-04-11,Paris,298,200,4
+P00039,Soins de la peau,Reflet d'or,259.22,98,2024-05-27,Lyon,11,-87,5
+P00040,Parfums,Elixir Haute Beauté,221.08,71,2024-03-20,Paris,161,90,3
+P00040,Parfums,Elixir Haute Beauté,221.08,71,2024-08-29,Lyon,216,145,8
+P00041,Soins capillaires,Luxe eclat,459.13,19,2024-02-11,Paris,239,220,2
+P00042,Soins de la peau,Maison Pure,193.95,30,2024-07-25,Paris,263,233,7
+P00042,Soins de la peau,Maison Pure,193.95,30,2024-01-25,Lyon,62,32,1
+P00043,Soins capillaires,Essentielle Paris,298.68,45,2024-06-22,Lyon,2,-43,6
+P00043,Soins capillaires,Essentielle Paris,298.68,45,2024-11-11,Marseille,274,229,11
+P00044,Parfums,Reflet d'or,323.49,21,2024-05-19,Lyon,230,209,5
+P00044,Parfums,Reflet d'or,323.49,21,2024-02-20,Paris,182,161,2
+P00045,Parfums,Elixir Haute Beauté,26.29,11,2024-06-14,Paris,117,106,6
+P00046,Soins de la peau,Luxe eclat,338.5,22,2024-11-16,Paris,11,-11,11
+P00047,Parfums,Maison Pure,105.46,62,2024-06-17,Lyon,41,-21,6
+P00047,Parfums,Maison Pure,105.46,62,2024-06-13,Paris,289,227,6
+P00048,Accessoires,Essentielle Paris,481.31,41,2024-05-29,Paris,233,192,5
+P00048,Accessoires,Essentielle Paris,481.31,41,2024-06-02,Lyon,90,49,6
+P00049,Parfums,Reflet d'or,91.36,25,2024-09-23,Paris,128,103,9
+P00050,Soins capillaires,Elixir Haute Beauté,219.02,41,2024-07-26,Lyon,26,-15,7
+P00051,Soins capillaires,Luxe eclat,60.97,41,2024-08-22,Marseille,4,-37,8
+P00051,Soins capillaires,Luxe eclat,60.97,41,2024-03-19,Paris,91,50,3
+P00052,Soins capillaires,Maison Pure,498.5,20,2024-06-10,Lyon,177,157,6
+P00052,Soins capillaires,Maison Pure,498.5,20,2024-07-19,Paris,104,84,7
+P00053,Soins capillaires,Essentielle Paris,261.05,19,2024-10-12,Paris,216,197,10
+P00054,Accessoires,Reflet d'or,305.78,24,2024-05-25,Lyon,76,52,5
+P00054,Accessoires,Reflet d'or,305.78,24,2024-07-13,Paris,213,189,7
+P00055,Maquillage,Elixir Haute Beauté,52.2,26,2024-03-28,Lyon,94,68,3
+P00056,Soins de la peau,Luxe eclat,379.98,49,2024-12-30,Lyon,267,218,12
+P00056,Soins de la peau,Luxe eclat,379.98,49,2024-09-01,Paris,101,52,9
+P00057,Soins capillaires,Maison Pure,120.75,27,2024-08-16,Lyon,140,113,8
+P00057,Soins capillaires,Maison Pure,120.75,27,2024-07-25,Paris,42,15,7
+P00058,Parfums,Essentielle Paris,451.07,64,2024-05-16,Marseille,151,87,5
+P00058,Parfums,Essentielle Paris,451.07,64,2024-12-26,Lyon,172,108,12
+P00059,Soins capillaires,Reflet d'or,118.47,82,2024-07-04,Paris,35,-47,7
+P00059,Soins capillaires,Reflet d'or,118.47,82,2024-05-06,Marseille,298,216,5
+P00060,Parfums,Elixir Haute Beauté,111.53,34,2024-02-08,Lyon,2,-32,2
+P00061,Parfums,Luxe eclat,37.54,68,2024-09-08,Paris,281,213,9
+P00061,Parfums,Luxe eclat,37.54,68,2024-07-06,Lyon,242,174,7
+P00061,Parfums,Luxe eclat,37.54,68,2024-12-04,Marseille,219,151,12
+P00062,Soins capillaires,Maison Pure,246.59,87,2024-03-30,Lyon,286,199,3
+P00062,Soins capillaires,Maison Pure,246.59,87,2024-04-11,Paris,251,164,4
+P00063,Accessoires,Essentielle Paris,291.12,98,2024-06-11,Lyon,96,-2,6
+P00063,Accessoires,Essentielle Paris,291.12,98,2024-01-01,Paris,157,59,1
+P00064,Parfums,Reflet d'or,51.54,31,2024-03-28,Paris,201,170,3
+P00064,Parfums,Reflet d'or,51.54,31,2024-04-15,Marseille,243,212,4
+P00064,Parfums,Reflet d'or,51.54,31,2024-11-14,Lyon,218,187,11
+P00065,Parfums,Elixir Haute Beauté,392.25,39,2024-06-23,Marseille,120,81,6
+P00065,Parfums,Elixir Haute Beauté,392.25,39,2024-08-01,Paris,220,181,8
+P00066,Soins capillaires,Luxe eclat,237.58,93,2024-10-02,Paris,76,-17,10
+P00067,Parfums,Maison Pure,271.71,94,2024-07-06,Paris,142,48,7
+P00067,Parfums,Maison Pure,271.71,94,2024-05-04,Marseille,276,182,5
+P00068,Parfums,Essentielle Paris,231.57,53,2024-10-15,Paris,272,219,10
+P00068,Parfums,Essentielle Paris,231.57,53,2024-02-29,Marseille,55,2,2
+P00069,Soins capillaires,Reflet d'or,212.37,41,2024-03-05,Lyon,161,120,3
+P00069,Soins capillaires,Reflet d'or,212.37,41,2024-03-21,Paris,158,117,3
+P00070,Soins capillaires,Elixir Haute Beauté,288.63,60,2024-12-11,Paris,198,138,12
+P00070,Soins capillaires,Elixir Haute Beauté,288.63,60,2024-03-11,Lyon,259,199,3
+P00071,Soins de la peau,Luxe eclat,94.52,55,2024-09-24,Lyon,81,26,9
+P00071,Soins de la peau,Luxe eclat,94.52,55,2024-01-19,Paris,130,75,1
+P00072,Accessoires,Maison Pure,107.33,30,2024-12-06,Paris,199,169,12
+P00072,Accessoires,Maison Pure,107.33,30,2024-01-21,Marseille,229,199,1
+P00073,Accessoires,Essentielle Paris,433.66,41,2024-12-09,Paris,161,120,12
+P00074,Parfums,Reflet d'or,474.14,48,2024-06-09,Paris,72,24,6
+P00075,Accessoires,Elixir Haute Beauté,199.19,21,2024-12-11,Lyon,4,-17,12
+P00075,Accessoires,Elixir Haute Beauté,199.19,21,2024-11-24,Paris,18,-3,11
+P00076,Parfums,Luxe eclat,149.96,56,2024-11-03,Lyon,165,109,11
+P00076,Parfums,Luxe eclat,149.96,56,2024-06-17,Paris,61,5,6
+P00077,Soins de la peau,Maison Pure,329.12,27,2024-10-30,Paris,121,94,10
+P00078,Soins capillaires,Essentielle Paris,216.19,30,2024-12-05,Marseille,284,254,12
+P00078,Soins capillaires,Essentielle Paris,216.19,30,2024-10-23,Lyon,265,235,10
+P00079,Soins capillaires,Reflet d'or,32.19,22,2024-04-01,Paris,12,-10,4
+P00080,Soins capillaires,Elixir Haute Beauté,94.95,30,2024-04-27,Paris,298,268,4
+P00081,Accessoires,Luxe eclat,363.67,17,2024-09-14,Marseille,65,48,9
+P00081,Accessoires,Luxe eclat,363.67,17,2024-12-19,Lyon,221,204,12
+P00082,Soins de la peau,Maison Pure,336.28,55,2024-03-23,Paris,276,221,3
+P00082,Soins de la peau,Maison Pure,336.28,55,2024-05-21,Lyon,181,126,5
+P00083,Accessoires,Essentielle Paris,33.01,16,2024-07-02,Lyon,155,139,7
+P00084,Accessoires,Reflet d'or,126.55,32,2024-10-03,Lyon,231,199,10
+P00084,Accessoires,Reflet d'or,126.55,32,2024-07-16,Marseille,79,47,7
+P00085,Soins de la peau,Elixir Haute Beauté,130.92,84,2024-06-30,Paris,112,28,6
+P00085,Soins de la peau,Elixir Haute Beauté,130.92,84,2024-09-12,Lyon,15,-69,9
+P00086,Soins de la peau,Luxe eclat,342.51,95,2024-12-27,Paris,80,-15,12
+P00087,Soins de la peau,Maison Pure,29.46,31,2024-12-15,Paris,286,255,12
+P00088,Soins de la peau,Essentielle Paris,69.97,98,2024-10-09,Lyon,258,160,10
+P00088,Soins de la peau,Essentielle Paris,69.97,98,2024-06-28,Paris,83,-15,6
+P00089,Soins capillaires,Reflet d'or,403.96,31,2024-01-03,Lyon,163,132,1
+P00089,Soins capillaires,Reflet d'or,403.96,31,2024-08-10,Paris,51,20,8
+P00090,Maquillage,Elixir Haute Beauté,105.7,38,2024-04-17,Lyon,283,245,4
+P00090,Maquillage,Elixir Haute Beauté,105.7,38,2024-06-27,Marseille,124,86,6
+P00091,Maquillage,Luxe eclat,333.32,22,2024-09-02,Lyon,141,119,9
+P00091,Maquillage,Luxe eclat,333.32,22,2024-08-25,Paris,241,219,8
+P00092,Soins de la peau,Maison Pure,134.33,91,2024-04-30,Paris,156,65,4
+P00092,Soins de la peau,Maison Pure,134.33,91,2024-08-29,Lyon,207,116,8
+P00093,Maquillage,Essentielle Paris,67.73,11,2024-06-12,Lyon,80,69,6
+P00093,Maquillage,Essentielle Paris,67.73,11,2024-02-28,Paris,199,188,2
+P00094,Maquillage,Reflet d'or,136.72,38,2024-05-16,Paris,23,-15,5
+P00095,Soins de la peau,Elixir Haute Beauté,366.69,94,2024-08-20,Lyon,261,167,8
+P00095,Soins de la peau,Elixir Haute Beauté,366.69,94,2024-02-29,Paris,63,-31,2
+P00096,Maquillage,Luxe eclat,430.73,88,2024-02-28,Lyon,68,-20,2
+P00096,Maquillage,Luxe eclat,430.73,88,2024-05-03,Paris,61,-27,5
+P00097,Accessoires,Maison Pure,418.51,61,2024-08-30,Marseille,48,-13,8
+P00098,Parfums,Essentielle Paris,210.65,36,2024-05-18,Paris,11,-25,5
+P00099,Parfums,Reflet d'or,340.68,59,2024-09-26,Paris,229,170,9
+P00099,Parfums,Reflet d'or,340.68,59,2024-02-18,Lyon,74,15,2
+P00100,Soins de la peau,Elixir Haute Beauté,118.39,88,2024-10-16,Marseille,15,-73,10
+P00101,Soins capillaires,Luxe eclat,160.71,32,2024-08-14,Paris,83,51,8
+P00101,Soins capillaires,Luxe eclat,160.71,32,2024-07-17,Lyon,76,44,7
+P00102,Soins de la peau,Maison Pure,450.24,97,2024-01-04,Marseille,84,-13,1
+P00102,Soins de la peau,Maison Pure,450.24,97,2024-03-22,Paris,176,79,3
+P00103,Soins capillaires,Essentielle Paris,26.24,53,2024-05-28,Paris,189,136,5
+P00103,Soins capillaires,Essentielle Paris,26.24,53,2024-06-08,Lyon,17,-36,6
+P00104,Parfums,Reflet d'or,61.04,86,2024-04-25,Paris,212,126,4
+P00105,Soins de la peau,Elixir Haute Beauté,119.79,31,2024-12-07,Lyon,133,102,12
+P00105,Soins de la peau,Elixir Haute Beauté,119.79,31,2024-10-18,Paris,42,11,10
+P00106,Accessoires,Luxe eclat,32.74,52,2024-07-02,Marseille,92,40,7
+P00106,Accessoires,Luxe eclat,32.74,52,2024-04-29,Paris,116,64,4
+P00107,Maquillage,Maison Pure,107.09,46,2024-02-27,Paris,257,211,2
+P00107,Maquillage,Maison Pure,107.09,46,2024-07-21,Lyon,47,1,7
+P00108,Soins capillaires,Essentielle Paris,299.86,70,2024-03-19,Lyon,136,66,3
+P00108,Soins capillaires,Essentielle Paris,299.86,70,2024-03-21,Marseille,92,22,3
+P00109,Maquillage,Reflet d'or,222.28,65,2024-11-01,Paris,13,-52,11
+P00109,Maquillage,Reflet d'or,222.28,65,2024-08-08,Marseille,272,207,8
+P00110,Maquillage,Elixir Haute Beauté,448.48,12,2024-03-24,Paris,192,180,3
+P00110,Maquillage,Elixir Haute Beauté,448.48,12,2024-09-10,Marseille,267,255,9
+P00111,Soins de la peau,Luxe eclat,412.37,72,2024-03-04,Paris,250,178,3
+P00111,Soins de la peau,Luxe eclat,412.37,72,2024-12-28,Lyon,16,-56,12
+P00112,Maquillage,Maison Pure,184.07,28,2024-10-07,Marseille,47,19,10
+P00112,Maquillage,Maison Pure,184.07,28,2024-06-16,Paris,179,151,6
+P00113,Accessoires,Essentielle Paris,144.52,32,2024-12-01,Marseille,92,60,12
+P00113,Accessoires,Essentielle Paris,144.52,32,2024-05-23,Paris,130,98,5
+P00114,Maquillage,Reflet d'or,202.25,38,2024-03-04,Marseille,276,238,3
+P00114,Maquillage,Reflet d'or,202.25,38,2024-10-13,Paris,51,13,10
+P00115,Soins de la peau,Elixir Haute Beauté,303.34,39,2024-04-27,Paris,296,257,4
+P00115,Soins de la peau,Elixir Haute Beauté,303.34,39,2024-02-20,Lyon,129,90,2
+P00116,Accessoires,Luxe eclat,148.67,48,2024-02-22,Lyon,87,39,2
+P00117,Parfums,Maison Pure,319.59,34,2024-07-31,Lyon,27,-7,7
+P00118,Maquillage,Essentielle Paris,216.52,17,2024-06-14,Lyon,264,247,6
+P00118,Maquillage,Essentielle Paris,216.52,17,2024-01-16,Paris,121,104,1
+P00119,Soins de la peau,Reflet d'or,284.98,67,2024-10-10,Paris,265,198,10
+P00120,Parfums,Elixir Haute Beauté,229.34,25,2024-09-07,Lyon,287,262,9
+P00120,Parfums,Elixir Haute Beauté,229.34,25,2024-10-15,Marseille,5,-20,10
+P00121,Parfums,Luxe eclat,161.34,81,2024-04-29,Paris,78,-3,4
+P00121,Parfums,Luxe eclat,161.34,81,2024-02-05,Marseille,107,26,2
+P00122,Soins capillaires,Maison Pure,475.26,10,2024-06-01,Marseille,232,222,6
+P00122,Soins capillaires,Maison Pure,475.26,10,2024-09-30,Lyon,275,265,9
+P00123,Accessoires,Essentielle Paris,386.53,14,2024-07-17,Paris,126,112,7
+P00123,Accessoires,Essentielle Paris,386.53,14,2024-12-31,Lyon,49,35,12
+P00124,Maquillage,Reflet d'or,87.25,12,2024-08-31,Paris,96,84,8
+P00124,Maquillage,Reflet d'or,87.25,12,2024-09-13,Lyon,106,94,9
+P00125,Soins de la peau,Elixir Haute Beauté,436.86,74,2024-06-25,Paris,155,81,6
+P00125,Soins de la peau,Elixir Haute Beauté,436.86,74,2024-01-30,Marseille,32,-42,1
+P00126,Soins capillaires,Luxe eclat,253.97,13,2024-04-25,Paris,179,166,4
+P00126,Soins capillaires,Luxe eclat,253.97,13,2024-05-12,Lyon,61,48,5
+P00127,Accessoires,Maison Pure,449.39,73,2024-03-28,Paris,297,224,3
+P00127,Accessoires,Maison Pure,449.39,73,2024-04-27,Lyon,279,206,4
+P00128,Soins capillaires,Essentielle Paris,403.93,98,2024-08-02,Marseille,267,169,8
+P00128,Soins capillaires,Essentielle Paris,403.93,98,2024-10-15,Lyon,285,187,10
+P00129,Accessoires,Reflet d'or,224.1,19,2024-09-21,Marseille,114,95,9
+P00129,Accessoires,Reflet d'or,224.1,19,2024-08-28,Paris,211,192,8
+P00129,Accessoires,Reflet d'or,224.1,19,2024-03-19,Lyon,212,193,3
+P00130,Accessoires,Elixir Haute Beauté,30.79,30,2024-03-16,Marseille,95,65,3
+P00130,Accessoires,Elixir Haute Beauté,30.79,30,2024-11-03,Lyon,214,184,11
+P00131,Maquillage,Luxe eclat,148.97,55,2024-11-25,Lyon,92,37,11
+P00131,Maquillage,Luxe eclat,148.97,55,2024-08-27,Marseille,38,-17,8
+P00132,Accessoires,Maison Pure,279.98,36,2024-10-07,Paris,201,165,10
+P00133,Soins capillaires,Essentielle Paris,324.07,75,2024-12-22,Paris,273,198,12
+P00133,Soins capillaires,Essentielle Paris,324.07,75,2024-08-22,Lyon,264,189,8
+P00134,Accessoires,Reflet d'or,143.79,50,2024-08-27,Paris,59,9,8
+P00134,Accessoires,Reflet d'or,143.79,50,2024-06-22,Lyon,67,17,6
+P00135,Maquillage,Elixir Haute Beauté,86.89,22,2024-07-24,Marseille,144,122,7
+P00136,Maquillage,Luxe eclat,420.77,18,2024-10-30,Marseille,129,111,10
+P00136,Maquillage,Luxe eclat,420.77,18,2024-03-16,Paris,251,233,3
+P00137,Soins capillaires,Maison Pure,492.51,45,2024-12-24,Paris,150,105,12
+P00138,Parfums,Essentielle Paris,272.33,95,2024-05-30,Paris,187,92,5
+P00138,Parfums,Essentielle Paris,272.33,95,2024-05-18,Lyon,34,-61,5
+P00139,Parfums,Reflet d'or,102.41,99,2024-01-18,Paris,109,10,1
+P00140,Accessoires,Elixir Haute Beauté,150.71,67,2024-06-04,Paris,228,161,6
+P00140,Accessoires,Elixir Haute Beauté,150.71,67,2024-10-06,Lyon,103,36,10
+P00141,Soins de la peau,Luxe eclat,28.83,63,2024-08-26,Paris,140,77,8
+P00141,Soins de la peau,Luxe eclat,28.83,63,2024-04-06,Lyon,27,-36,4
+P00142,Accessoires,Maison Pure,458.86,21,2024-08-03,Lyon,105,84,8
+P00143,Soins capillaires,Essentielle Paris,76.52,90,2024-10-13,Paris,218,128,10
+P00143,Soins capillaires,Essentielle Paris,76.52,90,2024-09-23,Lyon,211,121,9
+P00144,Soins capillaires,Reflet d'or,296.73,87,2024-01-02,Lyon,5,-82,1
+P00145,Soins capillaires,Elixir Haute Beauté,151.55,23,2024-04-18,Paris,98,75,4
+P00146,Soins capillaires,Luxe eclat,286.01,43,2024-10-11,Paris,107,64,10
+P00147,Soins capillaires,Maison Pure,332.68,62,2024-10-23,Marseille,96,34,10
+P00147,Soins capillaires,Maison Pure,332.68,62,2024-01-16,Paris,282,220,1
+P00148,Maquillage,Essentielle Paris,418.28,29,2024-07-13,Lyon,1,-28,7
+P00148,Maquillage,Essentielle Paris,418.28,29,2024-05-02,Paris,197,168,5
+P00149,Parfums,Reflet d'or,119.08,84,2024-06-06,Marseille,225,141,6
+P00149,Parfums,Reflet d'or,119.08,84,2024-06-18,Lyon,255,171,6
+P00150,Soins capillaires,Elixir Haute Beauté,25.28,25,2024-12-28,Paris,279,254,12
+P00150,Soins capillaires,Elixir Haute Beauté,25.28,25,2024-10-08,Marseille,278,253,10
+P00151,Soins de la peau,Luxe eclat,85.71,79,2024-01-30,Marseille,134,55,1
+P00151,Soins de la peau,Luxe eclat,85.71,79,2024-06-26,Paris,207,128,6
+P00152,Soins de la peau,Maison Pure,452.01,65,2024-03-19,Paris,190,125,3
+P00153,Soins de la peau,Essentielle Paris,439.47,92,2024-11-10,Paris,241,149,11
+P00153,Soins de la peau,Essentielle Paris,439.47,92,2024-07-23,Marseille,167,75,7
+P00154,Soins de la peau,Reflet d'or,306.76,67,2024-03-08,Paris,146,79,3
+P00154,Soins de la peau,Reflet d'or,306.76,67,2024-01-09,Lyon,209,142,1
+P00154,Soins de la peau,Reflet d'or,306.76,67,2024-11-04,Marseille,129,62,11
+P00155,Maquillage,Elixir Haute Beauté,308.25,13,2024-04-01,Paris,218,205,4
+P00155,Maquillage,Elixir Haute Beauté,308.25,13,2024-05-17,Lyon,117,104,5
+P00156,Soins de la peau,Luxe eclat,339.22,13,2024-08-28,Lyon,143,130,8
+P00156,Soins de la peau,Luxe eclat,339.22,13,2024-05-06,Paris,108,95,5
+P00157,Soins capillaires,Maison Pure,104.18,29,2024-11-07,Paris,57,28,11
+P00157,Soins capillaires,Maison Pure,104.18,29,2024-04-22,Lyon,180,151,4
+P00158,Accessoires,Essentielle Paris,458.92,19,2024-12-24,Paris,139,120,12
+P00159,Soins de la peau,Reflet d'or,221.01,33,2024-11-26,Paris,164,131,11
+P00159,Soins de la peau,Reflet d'or,221.01,33,2024-02-07,Lyon,213,180,2
+P00160,Maquillage,Elixir Haute Beauté,203.91,35,2024-03-02,Paris,121,86,3
+P00161,Maquillage,Luxe eclat,269.08,46,2024-03-23,Lyon,162,116,3
+P00161,Maquillage,Luxe eclat,269.08,46,2024-07-25,Marseille,82,36,7
+P00161,Maquillage,Luxe eclat,269.08,46,2024-11-19,Paris,5,-41,11
+P00162,Soins de la peau,Maison Pure,42.54,94,2024-01-22,Paris,26,-68,1
+P00162,Soins de la peau,Maison Pure,42.54,94,2024-02-05,Lyon,82,-12,2
+P00163,Accessoires,Essentielle Paris,99.82,63,2024-08-22,Paris,161,98,8
+P00163,Accessoires,Essentielle Paris,99.82,63,2024-12-19,Lyon,5,-58,12
+P00164,Soins de la peau,Reflet d'or,374.26,30,2024-11-08,Lyon,236,206,11
+P00164,Soins de la peau,Reflet d'or,374.26,30,2024-05-06,Paris,248,218,5
+P00165,Maquillage,Elixir Haute Beauté,59.74,83,2024-01-19,Paris,113,30,1
+P00165,Maquillage,Elixir Haute Beauté,59.74,83,2024-10-08,Lyon,243,160,10
+P00166,Parfums,Luxe eclat,309.51,47,2024-12-04,Paris,149,102,12
+P00167,Soins capillaires,Maison Pure,137.77,55,2024-10-30,Paris,182,127,10
+P00168,Maquillage,Essentielle Paris,206.86,13,2024-12-10,Paris,61,48,12
+P00168,Maquillage,Essentielle Paris,206.86,13,2024-12-02,Marseille,216,203,12
+P00169,Soins de la peau,Reflet d'or,158.57,69,2024-08-08,Paris,85,16,8
+P00169,Soins de la peau,Reflet d'or,158.57,69,2024-02-25,Marseille,262,193,2
+P00170,Soins capillaires,Elixir Haute Beauté,190.72,66,2024-04-03,Paris,141,75,4
+P00170,Soins capillaires,Elixir Haute Beauté,190.72,66,2024-02-11,Lyon,89,23,2
+P00171,Soins de la peau,Luxe eclat,365.14,54,2024-05-26,Lyon,36,-18,5
+P00171,Soins de la peau,Luxe eclat,365.14,54,2024-10-16,Paris,69,15,10
+P00172,Soins de la peau,Maison Pure,162.62,29,2024-02-24,Lyon,16,-13,2
+P00172,Soins de la peau,Maison Pure,162.62,29,2024-03-18,Paris,247,218,3
+P00173,Parfums,Essentielle Paris,291.87,26,2024-11-24,Marseille,254,228,11
+P00174,Soins capillaires,Reflet d'or,248.5,80,2024-12-04,Marseille,13,-67,12
+P00174,Soins capillaires,Reflet d'or,248.5,80,2024-04-10,Paris,179,99,4
+P00175,Soins capillaires,Elixir Haute Beauté,338.56,13,2024-09-18,Paris,228,215,9
+P00175,Soins capillaires,Elixir Haute Beauté,338.56,13,2024-04-12,Marseille,195,182,4
+P00176,Parfums,Luxe eclat,469.68,23,2024-02-18,Paris,95,72,2
+P00176,Parfums,Luxe eclat,469.68,23,2024-05-25,Lyon,180,157,5
+P00177,Maquillage,Maison Pure,371.63,12,2024-02-17,Paris,134,122,2
+P00177,Maquillage,Maison Pure,371.63,12,2024-01-07,Marseille,218,206,1
+P00178,Soins de la peau,Essentielle Paris,123.17,97,2024-03-13,Marseille,74,-23,3
+P00178,Soins de la peau,Essentielle Paris,123.17,97,2024-10-08,Lyon,240,143,10
+P00179,Accessoires,Reflet d'or,34.97,89,2024-07-09,Paris,138,49,7
+P00180,Soins de la peau,Elixir Haute Beauté,145.89,67,2024-07-31,Lyon,45,-22,7
+P00180,Soins de la peau,Elixir Haute Beauté,145.89,67,2024-08-07,Paris,67,0,8
+P00181,Soins de la peau,Luxe eclat,305.64,64,2024-02-04,Paris,186,122,2
+P00181,Soins de la peau,Luxe eclat,305.64,64,2024-06-08,Marseille,193,129,6
+P00182,Maquillage,Maison Pure,44.68,13,2024-07-21,Lyon,272,259,7
+P00182,Maquillage,Maison Pure,44.68,13,2024-01-25,Paris,63,50,1
+P00183,Soins de la peau,Essentielle Paris,258.26,33,2024-08-09,Paris,169,136,8
+P00184,Parfums,Reflet d'or,306.48,43,2024-10-29,Paris,46,3,10
+P00184,Parfums,Reflet d'or,306.48,43,2024-10-08,Lyon,250,207,10
+P00185,Parfums,Elixir Haute Beauté,180.44,39,2024-05-10,Lyon,228,189,5
+P00186,Soins capillaires,Luxe eclat,390.04,91,2024-08-02,Paris,28,-63,8
+P00186,Soins capillaires,Luxe eclat,390.04,91,2024-05-22,Marseille,242,151,5
+P00187,Accessoires,Maison Pure,71.17,28,2024-02-21,Lyon,203,175,2
+P00188,Soins de la peau,Essentielle Paris,56.07,40,2024-12-21,Paris,157,117,12
+P00189,Soins de la peau,Reflet d'or,369.53,69,2024-01-19,Marseille,53,-16,1
+P00190,Maquillage,Elixir Haute Beauté,257.84,69,2024-03-21,Paris,138,69,3
+P00190,Maquillage,Elixir Haute Beauté,257.84,69,2024-06-10,Lyon,117,48,6
+P00191,Parfums,Luxe eclat,350.43,28,2024-11-28,Marseille,266,238,11
+P00191,Parfums,Luxe eclat,350.43,28,2024-11-28,Lyon,212,184,11
+P00192,Accessoires,Maison Pure,228.72,58,2024-12-22,Lyon,274,216,12
+P00192,Accessoires,Maison Pure,228.72,58,2024-11-03,Marseille,283,225,11
+P00193,Soins capillaires,Essentielle Paris,138.27,72,2024-12-18,Paris,92,20,12
+P00193,Soins capillaires,Essentielle Paris,138.27,72,2024-07-08,Lyon,115,43,7
+P00194,Parfums,Reflet d'or,413.17,92,2024-02-09,Paris,89,-3,2
+P00194,Parfums,Reflet d'or,413.17,92,2024-12-10,Lyon,16,-76,12
+P00195,Soins capillaires,Elixir Haute Beauté,403.72,31,2024-12-29,Marseille,52,21,12
+P00195,Soins capillaires,Elixir Haute Beauté,403.72,31,2024-10-19,Lyon,76,45,10
+P00196,Maquillage,Luxe eclat,353.45,33,2024-03-23,Lyon,29,-4,3
+P00196,Maquillage,Luxe eclat,353.45,33,2024-08-19,Paris,119,86,8
+P00197,Maquillage,Maison Pure,150.63,85,2024-07-25,Lyon,171,86,7
+P00197,Maquillage,Maison Pure,150.63,85,2024-04-21,Paris,164,79,4
+P00198,Soins de la peau,Essentielle Paris,303.31,39,2024-09-21,Paris,249,210,9
+P00198,Soins de la peau,Essentielle Paris,303.31,39,2024-03-08,Lyon,13,-26,3
+P00199,Accessoires,Reflet d'or,193.27,67,2024-08-12,Paris,216,149,8
+P00200,Soins capillaires,Elixir Haute Beauté,63.96,40,2024-03-18,Paris,242,202,3
+P00201,Parfums,Luxe eclat,460.31,73,2024-11-08,Lyon,125,52,11
+P00202,Maquillage,Maison Pure,85.67,28,2024-09-21,Lyon,239,211,9
+P00203,Soins de la peau,Essentielle Paris,476.11,57,2024-07-04,Lyon,88,31,7
+P00204,Soins de la peau,Reflet d'or,234.08,54,2024-10-24,Marseille,165,111,10
+P00205,Soins capillaires,Elixir Haute Beauté,108.86,64,2024-04-15,Paris,168,104,4
+P00206,Maquillage,Luxe eclat,280.11,64,2024-08-21,Paris,145,81,8
+P00206,Maquillage,Luxe eclat,280.11,64,2024-04-05,Lyon,205,141,4
+P00207,Accessoires,Maison Pure,439.01,27,2024-09-11,Marseille,46,19,9
+P00208,Maquillage,Essentielle Paris,371.47,72,2024-05-27,Paris,131,59,5
+P00208,Maquillage,Essentielle Paris,371.47,72,2024-06-12,Marseille,243,171,6
+P00209,Soins capillaires,Reflet d'or,407.15,56,2024-08-15,Paris,160,104,8
+P00210,Soins capillaires,Elixir Haute Beauté,336.22,84,2024-01-24,Marseille,51,-33,1
+P00210,Soins capillaires,Elixir Haute Beauté,336.22,84,2024-10-08,Paris,21,-63,10
+P00211,Maquillage,Luxe eclat,352.29,66,2024-04-12,Marseille,117,51,4
+P00212,Soins capillaires,Maison Pure,427.61,54,2024-01-07,Lyon,161,107,1
+P00212,Soins capillaires,Maison Pure,427.61,54,2024-04-12,Paris,104,50,4
+P00213,Maquillage,Essentielle Paris,139.84,42,2024-11-08,Lyon,277,235,11
+P00214,Parfums,Reflet d'or,254.92,26,2024-10-21,Paris,192,166,10
+P00214,Parfums,Reflet d'or,254.92,26,2024-09-01,Lyon,238,212,9
+P00215,Maquillage,Elixir Haute Beauté,126.18,79,2024-04-28,Paris,237,158,4
+P00215,Maquillage,Elixir Haute Beauté,126.18,79,2024-10-25,Marseille,258,179,10
+P00216,Maquillage,Luxe eclat,494.08,13,2024-07-21,Paris,156,143,7
+P00216,Maquillage,Luxe eclat,494.08,13,2024-03-11,Marseille,9,-4,3
+P00217,Soins capillaires,Maison Pure,473.15,29,2024-06-20,Paris,78,49,6
+P00217,Soins capillaires,Maison Pure,473.15,29,2024-01-05,Lyon,80,51,1
+P00218,Soins capillaires,Essentielle Paris,38.92,56,2024-04-09,Lyon,49,-7,4
+P00218,Soins capillaires,Essentielle Paris,38.92,56,2024-10-06,Marseille,155,99,10
+P00219,Soins de la peau,Reflet d'or,358.68,24,2024-08-21,Lyon,117,93,8
+P00219,Soins de la peau,Reflet d'or,358.68,24,2024-07-31,Paris,82,58,7
+P00220,Soins de la peau,Elixir Haute Beauté,464.12,79,2024-03-18,Paris,138,59,3
+P00221,Parfums,Luxe eclat,106.68,56,2024-01-05,Paris,295,239,1
+P00222,Soins de la peau,Maison Pure,292.61,87,2024-12-13,Paris,140,53,12
+P00222,Soins de la peau,Maison Pure,292.61,87,2024-09-29,Marseille,50,-37,9
+P00222,Soins de la peau,Maison Pure,292.61,87,2024-08-10,Lyon,11,-76,8
+P00223,Maquillage,Essentielle Paris,459.43,84,2024-08-11,Lyon,144,60,8
+P00224,Soins capillaires,Reflet d'or,36.29,18,2024-06-27,Lyon,114,96,6
+P00225,Soins de la peau,Elixir Haute Beauté,354.76,99,2024-03-30,Marseille,276,177,3
+P00225,Soins de la peau,Elixir Haute Beauté,354.76,99,2024-07-14,Lyon,214,115,7
+P00225,Soins de la peau,Elixir Haute Beauté,354.76,99,2024-10-01,Paris,166,67,10
+P00226,Soins de la peau,Luxe eclat,162.73,25,2024-04-13,Paris,144,119,4
+P00227,Parfums,Maison Pure,463.71,78,2024-06-10,Paris,145,67,6
+P00227,Parfums,Maison Pure,463.71,78,2024-03-13,Marseille,193,115,3
+P00228,Parfums,Essentielle Paris,486.11,70,2024-07-13,Lyon,213,143,7
+P00228,Parfums,Essentielle Paris,486.11,70,2024-01-14,Marseille,213,143,1
+P00229,Maquillage,Reflet d'or,473.25,19,2024-12-17,Paris,296,277,12
+P00229,Maquillage,Reflet d'or,473.25,19,2024-05-30,Lyon,174,155,5
+P00230,Soins capillaires,Elixir Haute Beauté,247.62,59,2024-08-31,Lyon,289,230,8
+P00231,Parfums,Luxe eclat,433.78,12,2024-06-14,Lyon,64,52,6
+P00231,Parfums,Luxe eclat,433.78,12,2024-09-26,Paris,281,269,9
+P00232,Soins de la peau,Maison Pure,425.38,86,2024-06-03,Marseille,250,164,6
+P00232,Soins de la peau,Maison Pure,425.38,86,2024-06-17,Paris,62,-24,6
+P00233,Soins capillaires,Essentielle Paris,173.17,79,2024-06-04,Paris,132,53,6
+P00234,Soins capillaires,Reflet d'or,417.88,90,2024-07-24,Lyon,163,73,7
+P00235,Soins de la peau,Elixir Haute Beauté,37.76,60,2024-10-23,Lyon,243,183,10
+P00235,Soins de la peau,Elixir Haute Beauté,37.76,60,2024-05-06,Paris,60,0,5
+P00236,Parfums,Luxe eclat,306.21,28,2024-07-29,Paris,176,148,7
+P00237,Soins de la peau,Maison Pure,130.4,51,2024-02-25,Paris,281,230,2
+P00237,Soins de la peau,Maison Pure,130.4,51,2024-12-02,Lyon,144,93,12
+P00238,Soins capillaires,Essentielle Paris,77.87,44,2024-12-25,Paris,176,132,12
+P00238,Soins capillaires,Essentielle Paris,77.87,44,2024-06-13,Lyon,161,117,6
+P00239,Accessoires,Reflet d'or,56.94,55,2024-04-18,Lyon,236,181,4
+P00239,Accessoires,Reflet d'or,56.94,55,2024-05-23,Paris,35,-20,5
+P00240,Accessoires,Elixir Haute Beauté,354.22,35,2024-07-11,Paris,39,4,7
+P00240,Accessoires,Elixir Haute Beauté,354.22,35,2024-11-17,Marseille,2,-33,11
+P00241,Maquillage,Luxe eclat,183.14,78,2024-03-28,Paris,46,-32,3
+P00241,Maquillage,Luxe eclat,183.14,78,2024-05-17,Lyon,219,141,5
+P00242,Soins de la peau,Maison Pure,367.89,73,2024-08-05,Lyon,264,191,8
+P00242,Soins de la peau,Maison Pure,367.89,73,2024-04-25,Paris,174,101,4
+P00243,Soins de la peau,Essentielle Paris,51.37,46,2024-09-19,Paris,226,180,9
+P00243,Soins de la peau,Essentielle Paris,51.37,46,2024-10-30,Marseille,109,63,10
+P00244,Maquillage,Reflet d'or,171.34,93,2024-02-12,Lyon,99,6,2
+P00244,Maquillage,Reflet d'or,171.34,93,2024-07-28,Paris,64,-29,7
+P00245,Maquillage,Elixir Haute Beauté,278.96,58,2024-06-10,Paris,44,-14,6
+P00245,Maquillage,Elixir Haute Beauté,278.96,58,2024-06-08,Marseille,14,-44,6
+P00246,Maquillage,Luxe eclat,399.55,30,2024-02-09,Marseille,277,247,2
+P00246,Maquillage,Luxe eclat,399.55,30,2024-05-25,Paris,168,138,5
+P00246,Maquillage,Luxe eclat,399.55,30,2024-06-29,Lyon,258,228,6
+P00247,Soins capillaires,Maison Pure,173.0,83,2024-05-19,Paris,243,160,5
+P00247,Soins capillaires,Maison Pure,173.0,83,2024-05-11,Marseille,161,78,5
+P00248,Soins de la peau,Essentielle Paris,320.43,73,2024-11-12,Lyon,131,58,11
+P00249,Soins capillaires,Reflet d'or,445.27,14,2024-11-14,Lyon,142,128,11
+P00250,Maquillage,Elixir Haute Beauté,315.61,79,2024-06-28,Paris,69,-10,6
+P00251,Soins de la peau,Luxe eclat,131.82,99,2024-07-06,Lyon,90,-9,7
+P00251,Soins de la peau,Luxe eclat,131.82,99,2024-07-25,Marseille,17,-82,7
+P00252,Soins capillaires,Maison Pure,31.71,13,2024-01-14,Paris,126,113,1
+P00252,Soins capillaires,Maison Pure,31.71,13,2024-05-20,Lyon,66,53,5
+P00253,Soins capillaires,Essentielle Paris,437.65,48,2024-12-09,Lyon,211,163,12
+P00253,Soins capillaires,Essentielle Paris,437.65,48,2024-05-18,Paris,81,33,5
+P00254,Maquillage,Reflet d'or,30.21,44,2024-07-21,Paris,293,249,7
+P00254,Maquillage,Reflet d'or,30.21,44,2024-09-26,Lyon,10,-34,9
+P00255,Soins de la peau,Elixir Haute Beauté,439.86,10,2024-11-23,Paris,132,122,11
+P00255,Soins de la peau,Elixir Haute Beauté,439.86,10,2024-12-05,Marseille,118,108,12
+P00256,Maquillage,Luxe eclat,273.89,33,2024-07-04,Paris,178,145,7
+P00256,Maquillage,Luxe eclat,273.89,33,2024-01-24,Lyon,206,173,1
+P00257,Soins de la peau,Maison Pure,470.75,66,2024-01-02,Paris,83,17,1
+P00258,Accessoires,Essentielle Paris,403.42,79,2024-05-05,Paris,247,168,5
+P00258,Accessoires,Essentielle Paris,403.42,79,2024-04-16,Lyon,125,46,4
+P00259,Parfums,Reflet d'or,499.01,50,2024-12-26,Lyon,51,1,12
+P00259,Parfums,Reflet d'or,499.01,50,2024-05-22,Paris,29,-21,5
+P00260,Parfums,Elixir Haute Beauté,188.34,63,2024-12-14,Marseille,154,91,12
+P00260,Parfums,Elixir Haute Beauté,188.34,63,2024-04-02,Lyon,10,-53,4
+P00260,Parfums,Elixir Haute Beauté,188.34,63,2024-10-11,Paris,67,4,10
+P00261,Parfums,Luxe eclat,388.25,55,2024-12-20,Marseille,50,-5,12
+P00261,Parfums,Luxe eclat,388.25,55,2024-10-24,Lyon,287,232,10
+P00262,Maquillage,Maison Pure,212.93,69,2024-02-03,Paris,12,-57,2
+P00262,Maquillage,Maison Pure,212.93,69,2024-08-27,Lyon,46,-23,8
+P00263,Accessoires,Essentielle Paris,250.34,69,2024-05-09,Lyon,268,199,5
+P00263,Accessoires,Essentielle Paris,250.34,69,2024-05-02,Paris,279,210,5
+P00264,Soins de la peau,Reflet d'or,321.2,66,2024-04-12,Lyon,41,-25,4
+P00264,Soins de la peau,Reflet d'or,321.2,66,2024-09-11,Paris,209,143,9
+P00265,Soins capillaires,Elixir Haute Beauté,439.37,40,2024-09-13,Marseille,244,204,9
+P00265,Soins capillaires,Elixir Haute Beauté,439.37,40,2024-05-03,Lyon,70,30,5
+P00266,Soins de la peau,Luxe eclat,492.36,93,2024-03-15,Paris,118,25,3
+P00266,Soins de la peau,Luxe eclat,492.36,93,2024-01-31,Marseille,152,59,1
+P00267,Soins capillaires,Maison Pure,388.77,33,2024-03-12,Paris,152,119,3
+P00267,Soins capillaires,Maison Pure,388.77,33,2024-06-03,Lyon,49,16,6
+P00268,Soins de la peau,Essentielle Paris,220.53,98,2024-06-02,Paris,86,-12,6
+P00269,Accessoires,Reflet d'or,222.25,45,2024-11-25,Paris,76,31,11
+P00270,Soins capillaires,Elixir Haute Beauté,374.04,94,2024-05-28,Lyon,152,58,5
+P00270,Soins capillaires,Elixir Haute Beauté,374.04,94,2024-10-11,Marseille,276,182,10
+P00271,Maquillage,Luxe eclat,134.61,39,2024-12-18,Marseille,52,13,12
+P00272,Soins de la peau,Maison Pure,73.03,33,2024-11-04,Paris,63,30,11
+P00272,Soins de la peau,Maison Pure,73.03,33,2024-07-26,Marseille,225,192,7
+P00273,Soins de la peau,Essentielle Paris,190.22,39,2024-02-24,Marseille,72,33,2
+P00273,Soins de la peau,Essentielle Paris,190.22,39,2024-11-01,Paris,122,83,11
+P00274,Soins capillaires,Reflet d'or,157.87,95,2024-10-10,Paris,172,77,10
+P00274,Soins capillaires,Reflet d'or,157.87,95,2024-11-18,Marseille,160,65,11
+P00274,Soins capillaires,Reflet d'or,157.87,95,2024-01-03,Lyon,35,-60,1
+P00275,Maquillage,Elixir Haute Beauté,162.23,16,2024-04-29,Lyon,245,229,4
+P00275,Maquillage,Elixir Haute Beauté,162.23,16,2024-01-19,Paris,230,214,1
+P00276,Maquillage,Luxe eclat,132.13,44,2024-06-06,Lyon,239,195,6
+P00277,Accessoires,Maison Pure,40.2,64,2024-09-02,Marseille,10,-54,9
+P00277,Accessoires,Maison Pure,40.2,64,2024-07-02,Paris,246,182,7
+P00278,Maquillage,Essentielle Paris,28.58,23,2024-12-27,Lyon,140,117,12
+P00278,Maquillage,Essentielle Paris,28.58,23,2024-12-18,Paris,207,184,12
+P00279,Maquillage,Reflet d'or,494.11,19,2024-08-31,Paris,48,29,8
+P00280,Maquillage,Elixir Haute Beauté,225.33,89,2024-04-14,Paris,62,-27,4
+P00281,Parfums,Luxe eclat,204.48,25,2024-07-03,Paris,280,255,7
+P00281,Parfums,Luxe eclat,204.48,25,2024-07-05,Lyon,189,164,7
+P00281,Parfums,Luxe eclat,204.48,25,2024-12-31,Marseille,165,140,12
+P00282,Accessoires,Maison Pure,346.23,63,2024-09-17,Lyon,160,97,9
+P00283,Soins de la peau,Essentielle Paris,124.76,98,2024-05-07,Paris,49,-49,5
+P00283,Soins de la peau,Essentielle Paris,124.76,98,2024-04-19,Marseille,25,-73,4
+P00283,Soins de la peau,Essentielle Paris,124.76,98,2024-06-22,Lyon,169,71,6
+P00284,Soins capillaires,Reflet d'or,475.98,86,2024-05-15,Lyon,227,141,5
+P00285,Soins de la peau,Elixir Haute Beauté,397.45,79,2024-01-16,Lyon,230,151,1
+P00285,Soins de la peau,Elixir Haute Beauté,397.45,79,2024-04-27,Paris,167,88,4
+P00286,Accessoires,Luxe eclat,62.92,53,2024-10-26,Paris,107,54,10
+P00287,Soins capillaires,Maison Pure,220.44,82,2024-10-07,Marseille,277,195,10
+P00288,Accessoires,Essentielle Paris,441.98,54,2024-04-24,Paris,246,192,4
+P00288,Accessoires,Essentielle Paris,441.98,54,2024-09-04,Lyon,9,-45,9
+P00289,Maquillage,Reflet d'or,473.47,65,2024-09-02,Paris,25,-40,9
+P00290,Soins capillaires,Elixir Haute Beauté,244.35,93,2024-06-07,Marseille,82,-11,6
+P00290,Soins capillaires,Elixir Haute Beauté,244.35,93,2024-06-27,Paris,44,-49,6
+P00290,Soins capillaires,Elixir Haute Beauté,244.35,93,2024-10-31,Lyon,6,-87,10
+P00291,Maquillage,Luxe eclat,314.44,91,2024-06-15,Paris,70,-21,6
+P00292,Soins de la peau,Maison Pure,100.18,66,2024-11-09,Lyon,24,-42,11
+P00292,Soins de la peau,Maison Pure,100.18,66,2024-03-11,Paris,281,215,3
+P00293,Soins de la peau,Essentielle Paris,495.76,30,2024-07-02,Lyon,273,243,7
+P00293,Soins de la peau,Essentielle Paris,495.76,30,2024-03-02,Marseille,112,82,3
+P00294,Soins capillaires,Reflet d'or,131.2,77,2024-02-24,Paris,297,220,2
+P00294,Soins capillaires,Reflet d'or,131.2,77,2024-05-21,Lyon,26,-51,5
+P00295,Soins capillaires,Elixir Haute Beauté,472.51,59,2024-03-31,Lyon,85,26,3
+P00295,Soins capillaires,Elixir Haute Beauté,472.51,59,2024-09-06,Paris,278,219,9
+P00295,Soins capillaires,Elixir Haute Beauté,472.51,59,2024-02-13,Marseille,78,19,2
+P00296,Accessoires,Luxe eclat,331.83,42,2024-05-23,Lyon,91,49,5
+P00297,Accessoires,Maison Pure,311.71,16,2024-12-01,Paris,140,124,12
+P00297,Accessoires,Maison Pure,311.71,16,2024-01-19,Lyon,114,98,1
+P00298,Maquillage,Essentielle Paris,266.09,79,2024-06-25,Marseille,262,183,6
+P00298,Maquillage,Essentielle Paris,266.09,79,2024-07-24,Lyon,262,183,7
+P00299,Soins capillaires,Reflet d'or,130.72,24,2024-09-18,Marseille,74,50,9
+P00300,Soins de la peau,Elixir Haute Beauté,104.73,91,2024-01-30,Paris,246,155,1
+P00301,Accessoires,Luxe eclat,125.83,41,2024-08-09,Paris,71,30,8
+P00301,Accessoires,Luxe eclat,125.83,41,2024-07-30,Marseille,270,229,7
+P00302,Accessoires,Maison Pure,109.49,84,2024-07-31,Marseille,53,-31,7
+P00303,Soins de la peau,Essentielle Paris,394.2,29,2024-01-14,Marseille,283,254,1
+P00303,Soins de la peau,Essentielle Paris,394.2,29,2024-07-22,Paris,39,10,7
+P00304,Accessoires,Reflet d'or,188.06,97,2024-07-01,Paris,146,49,7
+P00304,Accessoires,Reflet d'or,188.06,97,2024-09-19,Lyon,88,-9,9
+P00305,Maquillage,Elixir Haute Beauté,47.76,24,2024-07-09,Marseille,184,160,7
+P00305,Maquillage,Elixir Haute Beauté,47.76,24,2024-06-21,Paris,63,39,6
+P00306,Soins capillaires,Luxe eclat,485.17,57,2024-10-24,Paris,85,28,10
+P00307,Soins de la peau,Maison Pure,444.22,80,2024-09-09,Lyon,156,76,9
+P00307,Soins de la peau,Maison Pure,444.22,80,2024-08-06,Paris,205,125,8
+P00308,Soins capillaires,Essentielle Paris,465.32,30,2024-09-30,Lyon,150,120,9
+P00309,Accessoires,Reflet d'or,497.56,51,2024-09-08,Lyon,2,-49,9
+P00309,Accessoires,Reflet d'or,497.56,51,2024-09-30,Paris,194,143,9
+P00310,Accessoires,Elixir Haute Beauté,103.47,35,2024-10-13,Paris,99,64,10
+P00310,Accessoires,Elixir Haute Beauté,103.47,35,2024-09-26,Lyon,218,183,9
+P00311,Soins de la peau,Luxe eclat,210.2,23,2024-05-12,Lyon,244,221,5
+P00312,Maquillage,Maison Pure,383.95,66,2024-01-19,Lyon,192,126,1
+P00313,Parfums,Essentielle Paris,354.09,46,2024-04-30,Marseille,193,147,4
+P00314,Soins de la peau,Reflet d'or,93.87,67,2024-03-24,Lyon,190,123,3
+P00314,Soins de la peau,Reflet d'or,93.87,67,2024-03-15,Paris,49,-18,3
+P00315,Parfums,Elixir Haute Beauté,411.6,30,2024-12-04,Paris,99,69,12
+P00315,Parfums,Elixir Haute Beauté,411.6,30,2024-04-05,Lyon,138,108,4
+P00316,Parfums,Luxe eclat,127.73,91,2024-06-16,Lyon,232,141,6
+P00317,Maquillage,Maison Pure,127.43,78,2024-06-26,Lyon,229,151,6
+P00317,Maquillage,Maison Pure,127.43,78,2024-12-04,Paris,53,-25,12
+P00318,Parfums,Essentielle Paris,277.75,12,2024-06-11,Paris,44,32,6
+P00318,Parfums,Essentielle Paris,277.75,12,2024-12-18,Lyon,0,-12,12
+P00319,Parfums,Reflet d'or,304.61,96,2024-03-22,Paris,198,102,3
+P00319,Parfums,Reflet d'or,304.61,96,2024-04-11,Lyon,131,35,4
+P00320,Maquillage,Elixir Haute Beauté,298.44,99,2024-07-19,Lyon,71,-28,7
+P00321,Parfums,Luxe eclat,63.91,46,2024-04-22,Paris,208,162,4
+P00321,Parfums,Luxe eclat,63.91,46,2024-02-20,Lyon,281,235,2
+P00322,Parfums,Maison Pure,441.18,97,2024-11-07,Paris,47,-50,11
+P00322,Parfums,Maison Pure,441.18,97,2024-12-10,Lyon,7,-90,12
+P00323,Parfums,Essentielle Paris,147.49,58,2024-01-27,Paris,17,-41,1
+P00324,Soins de la peau,Reflet d'or,82.17,28,2024-12-12,Paris,284,256,12
+P00325,Soins de la peau,Elixir Haute Beauté,446.6,98,2024-05-24,Lyon,83,-15,5
+P00325,Soins de la peau,Elixir Haute Beauté,446.6,98,2024-06-21,Paris,225,127,6
+P00326,Soins de la peau,Luxe eclat,478.71,94,2024-02-19,Lyon,151,57,2
+P00327,Maquillage,Maison Pure,433.82,21,2024-04-22,Paris,21,0,4
+P00328,Accessoires,Essentielle Paris,408.57,70,2024-08-18,Lyon,251,181,8
+P00328,Accessoires,Essentielle Paris,408.57,70,2024-02-04,Paris,37,-33,2
+P00329,Parfums,Reflet d'or,334.52,50,2024-06-16,Marseille,237,187,6
+P00329,Parfums,Reflet d'or,334.52,50,2024-06-15,Paris,109,59,6
+P00330,Parfums,Elixir Haute Beauté,284.41,42,2024-12-17,Marseille,218,176,12
+P00330,Parfums,Elixir Haute Beauté,284.41,42,2024-02-21,Paris,248,206,2
+P00331,Maquillage,Luxe eclat,61.75,59,2024-03-13,Paris,111,52,3
+P00332,Parfums,Maison Pure,216.06,77,2024-09-04,Paris,162,85,9
+P00333,Soins de la peau,Essentielle Paris,198.89,80,2024-10-23,Paris,81,1,10
+P00334,Accessoires,Reflet d'or,144.68,95,2024-03-11,Marseille,33,-62,3
+P00334,Accessoires,Reflet d'or,144.68,95,2024-10-17,Paris,166,71,10
+P00335,Soins capillaires,Elixir Haute Beauté,367.24,42,2024-02-21,Lyon,213,171,2
+P00335,Soins capillaires,Elixir Haute Beauté,367.24,42,2024-09-22,Paris,48,6,9
+P00336,Parfums,Luxe eclat,258.02,90,2024-11-27,Lyon,34,-56,11
+P00336,Parfums,Luxe eclat,258.02,90,2024-08-15,Paris,73,-17,8
+P00337,Soins de la peau,Maison Pure,58.9,33,2024-12-17,Marseille,187,154,12
+P00337,Soins de la peau,Maison Pure,58.9,33,2024-06-02,Paris,278,245,6
+P00338,Soins capillaires,Essentielle Paris,125.69,70,2024-06-17,Paris,1,-69,6
+P00338,Soins capillaires,Essentielle Paris,125.69,70,2024-02-01,Lyon,213,143,2
+P00339,Accessoires,Reflet d'or,347.96,70,2024-01-20,Lyon,35,-35,1
+P00339,Accessoires,Reflet d'or,347.96,70,2024-06-09,Paris,260,190,6
+P00340,Soins capillaires,Elixir Haute Beauté,56.54,37,2024-08-10,Lyon,43,6,8
+P00340,Soins capillaires,Elixir Haute Beauté,56.54,37,2024-11-10,Paris,94,57,11
+P00341,Soins de la peau,Luxe eclat,428.58,67,2024-02-04,Marseille,16,-51,2
+P00341,Soins de la peau,Luxe eclat,428.58,67,2024-03-28,Lyon,238,171,3
+P00342,Soins capillaires,Maison Pure,257.67,52,2024-11-01,Lyon,86,34,11
+P00343,Maquillage,Essentielle Paris,250.68,50,2024-05-08,Paris,47,-3,5
+P00343,Maquillage,Essentielle Paris,250.68,50,2024-10-16,Marseille,283,233,10
+P00344,Soins capillaires,Reflet d'or,304.36,48,2024-12-22,Lyon,2,-46,12
+P00344,Soins capillaires,Reflet d'or,304.36,48,2024-07-20,Marseille,61,13,7
+P00345,Parfums,Elixir Haute Beauté,415.85,95,2024-05-07,Lyon,56,-39,5
+P00345,Parfums,Elixir Haute Beauté,415.85,95,2024-02-18,Paris,7,-88,2
+P00346,Parfums,Luxe eclat,186.95,58,2024-07-30,Paris,76,18,7
+P00346,Parfums,Luxe eclat,186.95,58,2024-09-12,Lyon,270,212,9
+P00347,Maquillage,Maison Pure,345.45,26,2024-08-24,Lyon,104,78,8
+P00347,Maquillage,Maison Pure,345.45,26,2024-06-26,Marseille,87,61,6
+P00347,Maquillage,Maison Pure,345.45,26,2024-02-22,Paris,243,217,2
+P00348,Soins de la peau,Essentielle Paris,291.55,79,2024-12-23,Lyon,96,17,12
+P00349,Parfums,Reflet d'or,148.17,79,2024-11-16,Paris,54,-25,11
+P00350,Accessoires,Elixir Haute Beauté,441.74,74,2024-05-26,Lyon,258,184,5
+P00350,Accessoires,Elixir Haute Beauté,441.74,74,2024-06-11,Paris,250,176,6
+P00351,Parfums,Luxe eclat,402.76,83,2024-02-23,Paris,162,79,2
+P00352,Parfums,Maison Pure,336.06,94,2024-10-23,Lyon,65,-29,10
+P00352,Parfums,Maison Pure,336.06,94,2024-08-07,Marseille,178,84,8
+P00353,Soins de la peau,Essentielle Paris,428.28,14,2024-04-17,Paris,199,185,4
+P00353,Soins de la peau,Essentielle Paris,428.28,14,2024-08-06,Lyon,191,177,8
+P00354,Soins capillaires,Reflet d'or,436.3,11,2024-02-27,Marseille,66,55,2
+P00354,Soins capillaires,Reflet d'or,436.3,11,2024-10-26,Paris,168,157,10
+P00355,Parfums,Elixir Haute Beauté,360.01,31,2024-09-21,Paris,2,-29,9
+P00355,Parfums,Elixir Haute Beauté,360.01,31,2024-03-01,Lyon,281,250,3
+P00355,Parfums,Elixir Haute Beauté,360.01,31,2024-06-07,Marseille,254,223,6
+P00356,Maquillage,Luxe eclat,421.77,66,2024-12-03,Paris,259,193,12
+P00357,Soins capillaires,Maison Pure,354.79,75,2024-07-31,Paris,85,10,7
+P00357,Soins capillaires,Maison Pure,354.79,75,2024-02-08,Lyon,12,-63,2
+P00358,Accessoires,Essentielle Paris,346.47,83,2024-05-01,Marseille,277,194,5
+P00359,Soins de la peau,Reflet d'or,316.93,25,2024-11-29,Paris,238,213,11
+P00360,Accessoires,Elixir Haute Beauté,381.3,60,2024-06-12,Paris,297,237,6
+P00361,Soins capillaires,Luxe eclat,96.13,48,2024-02-26,Paris,226,178,2
+P00361,Soins capillaires,Luxe eclat,96.13,48,2024-04-07,Lyon,215,167,4
+P00362,Soins capillaires,Maison Pure,442.82,95,2024-03-27,Marseille,146,51,3
+P00363,Soins capillaires,Essentielle Paris,438.48,85,2024-07-15,Paris,58,-27,7
+P00364,Accessoires,Reflet d'or,34.04,97,2024-12-16,Paris,208,111,12
+P00365,Soins capillaires,Elixir Haute Beauté,416.39,49,2024-11-06,Marseille,27,-22,11
+P00365,Soins capillaires,Elixir Haute Beauté,416.39,49,2024-02-17,Paris,67,18,2
+P00366,Accessoires,Luxe eclat,81.86,47,2024-11-19,Marseille,210,163,11
+P00366,Accessoires,Luxe eclat,81.86,47,2024-01-31,Lyon,263,216,1
+P00367,Soins capillaires,Maison Pure,180.86,69,2024-11-30,Marseille,295,226,11
+P00367,Soins capillaires,Maison Pure,180.86,69,2024-10-18,Paris,250,181,10
+P00367,Soins capillaires,Maison Pure,180.86,69,2024-07-05,Lyon,78,9,7
+P00368,Maquillage,Essentielle Paris,376.88,68,2024-01-27,Lyon,65,-3,1
+P00368,Maquillage,Essentielle Paris,376.88,68,2024-11-10,Paris,117,49,11
+P00369,Soins capillaires,Reflet d'or,97.16,19,2024-11-10,Marseille,275,256,11
+P00369,Soins capillaires,Reflet d'or,97.16,19,2024-11-13,Paris,167,148,11
+P00370,Accessoires,Elixir Haute Beauté,412.62,73,2024-11-11,Marseille,143,70,11
+P00371,Parfums,Luxe eclat,419.42,72,2024-09-06,Paris,86,14,9
+P00371,Parfums,Luxe eclat,419.42,72,2024-08-24,Marseille,4,-68,8
+P00372,Soins capillaires,Maison Pure,263.58,58,2024-05-31,Paris,23,-35,5
+P00372,Soins capillaires,Maison Pure,263.58,58,2024-09-07,Marseille,277,219,9
+P00373,Parfums,Essentielle Paris,23.07,73,2024-07-06,Paris,213,140,7
+P00374,Maquillage,Reflet d'or,157.78,41,2024-09-03,Paris,168,127,9
+P00374,Maquillage,Reflet d'or,157.78,41,2024-08-01,Lyon,6,-35,8
+P00375,Soins de la peau,Elixir Haute Beauté,316.12,16,2024-03-04,Paris,192,176,3
+P00376,Maquillage,Luxe eclat,490.97,30,2024-02-24,Paris,102,72,2
+P00376,Maquillage,Luxe eclat,490.97,30,2024-01-22,Marseille,56,26,1
+P00377,Soins capillaires,Maison Pure,323.27,29,2024-02-24,Paris,15,-14,2
+P00377,Soins capillaires,Maison Pure,323.27,29,2024-12-30,Lyon,0,-29,12
+P00378,Parfums,Essentielle Paris,144.71,35,2024-02-08,Paris,204,169,2
+P00378,Parfums,Essentielle Paris,144.71,35,2024-04-03,Marseille,291,256,4
+P00379,Parfums,Reflet d'or,324.32,77,2024-03-03,Marseille,112,35,3
+P00379,Parfums,Reflet d'or,324.32,77,2024-11-24,Paris,203,126,11
+P00380,Accessoires,Elixir Haute Beauté,279.19,95,2024-12-14,Lyon,85,-10,12
+P00380,Accessoires,Elixir Haute Beauté,279.19,95,2024-02-26,Paris,110,15,2
+P00381,Parfums,Luxe eclat,394.33,24,2024-04-11,Paris,154,130,4
+P00382,Accessoires,Maison Pure,71.35,94,2024-08-25,Paris,77,-17,8
+P00382,Accessoires,Maison Pure,71.35,94,2024-10-20,Lyon,271,177,10
+P00383,Soins de la peau,Essentielle Paris,385.29,88,2024-09-22,Paris,47,-41,9
+P00384,Soins capillaires,Reflet d'or,279.81,95,2024-12-30,Lyon,207,112,12
+P00385,Accessoires,Elixir Haute Beauté,482.24,23,2024-02-06,Lyon,65,42,2
+P00385,Accessoires,Elixir Haute Beauté,482.24,23,2024-02-02,Paris,280,257,2
+P00386,Soins de la peau,Luxe eclat,184.1,36,2024-09-26,Paris,56,20,9
+P00386,Soins de la peau,Luxe eclat,184.1,36,2024-12-02,Lyon,138,102,12
+P00387,Parfums,Maison Pure,323.66,49,2024-09-17,Paris,297,248,9
+P00388,Parfums,Essentielle Paris,467.37,67,2024-06-13,Lyon,239,172,6
+P00388,Parfums,Essentielle Paris,467.37,67,2024-08-09,Paris,26,-41,8
+P00389,Soins de la peau,Reflet d'or,69.2,37,2024-09-12,Lyon,92,55,9
+P00389,Soins de la peau,Reflet d'or,69.2,37,2024-06-27,Paris,98,61,6
+P00390,Parfums,Elixir Haute Beauté,469.87,35,2024-06-09,Marseille,56,21,6
+P00390,Parfums,Elixir Haute Beauté,469.87,35,2024-07-02,Paris,126,91,7
+P00391,Soins de la peau,Luxe eclat,350.19,72,2024-04-05,Lyon,159,87,4
+P00391,Soins de la peau,Luxe eclat,350.19,72,2024-08-04,Paris,35,-37,8
+P00392,Accessoires,Maison Pure,52.56,75,2024-01-27,Paris,44,-31,1
+P00393,Accessoires,Essentielle Paris,164.46,34,2024-01-08,Lyon,149,115,1
+P00393,Accessoires,Essentielle Paris,164.46,34,2024-09-04,Marseille,99,65,9
+P00394,Soins de la peau,Reflet d'or,359.92,12,2024-10-23,Lyon,153,141,10
+P00394,Soins de la peau,Reflet d'or,359.92,12,2024-07-04,Paris,289,277,7
+P00395,Accessoires,Elixir Haute Beauté,52.33,81,2024-01-06,Marseille,82,1,1
+P00395,Accessoires,Elixir Haute Beauté,52.33,81,2024-09-16,Lyon,36,-45,9
+P00396,Accessoires,Luxe eclat,299.44,53,2024-03-16,Paris,123,70,3
+P00397,Accessoires,Maison Pure,186.02,51,2024-06-23,Paris,86,35,6
+P00398,Maquillage,Essentielle Paris,318.04,15,2024-06-08,Marseille,53,38,6
+P00398,Maquillage,Essentielle Paris,318.04,15,2024-01-09,Paris,21,6,1
+P00399,Soins capillaires,Reflet d'or,41.96,48,2024-11-11,Paris,172,124,11
+P00400,Parfums,Elixir Haute Beauté,438.34,61,2024-09-08,Lyon,227,166,9
+P00400,Parfums,Elixir Haute Beauté,438.34,61,2024-12-26,Paris,237,176,12
+P00401,Maquillage,Luxe eclat,487.27,32,2024-03-06,Lyon,119,87,3
+P00402,Accessoires,Maison Pure,485.06,98,2024-01-27,Lyon,169,71,1
+P00403,Soins de la peau,Essentielle Paris,379.83,59,2024-02-19,Paris,138,79,2
+P00404,Accessoires,Reflet d'or,82.44,52,2024-01-27,Lyon,282,230,1
+P00404,Accessoires,Reflet d'or,82.44,52,2024-01-08,Paris,98,46,1
+P00405,Soins capillaires,Elixir Haute Beauté,383.97,28,2024-10-08,Lyon,114,86,10
+P00405,Soins capillaires,Elixir Haute Beauté,383.97,28,2024-07-06,Marseille,259,231,7
+P00406,Accessoires,Luxe eclat,31.8,78,2024-05-18,Lyon,203,125,5
+P00406,Accessoires,Luxe eclat,31.8,78,2024-02-01,Marseille,257,179,2
+P00407,Soins de la peau,Maison Pure,30.62,60,2024-02-20,Lyon,6,-54,2
+P00407,Soins de la peau,Maison Pure,30.62,60,2024-05-02,Paris,209,149,5
+P00408,Soins capillaires,Essentielle Paris,175.33,20,2024-03-11,Paris,265,245,3
+P00409,Accessoires,Reflet d'or,254.55,21,2024-08-24,Marseille,252,231,8
+P00409,Accessoires,Reflet d'or,254.55,21,2024-02-01,Paris,139,118,2
+P00410,Soins capillaires,Elixir Haute Beauté,389.8,83,2024-03-06,Paris,159,76,3
+P00411,Parfums,Luxe eclat,347.98,17,2024-02-23,Lyon,161,144,2
+P00411,Parfums,Luxe eclat,347.98,17,2024-06-13,Paris,65,48,6
+P00412,Parfums,Maison Pure,234.03,33,2024-11-27,Marseille,276,243,11
+P00412,Parfums,Maison Pure,234.03,33,2024-03-02,Paris,212,179,3
+P00412,Parfums,Maison Pure,234.03,33,2024-10-16,Lyon,191,158,10
+P00413,Accessoires,Essentielle Paris,151.34,50,2024-10-02,Paris,89,39,10
+P00413,Accessoires,Essentielle Paris,151.34,50,2024-04-02,Lyon,115,65,4
+P00414,Soins capillaires,Reflet d'or,498.62,45,2024-06-23,Lyon,250,205,6
+P00414,Soins capillaires,Reflet d'or,498.62,45,2024-07-04,Paris,47,2,7
+P00415,Soins de la peau,Elixir Haute Beauté,224.57,94,2024-06-03,Marseille,193,99,6
+P00415,Soins de la peau,Elixir Haute Beauté,224.57,94,2024-09-25,Paris,146,52,9
+P00416,Accessoires,Luxe eclat,236.67,81,2024-03-18,Paris,169,88,3
+P00417,Parfums,Maison Pure,98.54,64,2024-11-15,Paris,76,12,11
+P00417,Parfums,Maison Pure,98.54,64,2024-09-01,Lyon,206,142,9
+P00418,Parfums,Essentielle Paris,401.51,18,2024-11-18,Marseille,216,198,11
+P00419,Accessoires,Reflet d'or,352.97,56,2024-11-18,Paris,185,129,11
+P00420,Soins capillaires,Elixir Haute Beauté,125.97,24,2024-03-01,Lyon,193,169,3
+P00420,Soins capillaires,Elixir Haute Beauté,125.97,24,2024-04-19,Paris,53,29,4
+P00421,Parfums,Luxe eclat,59.54,57,2024-05-24,Lyon,114,57,5
+P00421,Parfums,Luxe eclat,59.54,57,2024-07-07,Paris,7,-50,7
+P00422,Soins capillaires,Maison Pure,346.64,91,2024-08-12,Paris,224,133,8
+P00423,Parfums,Essentielle Paris,334.17,51,2024-08-22,Paris,286,235,8
+P00423,Parfums,Essentielle Paris,334.17,51,2024-11-22,Lyon,112,61,11
+P00424,Parfums,Reflet d'or,151.16,69,2024-09-29,Marseille,84,15,9
+P00424,Parfums,Reflet d'or,151.16,69,2024-05-24,Paris,152,83,5
+P00425,Maquillage,Elixir Haute Beauté,476.41,93,2024-09-04,Marseille,104,11,9
+P00425,Maquillage,Elixir Haute Beauté,476.41,93,2024-10-17,Paris,189,96,10
+P00425,Maquillage,Elixir Haute Beauté,476.41,93,2024-06-02,Lyon,271,178,6
+P00426,Parfums,Luxe eclat,92.51,79,2024-01-19,Paris,292,213,1
+P00427,Soins de la peau,Maison Pure,227.52,21,2024-10-21,Paris,255,234,10
+P00427,Soins de la peau,Maison Pure,227.52,21,2024-07-17,Lyon,5,-16,7
+P00428,Accessoires,Essentielle Paris,472.94,11,2024-05-13,Marseille,92,81,5
+P00428,Accessoires,Essentielle Paris,472.94,11,2024-05-08,Lyon,231,220,5
+P00429,Accessoires,Reflet d'or,221.47,16,2024-03-26,Paris,66,50,3
+P00429,Accessoires,Reflet d'or,221.47,16,2024-05-20,Lyon,4,-12,5
+P00430,Soins capillaires,Elixir Haute Beauté,326.49,89,2024-07-01,Marseille,12,-77,7
+P00430,Soins capillaires,Elixir Haute Beauté,326.49,89,2024-04-16,Lyon,223,134,4
+P00431,Parfums,Luxe eclat,210.85,12,2024-12-09,Marseille,81,69,12
+P00431,Parfums,Luxe eclat,210.85,12,2024-01-25,Paris,57,45,1
+P00432,Soins de la peau,Maison Pure,151.62,12,2024-07-01,Marseille,220,208,7
+P00432,Soins de la peau,Maison Pure,151.62,12,2024-07-02,Lyon,160,148,7
+P00433,Soins capillaires,Essentielle Paris,492.31,36,2024-07-07,Paris,80,44,7
+P00433,Soins capillaires,Essentielle Paris,492.31,36,2024-06-17,Lyon,31,-5,6
+P00434,Maquillage,Reflet d'or,216.48,49,2024-10-04,Paris,118,69,10
+P00435,Soins capillaires,Elixir Haute Beauté,449.17,42,2024-12-22,Paris,57,15,12
+P00435,Soins capillaires,Elixir Haute Beauté,449.17,42,2024-10-30,Marseille,124,82,10
+P00436,Soins capillaires,Luxe eclat,130.38,10,2024-10-09,Lyon,102,92,10
+P00436,Soins capillaires,Luxe eclat,130.38,10,2024-10-30,Paris,79,69,10
+P00437,Parfums,Maison Pure,122.29,17,2024-10-10,Lyon,251,234,10
+P00437,Parfums,Maison Pure,122.29,17,2024-02-28,Paris,204,187,2
+P00438,Maquillage,Essentielle Paris,34.94,41,2024-08-25,Marseille,44,3,8
+P00438,Maquillage,Essentielle Paris,34.94,41,2024-07-23,Paris,135,94,7
+P00439,Soins capillaires,Reflet d'or,332.8,57,2024-02-11,Paris,190,133,2
+P00439,Soins capillaires,Reflet d'or,332.8,57,2024-06-15,Lyon,252,195,6
+P00440,Soins de la peau,Elixir Haute Beauté,196.89,13,2024-09-18,Paris,299,286,9
+P00441,Soins de la peau,Luxe eclat,434.89,79,2024-05-23,Marseille,93,14,5
+P00442,Accessoires,Maison Pure,247.14,28,2024-01-19,Paris,260,232,1
+P00443,Maquillage,Essentielle Paris,484.73,41,2024-01-10,Paris,11,-30,1
+P00444,Maquillage,Reflet d'or,109.05,18,2024-08-07,Marseille,286,268,8
+P00444,Maquillage,Reflet d'or,109.05,18,2024-09-03,Paris,23,5,9
+P00445,Accessoires,Elixir Haute Beauté,436.94,21,2024-09-25,Paris,184,163,9
+P00445,Accessoires,Elixir Haute Beauté,436.94,21,2024-12-04,Marseille,281,260,12
+P00446,Soins capillaires,Luxe eclat,392.77,20,2024-06-20,Paris,186,166,6
+P00447,Maquillage,Maison Pure,390.04,55,2024-04-04,Paris,235,180,4
+P00447,Maquillage,Maison Pure,390.04,55,2024-07-12,Marseille,114,59,7
+P00447,Maquillage,Maison Pure,390.04,55,2024-04-15,Lyon,299,244,4
+P00448,Soins de la peau,Essentielle Paris,425.5,25,2024-12-30,Paris,277,252,12
+P00449,Soins de la peau,Reflet d'or,385.29,10,2024-07-13,Paris,33,23,7
+P00450,Parfums,Elixir Haute Beauté,320.59,72,2024-04-23,Paris,294,222,4
+P00450,Parfums,Elixir Haute Beauté,320.59,72,2024-09-13,Lyon,291,219,9
+P00451,Maquillage,Luxe eclat,83.0,30,2024-12-24,Lyon,247,217,12
+P00451,Maquillage,Luxe eclat,83.0,30,2024-10-10,Paris,257,227,10
+P00452,Soins capillaires,Maison Pure,35.61,39,2024-12-11,Lyon,86,47,12
+P00452,Soins capillaires,Maison Pure,35.61,39,2024-02-27,Paris,223,184,2
+P00453,Accessoires,Essentielle Paris,462.01,22,2024-11-08,Lyon,36,14,11
+P00453,Accessoires,Essentielle Paris,462.01,22,2024-05-19,Paris,107,85,5
+P00454,Accessoires,Reflet d'or,315.99,43,2024-04-22,Marseille,109,66,4
+P00454,Accessoires,Reflet d'or,315.99,43,2024-12-01,Paris,197,154,12
+P00455,Soins capillaires,Elixir Haute Beauté,402.34,13,2024-09-30,Paris,281,268,9
+P00455,Soins capillaires,Elixir Haute Beauté,402.34,13,2024-06-19,Lyon,195,182,6
+P00456,Parfums,Luxe eclat,251.13,37,2024-08-04,Lyon,67,30,8
+P00456,Parfums,Luxe eclat,251.13,37,2024-05-03,Marseille,63,26,5
+P00457,Accessoires,Maison Pure,76.31,68,2024-07-02,Lyon,108,40,7
+P00457,Accessoires,Maison Pure,76.31,68,2024-07-30,Paris,291,223,7
+P00457,Accessoires,Maison Pure,76.31,68,2024-11-23,Marseille,92,24,11
+P00458,Maquillage,Essentielle Paris,80.09,36,2024-06-14,Paris,152,116,6
+P00458,Maquillage,Essentielle Paris,80.09,36,2024-06-27,Marseille,128,92,6
+P00459,Parfums,Reflet d'or,349.07,78,2024-10-03,Paris,152,74,10
+P00459,Parfums,Reflet d'or,349.07,78,2024-12-22,Marseille,75,-3,12
+P00460,Maquillage,Elixir Haute Beauté,226.55,34,2024-10-18,Marseille,150,116,10
+P00460,Maquillage,Elixir Haute Beauté,226.55,34,2024-11-30,Lyon,156,122,11
+P00460,Maquillage,Elixir Haute Beauté,226.55,34,2024-03-16,Paris,226,192,3
+P00461,Soins de la peau,Luxe eclat,116.25,12,2024-07-16,Paris,87,75,7
+P00462,Parfums,Maison Pure,255.97,77,2024-05-16,Lyon,2,-75,5
+P00462,Parfums,Maison Pure,255.97,77,2024-03-26,Paris,255,178,3
+P00463,Accessoires,Essentielle Paris,50.82,34,2024-06-27,Marseille,248,214,6
+P00463,Accessoires,Essentielle Paris,50.82,34,2024-06-11,Paris,83,49,6
+P00464,Parfums,Reflet d'or,299.35,29,2024-11-30,Paris,104,75,11
+P00465,Parfums,Elixir Haute Beauté,149.12,43,2024-01-30,Paris,123,80,1
+P00466,Parfums,Luxe eclat,402.83,35,2024-11-21,Marseille,284,249,11
+P00467,Parfums,Maison Pure,168.97,14,2024-05-03,Paris,254,240,5
+P00468,Maquillage,Essentielle Paris,238.51,70,2024-08-29,Paris,5,-65,8
+P00468,Maquillage,Essentielle Paris,238.51,70,2024-05-06,Lyon,109,39,5
+P00469,Soins de la peau,Reflet d'or,25.58,18,2024-03-06,Marseille,226,208,3
+P00469,Soins de la peau,Reflet d'or,25.58,18,2024-07-10,Paris,80,62,7
+P00470,Soins capillaires,Elixir Haute Beauté,54.77,59,2024-07-25,Paris,231,172,7
+P00471,Parfums,Luxe eclat,208.4,15,2024-11-11,Paris,289,274,11
+P00472,Accessoires,Maison Pure,250.37,92,2024-06-30,Paris,159,67,6
+P00472,Accessoires,Maison Pure,250.37,92,2024-10-19,Lyon,113,21,10
+P00473,Parfums,Essentielle Paris,308.01,69,2024-05-21,Paris,81,12,5
+P00474,Accessoires,Reflet d'or,160.0,53,2024-06-17,Paris,177,124,6
+P00474,Accessoires,Reflet d'or,160.0,53,2024-04-02,Lyon,234,181,4
+P00475,Maquillage,Elixir Haute Beauté,353.59,20,2024-03-14,Marseille,97,77,3
+P00475,Maquillage,Elixir Haute Beauté,353.59,20,2024-04-02,Lyon,165,145,4
+P00475,Maquillage,Elixir Haute Beauté,353.59,20,2024-02-29,Paris,35,15,2
+P00476,Accessoires,Luxe eclat,432.86,75,2024-10-23,Paris,222,147,10
+P00477,Soins capillaires,Maison Pure,394.33,56,2024-12-13,Paris,236,180,12
+P00477,Soins capillaires,Maison Pure,394.33,56,2024-01-10,Marseille,32,-24,1
+P00478,Soins de la peau,Essentielle Paris,39.02,82,2024-01-07,Lyon,292,210,1
+P00479,Accessoires,Reflet d'or,250.64,94,2024-10-04,Marseille,236,142,10
+P00479,Accessoires,Reflet d'or,250.64,94,2024-11-02,Paris,264,170,11
+P00479,Accessoires,Reflet d'or,250.64,94,2024-03-26,Lyon,284,190,3
+P00480,Accessoires,Elixir Haute Beauté,70.37,97,2024-09-17,Lyon,269,172,9
+P00480,Accessoires,Elixir Haute Beauté,70.37,97,2024-05-31,Paris,296,199,5
+P00481,Soins de la peau,Luxe eclat,136.18,95,2024-03-08,Lyon,18,-77,3
+P00481,Soins de la peau,Luxe eclat,136.18,95,2024-12-17,Paris,206,111,12
+P00481,Soins de la peau,Luxe eclat,136.18,95,2024-04-22,Marseille,136,41,4
+P00482,Soins capillaires,Maison Pure,493.6,12,2024-09-22,Paris,279,267,9
+P00483,Parfums,Essentielle Paris,88.4,85,2024-01-08,Paris,261,176,1
+P00484,Accessoires,Reflet d'or,259.47,39,2024-06-11,Lyon,195,156,6
+P00484,Accessoires,Reflet d'or,259.47,39,2024-10-13,Marseille,249,210,10
+P00485,Soins de la peau,Elixir Haute Beauté,316.71,99,2024-12-27,Lyon,69,-30,12
+P00486,Maquillage,Luxe eclat,357.18,30,2024-06-17,Lyon,69,39,6
+P00487,Soins de la peau,Maison Pure,288.63,37,2024-02-01,Lyon,219,182,2
+P00487,Soins de la peau,Maison Pure,288.63,37,2024-04-14,Paris,11,-26,4
+P00488,Maquillage,Essentielle Paris,24.69,99,2024-04-17,Lyon,126,27,4
+P00488,Maquillage,Essentielle Paris,24.69,99,2024-11-04,Paris,100,1,11
+P00488,Maquillage,Essentielle Paris,24.69,99,2024-07-13,Marseille,213,114,7
+P00489,Soins capillaires,Reflet d'or,176.7,71,2024-12-25,Paris,272,201,12
+P00490,Parfums,Elixir Haute Beauté,268.5,42,2024-02-13,Paris,164,122,2
+P00491,Soins de la peau,Luxe eclat,62.18,94,2024-12-18,Lyon,192,98,12
+P00491,Soins de la peau,Luxe eclat,62.18,94,2024-04-09,Marseille,197,103,4
+P00492,Accessoires,Maison Pure,188.3,44,2024-01-28,Paris,268,224,1
+P00493,Soins capillaires,Essentielle Paris,35.94,61,2024-02-22,Marseille,6,-55,2
+P00493,Soins capillaires,Essentielle Paris,35.94,61,2024-04-20,Paris,224,163,4
+P00494,Soins de la peau,Reflet d'or,57.72,43,2024-06-06,Paris,194,151,6
+P00494,Soins de la peau,Reflet d'or,57.72,43,2024-02-20,Marseille,93,50,2
+P00495,Accessoires,Elixir Haute Beauté,210.52,50,2024-08-01,Marseille,219,169,8
+P00495,Accessoires,Elixir Haute Beauté,210.52,50,2024-09-15,Paris,254,204,9
+P00496,Soins de la peau,Luxe eclat,83.7,60,2024-07-01,Paris,161,101,7
+P00496,Soins de la peau,Luxe eclat,83.7,60,2024-05-12,Lyon,203,143,5
+P00497,Maquillage,Maison Pure,292.42,56,2024-09-01,Marseille,247,191,9
+P00497,Maquillage,Maison Pure,292.42,56,2024-08-04,Lyon,298,242,8
+P00498,Soins de la peau,Essentielle Paris,350.94,91,2024-11-06,Marseille,180,89,11
+P00498,Soins de la peau,Essentielle Paris,350.94,91,2024-10-15,Lyon,287,196,10
+P00499,Soins de la peau,Reflet d'or,404.28,67,2024-10-16,Paris,30,-37,10
+P00500,Soins de la peau,Elixir Haute Beauté,116.07,84,2024-10-15,Paris,131,47,10
+P00501,Soins capillaires,Clarté Botanique,100.39,66,2024-12-30,Paris,279,213,12
+P00502,Soins de la peau,Atelier Minéral,70.19,32,2024-09-08,Paris,199,167,9
+P00503,Accessoires,Silhouette Paris,325.49,57,2024-02-04,Marseille,98,41,2
+P00504,Maquillage,Natura Solaire,359.11,31,2024-08-10,Marseille,105,74,8
+P00504,Maquillage,Natura Solaire,359.11,31,2024-01-28,Lyon,94,63,1
+P00505,Maquillage,Les Essences Rares,35.16,26,2024-05-29,Paris,1,-25,5
+P00505,Maquillage,Les Essences Rares,35.16,26,2024-03-27,Lyon,121,95,3
+P00506,Soins de la peau,Maison Vitalis,469.38,78,2024-11-15,Paris,20,-58,11
+P00506,Soins de la peau,Maison Vitalis,469.38,78,2024-12-16,Marseille,125,47,12
+P00507,Soins capillaires,Aroma Sublime,44.95,20,2024-04-03,Marseille,288,268,4
+P00507,Soins capillaires,Aroma Sublime,44.95,20,2024-10-31,Paris,22,2,10
+P00508,Soins capillaires,Ãpure d'Azur,279.82,24,2024-04-02,Paris,107,83,4
+P00508,Soins capillaires,Ãpure d'Azur,279.82,24,2024-04-22,Lyon,259,235,4
+P00509,Accessoires,Ligne LumiÃ¨re,360.35,44,2024-12-11,Lyon,54,10,12
+P00510,Soins de la peau,Soin Absolu,438.07,42,2024-01-29,Lyon,51,9,1
+P00510,Soins de la peau,Soin Absolu,438.07,42,2024-06-22,Paris,90,48,6
+P00511,Maquillage,Cosmétika,362.76,93,2024-05-31,Paris,119,26,5
+P00512,Soins capillaires,Jardin dâIvoire,404.83,25,2024-10-14,Marseille,131,106,10
+P00512,Soins capillaires,Jardin dâIvoire,404.83,25,2024-01-07,Paris,72,47,1
+P00513,Soins de la peau,Beauté Origine,182.94,43,2024-08-13,Paris,18,-25,8
+P00513,Soins de la peau,Beauté Origine,182.94,43,2024-08-26,Lyon,298,255,8
+P00514,Soins capillaires,Orchidée Noire,411.12,75,2024-10-03,Paris,64,-11,10
+P00514,Soins capillaires,Orchidée Noire,411.12,75,2024-05-10,Marseille,166,91,5
+P00514,Soins capillaires,Orchidée Noire,411.12,75,2024-03-12,Lyon,100,25,3
+P00515,Soins capillaires,LâAtelier du Teint,58.46,49,2024-12-15,Paris,81,32,12
+P00516,Maquillage,Déesse Cosmétique,449.51,37,2024-01-05,Lyon,180,143,1
+P00516,Maquillage,Déesse Cosmétique,449.51,37,2024-03-08,Paris,82,45,3
+P00517,Parfums,Secret de Peau,282.84,56,2024-01-22,Marseille,221,165,1
+P00517,Parfums,Secret de Peau,282.84,56,2024-08-27,Lyon,140,84,8
+P00518,Accessoires,Rose & Lin,412.3,48,2024-07-21,Marseille,146,98,7
+P00519,Accessoires,Le Bain Royal,237.11,79,2024-02-03,Paris,8,-71,2
+P00520,Maquillage,Sérum de Lune,328.92,82,2024-04-05,Paris,130,48,4
+P00520,Maquillage,Sérum de Lune,328.92,82,2024-09-24,Lyon,133,51,9
+P00521,Soins capillaires,Aura Cristal,272.67,29,2024-11-27,Paris,168,139,11
+P00521,Soins capillaires,Aura Cristal,272.67,29,2024-04-18,Marseille,2,-27,4
+P00522,Soins de la peau,Infusion Précieuse,371.16,10,2024-05-08,Paris,87,77,5
+P00523,Soins capillaires,Velours Naturel,59.18,81,2024-06-28,Paris,145,64,6
+P00524,Maquillage,Ãveil Ãlégant,48.97,96,2024-02-01,Lyon,54,-42,2
+P00524,Maquillage,Ãveil Ãlégant,48.97,96,2024-07-18,Paris,71,-25,7
+P00525,Accessoires,Héritage Sensuel,138.61,72,2024-03-14,Lyon,55,-17,3
+P00525,Accessoires,Héritage Sensuel,138.61,72,2024-02-02,Paris,279,207,2
+P00526,Soins capillaires,Clarté Botanique,96.58,76,2024-07-28,Lyon,212,136,7
+P00527,Accessoires,Atelier Minéral,438.46,13,2024-01-29,Paris,242,229,1
+P00527,Accessoires,Atelier Minéral,438.46,13,2024-08-22,Lyon,91,78,8
+P00528,Soins de la peau,Silhouette Paris,125.22,67,2024-02-20,Paris,263,196,2
+P00529,Accessoires,Natura Solaire,488.42,34,2024-06-11,Paris,297,263,6
+P00530,Accessoires,Les Essences Rares,181.71,56,2024-08-14,Marseille,80,24,8
+P00530,Accessoires,Les Essences Rares,181.71,56,2024-10-08,Paris,115,59,10
+P00531,Parfums,Maison Vitalis,107.42,47,2024-09-23,Paris,260,213,9
+P00532,Parfums,Aroma Sublime,399.06,24,2024-06-29,Paris,262,238,6
+P00533,Parfums,Ãpure d'Azur,336.18,72,2024-11-07,Paris,217,145,11
+P00533,Parfums,Ãpure d'Azur,336.18,72,2024-03-16,Lyon,48,-24,3
+P00534,Accessoires,Ligne LumiÃ¨re,259.13,30,2024-05-21,Marseille,240,210,5
+P00534,Accessoires,Ligne LumiÃ¨re,259.13,30,2024-02-12,Lyon,77,47,2
+P00535,Maquillage,Soin Absolu,286.57,66,2024-11-28,Paris,20,-46,11
+P00535,Maquillage,Soin Absolu,286.57,66,2024-01-02,Lyon,139,73,1
+P00536,Accessoires,Cosmétika,365.22,62,2024-07-22,Paris,45,-17,7
+P00537,Maquillage,Jardin dâIvoire,129.66,55,2024-10-23,Paris,277,222,10
+P00537,Maquillage,Jardin dâIvoire,129.66,55,2024-05-19,Lyon,198,143,5
+P00538,Maquillage,Beauté Origine,498.24,23,2024-03-17,Lyon,183,160,3
+P00539,Parfums,Orchidée Noire,487.9,85,2024-05-28,Paris,168,83,5
+P00540,Soins capillaires,LâAtelier du Teint,332.16,26,2024-05-15,Marseille,88,62,5
+P00541,Soins de la peau,Déesse Cosmétique,115.78,48,2024-04-15,Marseille,27,-21,4
+P00541,Soins de la peau,Déesse Cosmétique,115.78,48,2024-05-16,Paris,254,206,5
+P00542,Parfums,Secret de Peau,346.51,18,2024-06-27,Lyon,54,36,6
+P00542,Parfums,Secret de Peau,346.51,18,2024-03-24,Paris,145,127,3
+P00543,Parfums,Rose & Lin,54.66,86,2024-09-09,Paris,235,149,9
+P00544,Soins capillaires,Le Bain Royal,34.71,88,2024-10-19,Marseille,153,65,10
+P00545,Soins de la peau,Sérum de Lune,143.69,91,2024-02-23,Marseille,137,46,2
+P00545,Soins de la peau,Sérum de Lune,143.69,91,2024-12-10,Lyon,164,73,12
+P00546,Accessoires,Aura Cristal,242.06,15,2024-09-15,Lyon,284,269,9
+P00547,Accessoires,Infusion Précieuse,436.77,32,2024-02-25,Paris,198,166,2
+P00548,Parfums,Velours Naturel,369.04,68,2024-09-23,Paris,298,230,9
+P00548,Parfums,Velours Naturel,369.04,68,2024-10-23,Lyon,284,216,10
+P00549,Soins de la peau,Ãveil Ãlégant,376.5,55,2024-01-08,Paris,18,-37,1
+P00550,Parfums,Héritage Sensuel,224.24,47,2024-06-21,Marseille,105,58,6
+P00550,Parfums,Héritage Sensuel,224.24,47,2024-02-27,Lyon,103,56,2
+P00551,Maquillage,Clarté Botanique,186.05,23,2024-05-14,Paris,31,8,5
+P00551,Maquillage,Clarté Botanique,186.05,23,2024-02-09,Lyon,276,253,2
+P00552,Parfums,Atelier Minéral,198.1,81,2024-01-10,Paris,95,14,1
+P00552,Parfums,Atelier Minéral,198.1,81,2024-02-23,Marseille,174,93,2
+P00553,Parfums,Silhouette Paris,494.07,71,2024-05-28,Marseille,108,37,5
+P00553,Parfums,Silhouette Paris,494.07,71,2024-07-03,Paris,30,-41,7
+P00554,Accessoires,Natura Solaire,39.25,44,2024-10-05,Marseille,72,28,10
+P00554,Accessoires,Natura Solaire,39.25,44,2024-02-22,Paris,104,60,2
+P00555,Accessoires,Les Essences Rares,436.18,28,2024-05-06,Paris,17,-11,5
+P00555,Accessoires,Les Essences Rares,436.18,28,2024-10-09,Lyon,299,271,10
+P00556,Accessoires,Maison Vitalis,297.76,39,2024-10-14,Paris,67,28,10
+P00557,Maquillage,Aroma Sublime,230.54,87,2024-12-15,Paris,222,135,12
+P00557,Maquillage,Aroma Sublime,230.54,87,2024-08-13,Marseille,106,19,8
+P00558,Accessoires,Ãpure d'Azur,368.12,93,2024-04-01,Marseille,10,-83,4
+P00558,Accessoires,Ãpure d'Azur,368.12,93,2024-11-15,Paris,80,-13,11
+P00559,Soins de la peau,Ligne LumiÃ¨re,253.6,34,2024-07-08,Paris,30,-4,7
+P00560,Soins capillaires,Soin Absolu,439.24,49,2024-11-04,Lyon,159,110,11
+P00560,Soins capillaires,Soin Absolu,439.24,49,2024-01-22,Paris,261,212,1
+P00561,Soins de la peau,Cosmétika,452.34,97,2024-03-05,Paris,11,-86,3
+P00561,Soins de la peau,Cosmétika,452.34,97,2024-04-06,Lyon,280,183,4
+P00562,Soins de la peau,Jardin dâIvoire,222.43,23,2024-05-29,Paris,119,96,5
+P00562,Soins de la peau,Jardin dâIvoire,222.43,23,2024-12-24,Lyon,169,146,12
+P00563,Accessoires,Beauté Origine,152.88,35,2024-06-27,Paris,203,168,6
+P00564,Soins capillaires,Orchidée Noire,304.33,96,2024-11-22,Paris,240,144,11
+P00565,Soins capillaires,LâAtelier du Teint,457.93,31,2024-12-23,Marseille,38,7,12
+P00565,Soins capillaires,LâAtelier du Teint,457.93,31,2024-02-11,Lyon,108,77,2
+P00566,Soins capillaires,Déesse Cosmétique,121.12,57,2024-08-29,Lyon,162,105,8
+P00567,Maquillage,Secret de Peau,319.02,92,2024-02-05,Paris,0,-92,2
+P00567,Maquillage,Secret de Peau,319.02,92,2024-06-21,Lyon,137,45,6
+P00568,Accessoires,Rose & Lin,323.15,60,2024-12-14,Lyon,239,179,12
+P00568,Accessoires,Rose & Lin,323.15,60,2024-10-15,Paris,209,149,10
+P00569,Soins capillaires,Le Bain Royal,371.89,12,2024-07-17,Paris,83,71,7
+P00569,Soins capillaires,Le Bain Royal,371.89,12,2024-08-28,Lyon,7,-5,8
+P00570,Maquillage,Sérum de Lune,83.15,51,2024-06-02,Lyon,208,157,6
+P00570,Maquillage,Sérum de Lune,83.15,51,2024-12-29,Paris,49,-2,12
+P00571,Parfums,Aura Cristal,363.6,28,2024-11-06,Paris,219,191,11
+P00571,Parfums,Aura Cristal,363.6,28,2024-01-04,Lyon,145,117,1
+P00572,Parfums,Infusion Précieuse,456.34,82,2024-10-20,Lyon,267,185,10
+P00573,Maquillage,Velours Naturel,106.25,37,2024-08-11,Paris,225,188,8
+P00573,Maquillage,Velours Naturel,106.25,37,2024-10-13,Lyon,266,229,10
+P00573,Maquillage,Velours Naturel,106.25,37,2024-01-09,Marseille,295,258,1
+P00574,Maquillage,Ãveil Ãlégant,134.02,93,2024-05-31,Lyon,197,104,5
+P00574,Maquillage,Ãveil Ãlégant,134.02,93,2024-05-08,Marseille,173,80,5
+P00575,Accessoires,Héritage Sensuel,486.27,54,2024-06-07,Marseille,200,146,6
+P00575,Accessoires,Héritage Sensuel,486.27,54,2024-05-26,Lyon,2,-52,5
+P00576,Accessoires,Clarté Botanique,106.87,80,2024-09-24,Lyon,82,2,9
+P00577,Parfums,Atelier Minéral,430.1,87,2024-08-09,Paris,256,169,8
+P00577,Parfums,Atelier Minéral,430.1,87,2024-08-21,Lyon,80,-7,8
+P00578,Soins capillaires,Silhouette Paris,256.29,72,2024-06-07,Lyon,262,190,6
+P00578,Soins capillaires,Silhouette Paris,256.29,72,2024-11-07,Paris,16,-56,11
+P00579,Parfums,Natura Solaire,138.67,82,2024-09-19,Paris,131,49,9
+P00579,Parfums,Natura Solaire,138.67,82,2024-02-22,Lyon,151,69,2
+P00580,Soins capillaires,Les Essences Rares,437.96,28,2024-04-22,Paris,8,-20,4
+P00580,Soins capillaires,Les Essences Rares,437.96,28,2024-08-25,Marseille,57,29,8
+P00581,Soins capillaires,Maison Vitalis,233.75,56,2024-09-27,Paris,204,148,9
+P00581,Soins capillaires,Maison Vitalis,233.75,56,2024-04-19,Lyon,248,192,4
+P00582,Accessoires,Aroma Sublime,267.11,23,2024-08-30,Paris,153,130,8
+P00582,Accessoires,Aroma Sublime,267.11,23,2024-12-21,Lyon,295,272,12
+P00583,Soins de la peau,Ãpure d'Azur,192.43,47,2024-03-14,Marseille,63,16,3
+P00583,Soins de la peau,Ãpure d'Azur,192.43,47,2024-08-31,Paris,23,-24,8
+P00584,Soins de la peau,Ligne LumiÃ¨re,304.62,62,2024-11-14,Lyon,288,226,11
+P00584,Soins de la peau,Ligne LumiÃ¨re,304.62,62,2024-02-08,Paris,171,109,2
+P00585,Maquillage,Soin Absolu,98.49,70,2024-08-17,Lyon,296,226,8
+P00586,Accessoires,Cosmétika,207.72,45,2024-12-26,Paris,29,-16,12
+P00587,Soins capillaires,Jardin dâIvoire,485.32,49,2024-01-18,Marseille,286,237,1
+P00587,Soins capillaires,Jardin dâIvoire,485.32,49,2024-06-08,Paris,268,219,6
+P00587,Soins capillaires,Jardin dâIvoire,485.32,49,2024-06-30,Lyon,251,202,6
+P00588,Soins de la peau,Beauté Origine,143.9,90,2024-03-19,Lyon,214,124,3
+P00588,Soins de la peau,Beauté Origine,143.9,90,2024-01-21,Paris,46,-44,1
+P00589,Soins capillaires,Orchidée Noire,335.23,39,2024-08-11,Paris,172,133,8
+P00589,Soins capillaires,Orchidée Noire,335.23,39,2024-03-18,Marseille,107,68,3
+P00589,Soins capillaires,Orchidée Noire,335.23,39,2024-10-01,Lyon,9,-30,10
+P00590,Soins de la peau,LâAtelier du Teint,176.09,18,2024-03-20,Paris,150,132,3
+P00590,Soins de la peau,LâAtelier du Teint,176.09,18,2024-08-30,Lyon,235,217,8
+P00591,Soins de la peau,Déesse Cosmétique,391.27,73,2024-09-11,Lyon,205,132,9
+P00591,Soins de la peau,Déesse Cosmétique,391.27,73,2024-05-03,Marseille,44,-29,5
+P00591,Soins de la peau,Déesse Cosmétique,391.27,73,2024-12-03,Paris,120,47,12
+P00592,Soins de la peau,Secret de Peau,82.82,42,2024-07-20,Paris,256,214,7
+P00592,Soins de la peau,Secret de Peau,82.82,42,2024-03-23,Lyon,165,123,3
+P00593,Accessoires,Rose & Lin,485.51,61,2024-10-21,Paris,286,225,10
+P00594,Parfums,Le Bain Royal,237.82,98,2024-01-24,Marseille,195,97,1
+P00594,Parfums,Le Bain Royal,237.82,98,2024-02-13,Lyon,195,97,2
+P00595,Soins capillaires,Sérum de Lune,133.3,23,2024-06-22,Lyon,46,23,6
+P00595,Soins capillaires,Sérum de Lune,133.3,23,2024-04-03,Paris,31,8,4
+P00596,Accessoires,Aura Cristal,55.28,84,2024-04-28,Lyon,165,81,4
+P00596,Accessoires,Aura Cristal,55.28,84,2024-02-15,Paris,193,109,2
+P00597,Accessoires,Infusion Précieuse,101.48,62,2024-01-15,Paris,280,218,1
+P00598,Accessoires,Velours Naturel,269.49,68,2024-01-29,Marseille,152,84,1
+P00598,Accessoires,Velours Naturel,269.49,68,2024-04-29,Paris,198,130,4
+P00599,Accessoires,Ãveil Ãlégant,181.76,87,2024-09-02,Lyon,278,191,9
+P00599,Accessoires,Ãveil Ãlégant,181.76,87,2024-11-08,Paris,77,-10,11
+P00600,Accessoires,Héritage Sensuel,417.86,50,2024-01-11,Paris,63,13,1
+P00600,Accessoires,Héritage Sensuel,417.86,50,2024-05-22,Lyon,252,202,5
+P00601,Maquillage,Clarté Botanique,226.83,77,2024-04-14,Paris,276,199,4
+P00602,Soins capillaires,Atelier Minéral,139.38,77,2024-12-31,Lyon,238,161,12
+P00602,Soins capillaires,Atelier Minéral,139.38,77,2024-02-13,Paris,118,41,2
+P00603,Accessoires,Silhouette Paris,316.23,17,2024-04-25,Paris,249,232,4
+P00603,Accessoires,Silhouette Paris,316.23,17,2024-03-20,Lyon,196,179,3
+P00604,Soins capillaires,Natura Solaire,359.25,11,2024-05-14,Lyon,93,82,5
+P00604,Soins capillaires,Natura Solaire,359.25,11,2024-02-26,Paris,195,184,2
+P00605,Maquillage,Les Essences Rares,100.18,95,2024-01-11,Paris,199,104,1
+P00605,Maquillage,Les Essences Rares,100.18,95,2024-12-15,Marseille,84,-11,12
+P00606,Maquillage,Maison Vitalis,100.46,50,2024-10-19,Marseille,202,152,10
+P00606,Maquillage,Maison Vitalis,100.46,50,2024-02-03,Paris,130,80,2
+P00607,Soins capillaires,Aroma Sublime,37.6,64,2024-12-05,Paris,4,-60,12
+P00607,Soins capillaires,Aroma Sublime,37.6,64,2024-08-14,Lyon,272,208,8
+P00608,Soins de la peau,Ãpure d'Azur,373.47,25,2024-06-05,Paris,15,-10,6
+P00608,Soins de la peau,Ãpure d'Azur,373.47,25,2024-07-20,Lyon,229,204,7
+P00609,Parfums,Ligne LumiÃ¨re,338.63,71,2024-04-24,Marseille,30,-41,4
+P00610,Soins de la peau,Soin Absolu,247.82,57,2024-07-27,Paris,243,186,7
+P00611,Soins de la peau,Cosmétika,425.2,39,2024-02-23,Paris,251,212,2
+P00611,Soins de la peau,Cosmétika,425.2,39,2024-09-18,Lyon,10,-29,9
+P00612,Soins de la peau,Jardin dâIvoire,406.72,21,2024-04-21,Lyon,15,-6,4
+P00612,Soins de la peau,Jardin dâIvoire,406.72,21,2024-02-04,Marseille,66,45,2
+P00612,Soins de la peau,Jardin dâIvoire,406.72,21,2024-01-01,Paris,141,120,1
+P00613,Accessoires,Beauté Origine,300.97,44,2024-04-03,Paris,225,181,4
+P00614,Maquillage,Orchidée Noire,436.77,20,2024-10-03,Paris,85,65,10
+P00614,Maquillage,Orchidée Noire,436.77,20,2024-04-26,Marseille,77,57,4
+P00614,Maquillage,Orchidée Noire,436.77,20,2024-10-24,Lyon,171,151,10
+P00615,Soins de la peau,LâAtelier du Teint,118.8,73,2024-07-26,Paris,39,-34,7
+P00615,Soins de la peau,LâAtelier du Teint,118.8,73,2024-08-07,Marseille,71,-2,8
+P00616,Maquillage,Déesse Cosmétique,73.72,59,2024-10-15,Lyon,214,155,10
+P00617,Soins capillaires,Secret de Peau,149.48,94,2024-05-28,Paris,272,178,5
+P00617,Soins capillaires,Secret de Peau,149.48,94,2024-02-18,Lyon,203,109,2
+P00618,Parfums,Rose & Lin,47.4,30,2024-08-20,Lyon,35,5,8
+P00618,Parfums,Rose & Lin,47.4,30,2024-09-21,Paris,179,149,9
+P00619,Soins capillaires,Le Bain Royal,274.96,78,2024-11-27,Marseille,204,126,11
+P00619,Soins capillaires,Le Bain Royal,274.96,78,2024-03-23,Lyon,111,33,3
+P00620,Soins capillaires,Sérum de Lune,469.57,57,2024-02-13,Paris,129,72,2
+P00621,Accessoires,Aura Cristal,38.88,29,2024-10-23,Paris,290,261,10
+P00621,Accessoires,Aura Cristal,38.88,29,2024-04-12,Lyon,87,58,4
+P00622,Parfums,Infusion Précieuse,78.61,76,2024-05-14,Lyon,179,103,5
+P00622,Parfums,Infusion Précieuse,78.61,76,2024-01-22,Marseille,125,49,1
+P00623,Soins capillaires,Velours Naturel,237.06,53,2024-11-12,Paris,251,198,11
+P00624,Soins capillaires,Ãveil Ãlégant,468.26,42,2024-11-11,Paris,267,225,11
+P00624,Soins capillaires,Ãveil Ãlégant,468.26,42,2024-02-21,Lyon,163,121,2
+P00625,Parfums,Héritage Sensuel,171.75,82,2024-01-03,Paris,268,186,1
+P00625,Parfums,Héritage Sensuel,171.75,82,2024-09-06,Lyon,189,107,9
+P00626,Parfums,Clarté Botanique,263.47,70,2024-10-04,Paris,97,27,10
+P00627,Soins capillaires,Atelier Minéral,39.95,18,2024-07-20,Paris,289,271,7
+P00628,Parfums,Silhouette Paris,91.2,77,2024-08-03,Paris,143,66,8
+P00629,Soins capillaires,Natura Solaire,493.58,44,2024-04-03,Paris,98,54,4
+P00629,Soins capillaires,Natura Solaire,493.58,44,2024-04-26,Marseille,146,102,4
+P00630,Soins capillaires,Les Essences Rares,483.26,90,2024-03-12,Lyon,285,195,3
+P00630,Soins capillaires,Les Essences Rares,483.26,90,2024-05-15,Paris,248,158,5
+P00631,Accessoires,Maison Vitalis,22.37,97,2024-12-16,Lyon,273,176,12
+P00632,Soins de la peau,Aroma Sublime,476.87,74,2024-02-12,Lyon,247,173,2
+P00632,Soins de la peau,Aroma Sublime,476.87,74,2024-03-14,Paris,258,184,3
+P00633,Soins capillaires,Ãpure d'Azur,326.78,17,2024-07-28,Paris,157,140,7
+P00633,Soins capillaires,Ãpure d'Azur,326.78,17,2024-01-14,Lyon,20,3,1
+P00634,Maquillage,Ligne LumiÃ¨re,436.6,54,2024-08-27,Paris,169,115,8
+P00634,Maquillage,Ligne LumiÃ¨re,436.6,54,2024-08-04,Lyon,79,25,8
+P00635,Soins de la peau,Soin Absolu,238.28,96,2024-03-19,Paris,37,-59,3
+P00636,Soins de la peau,Cosmétika,267.49,56,2024-06-19,Paris,214,158,6
+P00637,Soins de la peau,Jardin dâIvoire,254.65,49,2024-06-12,Paris,273,224,6
+P00638,Accessoires,Beauté Origine,340.09,85,2024-03-09,Marseille,39,-46,3
+P00638,Accessoires,Beauté Origine,340.09,85,2024-01-21,Lyon,215,130,1
+P00639,Soins capillaires,Orchidée Noire,87.03,63,2024-12-02,Paris,5,-58,12
+P00639,Soins capillaires,Orchidée Noire,87.03,63,2024-02-16,Lyon,134,71,2
+P00640,Accessoires,LâAtelier du Teint,34.39,85,2024-05-14,Lyon,187,102,5
+P00640,Accessoires,LâAtelier du Teint,34.39,85,2024-11-16,Paris,73,-12,11
+P00641,Soins capillaires,Déesse Cosmétique,167.81,55,2024-04-19,Marseille,191,136,4
+P00641,Soins capillaires,Déesse Cosmétique,167.81,55,2024-07-13,Paris,140,85,7
+P00642,Accessoires,Secret de Peau,358.25,56,2024-03-08,Lyon,4,-52,3
+P00642,Accessoires,Secret de Peau,358.25,56,2024-02-03,Marseille,114,58,2
+P00643,Accessoires,Rose & Lin,116.89,24,2024-11-01,Paris,270,246,11
+P00644,Maquillage,Le Bain Royal,343.25,28,2024-10-13,Paris,26,-2,10
+P00644,Maquillage,Le Bain Royal,343.25,28,2024-11-11,Lyon,111,83,11
+P00645,Accessoires,Sérum de Lune,485.56,35,2024-12-27,Lyon,156,121,12
+P00645,Accessoires,Sérum de Lune,485.56,35,2024-07-12,Marseille,42,7,7
+P00646,Parfums,Aura Cristal,65.07,61,2024-01-04,Lyon,244,183,1
+P00646,Parfums,Aura Cristal,65.07,61,2024-07-13,Paris,203,142,7
+P00647,Maquillage,Infusion Précieuse,342.85,31,2024-01-14,Paris,119,88,1
+P00647,Maquillage,Infusion Précieuse,342.85,31,2024-05-27,Lyon,32,1,5
+P00648,Accessoires,Velours Naturel,233.0,30,2024-05-21,Lyon,134,104,5
+P00649,Soins de la peau,Ãveil Ãlégant,436.71,60,2024-11-21,Marseille,162,102,11
+P00649,Soins de la peau,Ãveil Ãlégant,436.71,60,2024-11-29,Lyon,128,68,11
+P00650,Parfums,Héritage Sensuel,105.03,47,2024-05-09,Paris,134,87,5
+P00650,Parfums,Héritage Sensuel,105.03,47,2024-11-23,Lyon,29,-18,11
+P00651,Parfums,Clarté Botanique,352.46,29,2024-05-07,Marseille,59,30,5
+P00651,Parfums,Clarté Botanique,352.46,29,2024-04-12,Paris,18,-11,4
+P00652,Parfums,Atelier Minéral,422.3,38,2024-07-21,Paris,152,114,7
+P00653,Maquillage,Silhouette Paris,473.41,60,2024-09-03,Paris,101,41,9
+P00654,Accessoires,Natura Solaire,347.96,13,2024-05-18,Lyon,42,29,5
+P00654,Accessoires,Natura Solaire,347.96,13,2024-02-11,Marseille,250,237,2
+P00655,Accessoires,Les Essences Rares,258.64,64,2024-07-29,Lyon,261,197,7
+P00655,Accessoires,Les Essences Rares,258.64,64,2024-07-16,Paris,16,-48,7
+P00656,Soins de la peau,Maison Vitalis,316.57,80,2024-04-18,Marseille,294,214,4
+P00657,Soins de la peau,Aroma Sublime,437.07,37,2024-03-07,Paris,59,22,3
+P00657,Soins de la peau,Aroma Sublime,437.07,37,2024-07-11,Lyon,228,191,7
+P00658,Parfums,Ãpure d'Azur,293.89,13,2024-12-18,Paris,79,66,12
+P00659,Soins de la peau,Ligne LumiÃ¨re,34.59,31,2024-11-25,Lyon,61,30,11
+P00660,Maquillage,Soin Absolu,466.86,85,2024-12-27,Paris,288,203,12
+P00660,Maquillage,Soin Absolu,466.86,85,2024-10-18,Marseille,172,87,10
+P00661,Accessoires,Cosmétika,350.97,54,2024-01-29,Lyon,215,161,1
+P00661,Accessoires,Cosmétika,350.97,54,2024-01-05,Paris,285,231,1
+P00662,Parfums,Jardin dâIvoire,344.73,76,2024-03-07,Paris,177,101,3
+P00663,Soins de la peau,Beauté Origine,123.52,95,2024-09-07,Marseille,280,185,9
+P00663,Soins de la peau,Beauté Origine,123.52,95,2024-06-26,Paris,160,65,6
+P00664,Maquillage,Orchidée Noire,336.27,75,2024-08-30,Marseille,181,106,8
+P00665,Maquillage,LâAtelier du Teint,209.05,97,2024-06-12,Paris,293,196,6
+P00665,Maquillage,LâAtelier du Teint,209.05,97,2024-02-06,Lyon,174,77,2
+P00666,Soins de la peau,Déesse Cosmétique,332.59,43,2024-05-10,Paris,84,41,5
+P00666,Soins de la peau,Déesse Cosmétique,332.59,43,2024-10-28,Lyon,129,86,10
+P00667,Accessoires,Secret de Peau,71.16,64,2024-03-19,Paris,91,27,3
+P00668,Soins de la peau,Rose & Lin,335.77,10,2024-12-14,Lyon,74,64,12
+P00668,Soins de la peau,Rose & Lin,335.77,10,2024-11-02,Paris,207,197,11
+P00669,Parfums,Le Bain Royal,499.72,81,2024-05-22,Paris,105,24,5
+P00670,Soins de la peau,Sérum de Lune,43.14,96,2024-10-21,Lyon,272,176,10
+P00670,Soins de la peau,Sérum de Lune,43.14,96,2024-10-25,Paris,147,51,10
+P00671,Maquillage,Aura Cristal,489.04,47,2024-01-28,Marseille,273,226,1
+P00671,Maquillage,Aura Cristal,489.04,47,2024-11-26,Lyon,20,-27,11
+P00672,Soins de la peau,Infusion Précieuse,215.32,15,2024-07-12,Lyon,271,256,7
+P00672,Soins de la peau,Infusion Précieuse,215.32,15,2024-03-15,Paris,299,284,3
+P00673,Accessoires,Velours Naturel,437.96,95,2024-08-04,Paris,98,3,8
+P00674,Soins capillaires,Ãveil Ãlégant,395.55,34,2024-09-05,Marseille,93,59,9
+P00674,Soins capillaires,Ãveil Ãlégant,395.55,34,2024-11-19,Paris,283,249,11
+P00675,Soins de la peau,Héritage Sensuel,292.17,91,2024-09-02,Marseille,140,49,9
+P00675,Soins de la peau,Héritage Sensuel,292.17,91,2024-10-12,Paris,134,43,10
+P00676,Accessoires,Clarté Botanique,374.46,26,2024-08-15,Paris,60,34,8
+P00676,Accessoires,Clarté Botanique,374.46,26,2024-05-30,Lyon,0,-26,5
+P00677,Accessoires,Atelier Minéral,441.69,70,2024-10-10,Lyon,107,37,10
+P00678,Maquillage,Silhouette Paris,213.99,21,2024-11-05,Lyon,0,-21,11
+P00678,Maquillage,Silhouette Paris,213.99,21,2024-12-26,Paris,256,235,12
+P00679,Accessoires,Natura Solaire,176.98,15,2024-04-16,Paris,78,63,4
+P00679,Accessoires,Natura Solaire,176.98,15,2024-05-03,Lyon,202,187,5
+P00680,Accessoires,Les Essences Rares,340.44,99,2024-11-25,Paris,264,165,11
+P00680,Accessoires,Les Essences Rares,340.44,99,2024-03-19,Lyon,262,163,3
+P00681,Accessoires,Maison Vitalis,407.77,36,2024-12-16,Marseille,12,-24,12
+P00681,Accessoires,Maison Vitalis,407.77,36,2024-10-09,Paris,18,-18,10
+P00682,Accessoires,Aroma Sublime,385.9,17,2024-11-03,Lyon,160,143,11
+P00682,Accessoires,Aroma Sublime,385.9,17,2024-06-17,Marseille,141,124,6
+P00683,Parfums,Ãpure d'Azur,402.95,92,2024-10-12,Lyon,145,53,10
+P00684,Parfums,Ligne LumiÃ¨re,229.08,74,2024-12-08,Lyon,163,89,12
+P00684,Parfums,Ligne LumiÃ¨re,229.08,74,2024-09-28,Marseille,169,95,9
+P00685,Maquillage,Soin Absolu,412.56,66,2024-08-29,Paris,71,5,8
+P00685,Maquillage,Soin Absolu,412.56,66,2024-01-03,Lyon,25,-41,1
+P00686,Soins de la peau,Cosmétika,77.7,49,2024-01-16,Lyon,140,91,1
+P00687,Accessoires,Jardin dâIvoire,281.35,23,2024-10-10,Paris,213,190,10
+P00688,Soins de la peau,Beauté Origine,22.76,44,2024-05-31,Marseille,67,23,5
+P00689,Soins de la peau,Orchidée Noire,175.8,57,2024-01-02,Paris,5,-52,1
+P00690,Maquillage,LâAtelier du Teint,195.9,93,2024-01-31,Lyon,264,171,1
+P00691,Accessoires,Déesse Cosmétique,210.16,65,2024-07-17,Paris,12,-53,7
+P00692,Accessoires,Secret de Peau,353.82,58,2024-02-16,Marseille,54,-4,2
+P00692,Accessoires,Secret de Peau,353.82,58,2024-02-28,Paris,273,215,2
+P00692,Accessoires,Secret de Peau,353.82,58,2024-05-31,Lyon,209,151,5
+P00693,Soins capillaires,Rose & Lin,206.51,22,2024-03-07,Marseille,267,245,3
+P00693,Soins capillaires,Rose & Lin,206.51,22,2024-04-06,Lyon,248,226,4
+P00694,Soins de la peau,Le Bain Royal,235.37,70,2024-03-04,Lyon,243,173,3
+P00694,Soins de la peau,Le Bain Royal,235.37,70,2024-10-23,Paris,276,206,10
+P00695,Soins de la peau,Sérum de Lune,134.02,58,2024-09-06,Paris,125,67,9
+P00696,Parfums,Aura Cristal,199.16,55,2024-12-01,Marseille,212,157,12
+P00696,Parfums,Aura Cristal,199.16,55,2024-04-19,Paris,161,106,4
+P00697,Soins capillaires,Infusion Précieuse,129.09,71,2024-04-29,Lyon,50,-21,4
+P00697,Soins capillaires,Infusion Précieuse,129.09,71,2024-12-08,Paris,278,207,12
+P00698,Parfums,Velours Naturel,55.13,17,2024-11-22,Paris,0,-17,11
+P00699,Parfums,Ãveil Ãlégant,309.66,52,2024-02-05,Paris,196,144,2
+P00699,Parfums,Ãveil Ãlégant,309.66,52,2024-11-14,Lyon,143,91,11
+P00700,Parfums,Héritage Sensuel,340.74,29,2024-04-13,Lyon,276,247,4
+P00700,Parfums,Héritage Sensuel,340.74,29,2024-02-01,Paris,90,61,2
+P00701,Maquillage,Clarté Botanique,317.36,99,2024-10-15,Paris,259,160,10
+P00702,Maquillage,Atelier Minéral,242.48,48,2024-05-30,Paris,163,115,5
+P00702,Maquillage,Atelier Minéral,242.48,48,2024-10-18,Lyon,164,116,10
+P00703,Parfums,Silhouette Paris,202.3,94,2024-09-05,Lyon,191,97,9
+P00703,Parfums,Silhouette Paris,202.3,94,2024-04-15,Paris,7,-87,4
+P00704,Soins capillaires,Natura Solaire,434.4,58,2024-12-05,Marseille,104,46,12
+P00704,Soins capillaires,Natura Solaire,434.4,58,2024-11-30,Paris,156,98,11
+P00705,Soins de la peau,Les Essences Rares,269.16,73,2024-06-29,Lyon,25,-48,6
+P00705,Soins de la peau,Les Essences Rares,269.16,73,2024-06-18,Paris,141,68,6
+P00706,Soins capillaires,Maison Vitalis,250.01,71,2024-11-11,Lyon,130,59,11
+P00706,Soins capillaires,Maison Vitalis,250.01,71,2024-07-16,Paris,95,24,7
+P00707,Accessoires,Aroma Sublime,32.31,63,2024-01-17,Marseille,275,212,1
+P00707,Accessoires,Aroma Sublime,32.31,63,2024-09-15,Paris,178,115,9
+P00708,Maquillage,Ãpure d'Azur,183.8,18,2024-07-01,Lyon,202,184,7
+P00708,Maquillage,Ãpure d'Azur,183.8,18,2024-02-27,Paris,223,205,2
+P00709,Soins de la peau,Ligne LumiÃ¨re,202.49,97,2024-05-08,Lyon,224,127,5
+P00709,Soins de la peau,Ligne LumiÃ¨re,202.49,97,2024-10-10,Paris,105,8,10
+P00710,Soins de la peau,Soin Absolu,211.43,46,2024-10-06,Paris,202,156,10
+P00711,Accessoires,Cosmétika,298.48,58,2024-07-21,Paris,280,222,7
+P00711,Accessoires,Cosmétika,298.48,58,2024-12-13,Marseille,163,105,12
+P00712,Accessoires,Jardin dâIvoire,276.13,50,2024-07-08,Lyon,87,37,7
+P00712,Accessoires,Jardin dâIvoire,276.13,50,2024-09-11,Paris,283,233,9
+P00713,Parfums,Beauté Origine,311.79,26,2024-12-29,Paris,142,116,12
+P00714,Maquillage,Orchidée Noire,387.14,97,2024-09-29,Paris,239,142,9
+P00714,Maquillage,Orchidée Noire,387.14,97,2024-05-06,Lyon,70,-27,5
+P00715,Maquillage,LâAtelier du Teint,410.23,30,2024-11-12,Paris,78,48,11
+P00716,Soins capillaires,Déesse Cosmétique,364.7,60,2024-10-10,Paris,158,98,10
+P00717,Parfums,Secret de Peau,478.65,68,2024-05-07,Paris,20,-48,5
+P00717,Parfums,Secret de Peau,478.65,68,2024-10-20,Marseille,276,208,10
+P00718,Parfums,Rose & Lin,28.75,48,2024-02-09,Lyon,185,137,2
+P00718,Parfums,Rose & Lin,28.75,48,2024-09-29,Paris,241,193,9
+P00719,Parfums,Le Bain Royal,113.97,64,2024-09-17,Marseille,106,42,9
+P00719,Parfums,Le Bain Royal,113.97,64,2024-05-11,Lyon,272,208,5
+P00720,Parfums,Sérum de Lune,23.63,50,2024-02-21,Paris,25,-25,2
+P00720,Parfums,Sérum de Lune,23.63,50,2024-04-15,Marseille,200,150,4
+P00721,Maquillage,Aura Cristal,330.79,48,2024-04-19,Paris,104,56,4
+P00722,Maquillage,Infusion Précieuse,451.05,22,2024-04-14,Lyon,281,259,4
+P00722,Maquillage,Infusion Précieuse,451.05,22,2024-05-10,Paris,246,224,5
+P00723,Parfums,Velours Naturel,136.87,73,2024-04-02,Paris,66,-7,4
+P00723,Parfums,Velours Naturel,136.87,73,2024-09-21,Lyon,285,212,9
+P00724,Soins capillaires,Ãveil Ãlégant,464.98,20,2024-07-30,Marseille,250,230,7
+P00724,Soins capillaires,Ãveil Ãlégant,464.98,20,2024-09-25,Paris,161,141,9
+P00725,Soins de la peau,Héritage Sensuel,48.93,28,2024-10-01,Lyon,37,9,10
+P00725,Soins de la peau,Héritage Sensuel,48.93,28,2024-08-04,Paris,14,-14,8
+P00726,Soins de la peau,Clarté Botanique,468.53,20,2024-10-27,Lyon,141,121,10
+P00726,Soins de la peau,Clarté Botanique,468.53,20,2024-02-26,Paris,124,104,2
+P00727,Soins capillaires,Atelier Minéral,188.78,86,2024-04-10,Paris,52,-34,4
+P00728,Parfums,Silhouette Paris,68.68,55,2024-07-20,Paris,233,178,7
+P00729,Maquillage,Natura Solaire,253.22,54,2024-03-03,Lyon,181,127,3
+P00729,Maquillage,Natura Solaire,253.22,54,2024-05-06,Paris,10,-44,5
+P00730,Soins de la peau,Les Essences Rares,143.25,10,2024-08-03,Paris,151,141,8
+P00730,Soins de la peau,Les Essences Rares,143.25,10,2024-10-26,Lyon,183,173,10
+P00731,Accessoires,Maison Vitalis,156.74,49,2024-11-02,Lyon,247,198,11
+P00731,Accessoires,Maison Vitalis,156.74,49,2024-11-23,Paris,59,10,11
+P00732,Accessoires,Aroma Sublime,167.5,28,2024-07-23,Paris,5,-23,7
+P00732,Accessoires,Aroma Sublime,167.5,28,2024-02-18,Marseille,43,15,2
+P00733,Soins capillaires,Ãpure d'Azur,405.45,85,2024-05-05,Paris,213,128,5
+P00734,Parfums,Ligne LumiÃ¨re,278.8,81,2024-01-29,Lyon,188,107,1
+P00734,Parfums,Ligne LumiÃ¨re,278.8,81,2024-03-08,Paris,129,48,3
+P00735,Soins de la peau,Soin Absolu,169.43,81,2024-04-26,Paris,131,50,4
+P00736,Parfums,Cosmétika,312.96,70,2024-02-08,Paris,50,-20,2
+P00736,Parfums,Cosmétika,312.96,70,2024-01-17,Marseille,95,25,1
+P00737,Soins de la peau,Jardin dâIvoire,363.75,21,2024-02-28,Paris,267,246,2
+P00737,Soins de la peau,Jardin dâIvoire,363.75,21,2024-04-22,Lyon,252,231,4
+P00738,Soins capillaires,Beauté Origine,150.86,70,2024-01-09,Lyon,250,180,1
+P00738,Soins capillaires,Beauté Origine,150.86,70,2024-12-10,Paris,159,89,12
+P00739,Soins capillaires,Orchidée Noire,218.5,42,2024-12-09,Paris,4,-38,12
+P00739,Soins capillaires,Orchidée Noire,218.5,42,2024-08-14,Lyon,203,161,8
+P00740,Accessoires,LâAtelier du Teint,78.51,54,2024-11-26,Lyon,255,201,11
+P00740,Accessoires,LâAtelier du Teint,78.51,54,2024-12-25,Paris,90,36,12
+P00741,Parfums,Déesse Cosmétique,106.95,99,2024-12-11,Lyon,183,84,12
+P00741,Parfums,Déesse Cosmétique,106.95,99,2024-08-20,Paris,70,-29,8
+P00742,Accessoires,Secret de Peau,346.94,78,2024-07-13,Paris,285,207,7
+P00742,Accessoires,Secret de Peau,346.94,78,2024-06-26,Lyon,186,108,6
+P00743,Parfums,Rose & Lin,107.09,17,2024-09-23,Lyon,125,108,9
+P00743,Parfums,Rose & Lin,107.09,17,2024-02-05,Paris,195,178,2
+P00744,Accessoires,Le Bain Royal,272.08,34,2024-06-01,Paris,239,205,6
+P00744,Accessoires,Le Bain Royal,272.08,34,2024-07-06,Lyon,22,-12,7
+P00745,Maquillage,Sérum de Lune,360.34,55,2024-09-23,Paris,232,177,9
+P00746,Maquillage,Aura Cristal,71.3,96,2024-07-16,Marseille,124,28,7
+P00747,Maquillage,Infusion Précieuse,292.31,39,2024-08-13,Paris,45,6,8
+P00747,Maquillage,Infusion Précieuse,292.31,39,2024-09-15,Lyon,286,247,9
+P00748,Maquillage,Velours Naturel,143.15,56,2024-09-03,Paris,245,189,9
+P00749,Soins de la peau,Ãveil Ãlégant,482.2,96,2024-05-03,Marseille,123,27,5
+P00749,Soins de la peau,Ãveil Ãlégant,482.2,96,2024-08-14,Paris,187,91,8
+P00749,Soins de la peau,Ãveil Ãlégant,482.2,96,2024-06-03,Lyon,281,185,6
+P00750,Maquillage,Héritage Sensuel,252.1,58,2024-01-18,Marseille,122,64,1
+P00750,Maquillage,Héritage Sensuel,252.1,58,2024-05-04,Paris,10,-48,5
+P00751,Soins capillaires,Clarté Botanique,406.88,56,2024-10-08,Paris,120,64,10
+P00751,Soins capillaires,Clarté Botanique,406.88,56,2024-04-20,Marseille,45,-11,4
+P00752,Soins capillaires,Atelier Minéral,284.11,93,2024-04-01,Lyon,102,9,4
+P00753,Soins de la peau,Silhouette Paris,40.84,91,2024-07-28,Lyon,242,151,7
+P00754,Maquillage,Natura Solaire,323.91,27,2024-07-27,Lyon,45,18,7
+P00755,Maquillage,Les Essences Rares,476.67,75,2024-08-05,Marseille,51,-24,8
+P00756,Maquillage,Maison Vitalis,308.77,77,2024-11-17,Marseille,79,2,11
+P00757,Accessoires,Aroma Sublime,413.21,42,2024-12-14,Paris,250,208,12
+P00758,Parfums,Ãpure d'Azur,444.42,45,2024-11-02,Paris,0,-45,11
+P00758,Parfums,Ãpure d'Azur,444.42,45,2024-08-21,Lyon,83,38,8
+P00759,Accessoires,Ligne LumiÃ¨re,129.48,91,2024-08-31,Lyon,116,25,8
+P00759,Accessoires,Ligne LumiÃ¨re,129.48,91,2024-10-23,Paris,225,134,10
+P00759,Accessoires,Ligne LumiÃ¨re,129.48,91,2024-05-15,Marseille,115,24,5
+P00760,Parfums,Soin Absolu,121.78,28,2024-10-14,Paris,111,83,10
+P00760,Parfums,Soin Absolu,121.78,28,2024-10-06,Lyon,123,95,10
+P00761,Maquillage,Cosmétika,313.27,37,2024-11-12,Paris,126,89,11
+P00762,Maquillage,Jardin dâIvoire,217.29,49,2024-04-23,Lyon,22,-27,4
+P00762,Maquillage,Jardin dâIvoire,217.29,49,2024-10-27,Marseille,168,119,10
+P00763,Accessoires,Beauté Origine,423.13,93,2024-01-30,Lyon,32,-61,1
+P00763,Accessoires,Beauté Origine,423.13,93,2024-09-30,Paris,258,165,9
+P00764,Accessoires,Orchidée Noire,452.01,85,2024-05-15,Marseille,2,-83,5
+P00764,Accessoires,Orchidée Noire,452.01,85,2024-05-01,Paris,47,-38,5
+P00765,Parfums,LâAtelier du Teint,189.64,24,2024-06-28,Paris,164,140,6
+P00766,Soins capillaires,Déesse Cosmétique,133.7,50,2024-09-18,Marseille,269,219,9
+P00767,Parfums,Secret de Peau,394.65,48,2024-05-15,Paris,85,37,5
+P00768,Accessoires,Rose & Lin,151.91,11,2024-07-04,Paris,5,-6,7
+P00768,Accessoires,Rose & Lin,151.91,11,2024-09-09,Lyon,102,91,9
+P00769,Accessoires,Le Bain Royal,414.85,72,2024-02-10,Lyon,201,129,2
+P00769,Accessoires,Le Bain Royal,414.85,72,2024-09-16,Paris,294,222,9
+P00770,Soins de la peau,Sérum de Lune,223.39,38,2024-03-03,Lyon,68,30,3
+P00771,Accessoires,Aura Cristal,340.42,83,2024-02-04,Lyon,23,-60,2
+P00771,Accessoires,Aura Cristal,340.42,83,2024-11-13,Paris,210,127,11
+P00772,Soins de la peau,Infusion Précieuse,65.86,75,2024-12-08,Paris,184,109,12
+P00773,Soins capillaires,Velours Naturel,319.45,60,2024-04-10,Lyon,103,43,4
+P00773,Soins capillaires,Velours Naturel,319.45,60,2024-04-22,Paris,34,-26,4
+P00774,Parfums,Ãveil Ãlégant,236.85,84,2024-10-02,Paris,5,-79,10
+P00774,Parfums,Ãveil Ãlégant,236.85,84,2024-02-26,Lyon,100,16,2
+P00774,Parfums,Ãveil Ãlégant,236.85,84,2024-03-24,Marseille,133,49,3
+P00775,Parfums,Héritage Sensuel,301.57,86,2024-07-23,Paris,114,28,7
+P00775,Parfums,Héritage Sensuel,301.57,86,2024-01-08,Marseille,202,116,1
+P00776,Soins de la peau,Clarté Botanique,100.65,19,2024-11-17,Lyon,35,16,11
+P00776,Soins de la peau,Clarté Botanique,100.65,19,2024-06-20,Paris,220,201,6
+P00777,Parfums,Atelier Minéral,373.7,23,2024-10-25,Paris,58,35,10
+P00777,Parfums,Atelier Minéral,373.7,23,2024-11-22,Lyon,80,57,11
+P00778,Accessoires,Silhouette Paris,434.14,91,2024-02-25,Lyon,142,51,2
+P00779,Maquillage,Natura Solaire,124.04,60,2024-05-25,Lyon,56,-4,5
+P00779,Maquillage,Natura Solaire,124.04,60,2024-09-21,Paris,152,92,9
+P00780,Soins de la peau,Les Essences Rares,65.94,82,2024-06-30,Paris,79,-3,6
+P00780,Soins de la peau,Les Essences Rares,65.94,82,2024-04-05,Marseille,163,81,4
+P00781,Parfums,Maison Vitalis,31.35,48,2024-11-26,Lyon,292,244,11
+P00781,Parfums,Maison Vitalis,31.35,48,2024-09-20,Paris,226,178,9
+P00782,Soins de la peau,Aroma Sublime,328.15,37,2024-04-01,Marseille,287,250,4
+P00782,Soins de la peau,Aroma Sublime,328.15,37,2024-06-19,Lyon,260,223,6
+P00783,Soins de la peau,Ãpure d'Azur,311.41,12,2024-09-20,Paris,46,34,9
+P00784,Maquillage,Ligne LumiÃ¨re,282.41,93,2024-01-19,Paris,129,36,1
+P00784,Maquillage,Ligne LumiÃ¨re,282.41,93,2024-06-02,Lyon,37,-56,6
+P00785,Accessoires,Soin Absolu,131.33,79,2024-09-06,Paris,122,43,9
+P00785,Accessoires,Soin Absolu,131.33,79,2024-08-18,Lyon,115,36,8
+P00786,Soins de la peau,Cosmétika,207.63,36,2024-02-27,Paris,206,170,2
+P00786,Soins de la peau,Cosmétika,207.63,36,2024-07-16,Lyon,57,21,7
+P00787,Parfums,Jardin dâIvoire,305.35,11,2024-07-14,Paris,244,233,7
+P00788,Soins capillaires,Beauté Origine,258.45,47,2024-10-09,Paris,263,216,10
+P00788,Soins capillaires,Beauté Origine,258.45,47,2024-09-18,Lyon,231,184,9
+P00789,Soins de la peau,Orchidée Noire,494.14,12,2024-06-15,Lyon,66,54,6
+P00789,Soins de la peau,Orchidée Noire,494.14,12,2024-12-02,Paris,269,257,12
+P00790,Soins de la peau,LâAtelier du Teint,85.49,25,2024-09-09,Lyon,62,37,9
+P00790,Soins de la peau,LâAtelier du Teint,85.49,25,2024-08-18,Paris,65,40,8
+P00791,Maquillage,Déesse Cosmétique,353.67,49,2024-08-25,Lyon,187,138,8
+P00791,Maquillage,Déesse Cosmétique,353.67,49,2024-05-14,Paris,291,242,5
+P00792,Accessoires,Secret de Peau,214.07,11,2024-02-22,Paris,276,265,2
+P00792,Accessoires,Secret de Peau,214.07,11,2024-10-04,Lyon,156,145,10
+P00793,Soins capillaires,Rose & Lin,225.54,90,2024-12-14,Marseille,194,104,12
+P00793,Soins capillaires,Rose & Lin,225.54,90,2024-02-25,Paris,295,205,2
+P00794,Parfums,Le Bain Royal,364.45,50,2024-12-02,Lyon,193,143,12
+P00795,Soins capillaires,Sérum de Lune,352.37,21,2024-09-13,Marseille,176,155,9
+P00795,Soins capillaires,Sérum de Lune,352.37,21,2024-09-29,Paris,125,104,9
+P00795,Soins capillaires,Sérum de Lune,352.37,21,2024-03-15,Lyon,162,141,3
+P00796,Parfums,Aura Cristal,495.8,44,2024-06-19,Lyon,104,60,6
+P00796,Parfums,Aura Cristal,495.8,44,2024-06-06,Paris,233,189,6
+P00797,Accessoires,Infusion Précieuse,81.63,74,2024-07-17,Marseille,1,-73,7
+P00798,Parfums,Velours Naturel,69.97,64,2024-10-31,Lyon,279,215,10
+P00798,Parfums,Velours Naturel,69.97,64,2024-02-16,Marseille,56,-8,2
+P00799,Maquillage,Ãveil Ãlégant,367.68,54,2024-08-17,Paris,239,185,8
+P00800,Maquillage,Héritage Sensuel,297.63,88,2024-09-03,Paris,156,68,9
+P00800,Maquillage,Héritage Sensuel,297.63,88,2024-03-13,Lyon,9,-79,3
+P00801,Maquillage,Clarté Botanique,151.6,99,2024-11-07,Marseille,228,129,11
+P00801,Maquillage,Clarté Botanique,151.6,99,2024-09-03,Paris,290,191,9
+P00802,Maquillage,Atelier Minéral,58.12,94,2024-12-03,Paris,184,90,12
+P00803,Soins capillaires,Silhouette Paris,61.12,71,2024-02-06,Lyon,242,171,2
+P00804,Accessoires,Natura Solaire,449.21,58,2024-05-08,Paris,178,120,5
+P00804,Accessoires,Natura Solaire,449.21,58,2024-06-29,Lyon,24,-34,6
+P00804,Accessoires,Natura Solaire,449.21,58,2024-12-22,Marseille,159,101,12
+P00805,Parfums,Les Essences Rares,112.1,34,2024-07-27,Paris,52,18,7
+P00805,Parfums,Les Essences Rares,112.1,34,2024-01-10,Marseille,280,246,1
+P00806,Parfums,Maison Vitalis,175.22,32,2024-03-02,Lyon,29,-3,3
+P00806,Parfums,Maison Vitalis,175.22,32,2024-10-15,Paris,203,171,10
+P00807,Maquillage,Aroma Sublime,128.8,33,2024-02-28,Lyon,211,178,2
+P00807,Maquillage,Aroma Sublime,128.8,33,2024-10-15,Marseille,262,229,10
+P00808,Maquillage,Ãpure d'Azur,190.4,47,2024-10-28,Paris,110,63,10
+P00808,Maquillage,Ãpure d'Azur,190.4,47,2024-04-16,Marseille,248,201,4
+P00809,Soins de la peau,Ligne LumiÃ¨re,53.32,37,2024-05-01,Lyon,108,71,5
+P00810,Accessoires,Soin Absolu,269.15,30,2024-07-30,Marseille,26,-4,7
+P00810,Accessoires,Soin Absolu,269.15,30,2024-12-15,Lyon,236,206,12
+P00810,Accessoires,Soin Absolu,269.15,30,2024-11-02,Paris,54,24,11
+P00811,Soins capillaires,Cosmétika,52.45,63,2024-12-26,Marseille,290,227,12
+P00811,Soins capillaires,Cosmétika,52.45,63,2024-05-02,Paris,33,-30,5
+P00812,Parfums,Jardin dâIvoire,404.17,27,2024-09-21,Paris,2,-25,9
+P00813,Soins de la peau,Beauté Origine,132.18,45,2024-06-30,Lyon,238,193,6
+P00813,Soins de la peau,Beauté Origine,132.18,45,2024-06-08,Paris,148,103,6
+P00814,Soins de la peau,Orchidée Noire,279.21,54,2024-10-26,Marseille,145,91,10
+P00814,Soins de la peau,Orchidée Noire,279.21,54,2024-03-22,Paris,187,133,3
+P00815,Parfums,LâAtelier du Teint,442.44,82,2024-06-05,Paris,255,173,6
+P00815,Parfums,LâAtelier du Teint,442.44,82,2024-09-29,Lyon,31,-51,9
+P00816,Soins capillaires,Déesse Cosmétique,332.42,62,2024-03-02,Paris,147,85,3
+P00816,Soins capillaires,Déesse Cosmétique,332.42,62,2024-05-30,Marseille,3,-59,5
+P00817,Soins de la peau,Secret de Peau,275.82,39,2024-01-12,Paris,280,241,1
+P00817,Soins de la peau,Secret de Peau,275.82,39,2024-09-13,Lyon,163,124,9
+P00818,Soins de la peau,Rose & Lin,175.68,69,2024-09-24,Paris,240,171,9
+P00819,Accessoires,Le Bain Royal,179.84,41,2024-03-17,Marseille,5,-36,3
+P00819,Accessoires,Le Bain Royal,179.84,41,2024-10-01,Lyon,134,93,10
+P00820,Soins capillaires,Sérum de Lune,341.35,76,2024-05-22,Paris,223,147,5
+P00820,Soins capillaires,Sérum de Lune,341.35,76,2024-11-15,Lyon,207,131,11
+P00821,Soins de la peau,Aura Cristal,497.19,76,2024-10-13,Paris,198,122,10
+P00821,Soins de la peau,Aura Cristal,497.19,76,2024-04-24,Marseille,173,97,4
+P00822,Soins capillaires,Infusion Précieuse,337.68,37,2024-04-08,Marseille,273,236,4
+P00823,Parfums,Velours Naturel,287.74,53,2024-10-06,Paris,101,48,10
+P00824,Maquillage,Ãveil Ãlégant,370.71,88,2024-05-08,Marseille,41,-47,5
+P00824,Maquillage,Ãveil Ãlégant,370.71,88,2024-11-27,Paris,172,84,11
+P00824,Maquillage,Ãveil Ãlégant,370.71,88,2024-12-30,Lyon,58,-30,12
+P00825,Soins de la peau,Héritage Sensuel,243.3,50,2024-12-24,Paris,208,158,12
+P00826,Accessoires,Clarté Botanique,48.87,72,2024-07-30,Paris,8,-64,7
+P00826,Accessoires,Clarté Botanique,48.87,72,2024-01-08,Marseille,189,117,1
+P00827,Parfums,Atelier Minéral,289.9,32,2024-09-03,Lyon,169,137,9
+P00827,Parfums,Atelier Minéral,289.9,32,2024-08-02,Paris,288,256,8
+P00828,Soins capillaires,Silhouette Paris,479.66,84,2024-09-22,Paris,206,122,9
+P00828,Soins capillaires,Silhouette Paris,479.66,84,2024-10-02,Lyon,167,83,10
+P00829,Parfums,Natura Solaire,104.15,57,2024-02-27,Lyon,69,12,2
+P00830,Soins de la peau,Les Essences Rares,351.2,41,2024-08-11,Paris,208,167,8
+P00831,Soins capillaires,Maison Vitalis,116.45,66,2024-03-03,Lyon,17,-49,3
+P00832,Maquillage,Aroma Sublime,277.2,42,2024-06-16,Paris,124,82,6
+P00832,Maquillage,Aroma Sublime,277.2,42,2024-08-30,Lyon,36,-6,8
+P00833,Parfums,Ãpure d'Azur,66.4,33,2024-06-12,Lyon,111,78,6
+P00833,Parfums,Ãpure d'Azur,66.4,33,2024-10-05,Marseille,128,95,10
+P00834,Soins de la peau,Ligne LumiÃ¨re,236.18,48,2024-09-19,Marseille,50,2,9
+P00834,Soins de la peau,Ligne LumiÃ¨re,236.18,48,2024-12-07,Paris,166,118,12
+P00835,Accessoires,Soin Absolu,382.96,43,2024-09-15,Paris,45,2,9
+P00836,Soins capillaires,Cosmétika,186.83,65,2024-09-30,Paris,99,34,9
+P00836,Soins capillaires,Cosmétika,186.83,65,2024-02-24,Marseille,147,82,2
+P00837,Parfums,Jardin dâIvoire,339.16,37,2024-08-22,Paris,168,131,8
+P00837,Parfums,Jardin dâIvoire,339.16,37,2024-01-21,Marseille,103,66,1
+P00838,Parfums,Beauté Origine,401.82,46,2024-07-11,Lyon,159,113,7
+P00838,Parfums,Beauté Origine,401.82,46,2024-10-12,Marseille,46,0,10
+P00838,Parfums,Beauté Origine,401.82,46,2024-12-07,Paris,200,154,12
+P00839,Maquillage,Orchidée Noire,465.05,16,2024-06-13,Marseille,5,-11,6
+P00839,Maquillage,Orchidée Noire,465.05,16,2024-02-10,Paris,71,55,2
+P00840,Maquillage,LâAtelier du Teint,132.63,77,2024-08-19,Paris,53,-24,8
+P00840,Maquillage,LâAtelier du Teint,132.63,77,2024-08-15,Marseille,231,154,8
+P00841,Accessoires,Déesse Cosmétique,211.67,46,2024-03-30,Paris,238,192,3
+P00841,Accessoires,Déesse Cosmétique,211.67,46,2024-11-30,Lyon,95,49,11
+P00842,Accessoires,Secret de Peau,93.16,65,2024-03-16,Marseille,174,109,3
+P00842,Accessoires,Secret de Peau,93.16,65,2024-10-26,Paris,107,42,10
+P00843,Soins de la peau,Rose & Lin,496.39,74,2024-10-15,Paris,90,16,10
+P00843,Soins de la peau,Rose & Lin,496.39,74,2024-08-16,Lyon,198,124,8
+P00844,Soins de la peau,Le Bain Royal,464.96,74,2024-05-25,Marseille,280,206,5
+P00844,Soins de la peau,Le Bain Royal,464.96,74,2024-09-06,Paris,96,22,9
+P00845,Accessoires,Sérum de Lune,279.18,56,2024-11-03,Paris,189,133,11
+P00845,Accessoires,Sérum de Lune,279.18,56,2024-02-21,Marseille,21,-35,2
+P00846,Accessoires,Aura Cristal,424.18,29,2024-04-12,Lyon,177,148,4
+P00847,Soins capillaires,Infusion Précieuse,270.06,28,2024-07-18,Paris,109,81,7
+P00848,Maquillage,Velours Naturel,319.32,38,2024-10-24,Paris,284,246,10
+P00848,Maquillage,Velours Naturel,319.32,38,2024-02-27,Lyon,69,31,2
+P00849,Soins de la peau,Ãveil Ãlégant,62.78,83,2024-08-30,Marseille,54,-29,8
+P00849,Soins de la peau,Ãveil Ãlégant,62.78,83,2024-07-05,Paris,36,-47,7
+P00850,Maquillage,Héritage Sensuel,382.53,69,2024-10-04,Marseille,37,-32,10
+P00850,Maquillage,Héritage Sensuel,382.53,69,2024-06-02,Paris,30,-39,6
+P00851,Maquillage,Clarté Botanique,81.3,27,2024-04-30,Lyon,134,107,4
+P00851,Maquillage,Clarté Botanique,81.3,27,2024-11-02,Paris,99,72,11
+P00852,Accessoires,Atelier Minéral,416.51,44,2024-07-15,Lyon,194,150,7
+P00852,Accessoires,Atelier Minéral,416.51,44,2024-07-14,Paris,260,216,7
+P00853,Soins capillaires,Silhouette Paris,395.37,52,2024-01-05,Paris,165,113,1
+P00853,Soins capillaires,Silhouette Paris,395.37,52,2024-02-07,Lyon,32,-20,2
+P00854,Parfums,Natura Solaire,360.2,20,2024-09-25,Paris,191,171,9
+P00855,Soins capillaires,Les Essences Rares,37.36,58,2024-03-12,Marseille,165,107,3
+P00855,Soins capillaires,Les Essences Rares,37.36,58,2024-05-05,Paris,159,101,5
+P00856,Soins capillaires,Maison Vitalis,165.5,47,2024-05-14,Lyon,265,218,5
+P00856,Soins capillaires,Maison Vitalis,165.5,47,2024-08-21,Marseille,226,179,8
+P00857,Maquillage,Aroma Sublime,146.29,73,2024-04-29,Lyon,154,81,4
+P00857,Maquillage,Aroma Sublime,146.29,73,2024-11-28,Paris,296,223,11
+P00858,Soins capillaires,Ãpure d'Azur,192.87,78,2024-09-08,Paris,196,118,9
+P00858,Soins capillaires,Ãpure d'Azur,192.87,78,2024-01-23,Marseille,290,212,1
+P00859,Soins de la peau,Ligne LumiÃ¨re,62.07,17,2024-09-06,Marseille,128,111,9
+P00859,Soins de la peau,Ligne LumiÃ¨re,62.07,17,2024-08-05,Lyon,57,40,8
+P00860,Maquillage,Soin Absolu,469.74,43,2024-02-13,Marseille,148,105,2
+P00860,Maquillage,Soin Absolu,469.74,43,2024-11-05,Paris,285,242,11
+P00861,Soins de la peau,Cosmétika,285.83,57,2024-07-28,Paris,38,-19,7
+P00861,Soins de la peau,Cosmétika,285.83,57,2024-09-15,Lyon,23,-34,9
+P00862,Parfums,Jardin dâIvoire,166.65,65,2024-10-31,Lyon,49,-16,10
+P00863,Maquillage,Beauté Origine,210.55,85,2024-06-09,Marseille,199,114,6
+P00864,Parfums,Orchidée Noire,234.66,74,2024-05-17,Marseille,232,158,5
+P00864,Parfums,Orchidée Noire,234.66,74,2024-08-30,Paris,165,91,8
+P00865,Maquillage,LâAtelier du Teint,308.29,40,2024-10-07,Marseille,280,240,10
+P00865,Maquillage,LâAtelier du Teint,308.29,40,2024-11-21,Lyon,127,87,11
+P00866,Accessoires,Déesse Cosmétique,267.53,13,2024-05-13,Paris,30,17,5
+P00866,Accessoires,Déesse Cosmétique,267.53,13,2024-07-01,Lyon,19,6,7
+P00867,Soins capillaires,Secret de Peau,461.31,59,2024-02-23,Lyon,129,70,2
+P00867,Soins capillaires,Secret de Peau,461.31,59,2024-03-31,Paris,226,167,3
+P00868,Accessoires,Rose & Lin,258.54,78,2024-07-03,Marseille,14,-64,7
+P00868,Accessoires,Rose & Lin,258.54,78,2024-01-05,Paris,89,11,1
+P00869,Parfums,Le Bain Royal,496.24,39,2024-10-21,Paris,92,53,10
+P00870,Soins capillaires,Sérum de Lune,428.68,97,2024-09-06,Paris,29,-68,9
+P00870,Soins capillaires,Sérum de Lune,428.68,97,2024-03-14,Lyon,115,18,3
+P00871,Maquillage,Aura Cristal,120.09,68,2024-11-05,Paris,174,106,11
+P00871,Maquillage,Aura Cristal,120.09,68,2024-08-05,Marseille,71,3,8
+P00872,Soins capillaires,Infusion Précieuse,466.69,76,2024-10-05,Paris,98,22,10
+P00873,Soins de la peau,Velours Naturel,75.86,84,2024-08-08,Paris,283,199,8
+P00874,Soins capillaires,Ãveil Ãlégant,412.38,54,2024-10-19,Lyon,251,197,10
+P00875,Soins de la peau,Héritage Sensuel,202.7,13,2024-10-08,Lyon,124,111,10
+P00875,Soins de la peau,Héritage Sensuel,202.7,13,2024-04-19,Paris,118,105,4
+P00876,Soins capillaires,Clarté Botanique,441.43,35,2024-07-14,Paris,292,257,7
+P00877,Soins de la peau,Atelier Minéral,436.67,36,2024-05-30,Paris,176,140,5
+P00878,Parfums,Silhouette Paris,406.84,55,2024-11-23,Paris,48,-7,11
+P00878,Parfums,Silhouette Paris,406.84,55,2024-05-18,Lyon,293,238,5
+P00879,Accessoires,Natura Solaire,399.21,73,2024-06-14,Lyon,31,-42,6
+P00879,Accessoires,Natura Solaire,399.21,73,2024-11-30,Paris,246,173,11
+P00880,Maquillage,Les Essences Rares,166.25,60,2024-01-29,Lyon,38,-22,1
+P00880,Maquillage,Les Essences Rares,166.25,60,2024-10-08,Paris,215,155,10
+P00881,Soins capillaires,Maison Vitalis,58.84,59,2024-07-05,Paris,102,43,7
+P00881,Soins capillaires,Maison Vitalis,58.84,59,2024-07-08,Lyon,16,-43,7
+P00882,Accessoires,Aroma Sublime,213.43,15,2024-11-10,Paris,50,35,11
+P00883,Maquillage,Ãpure d'Azur,103.29,68,2024-09-10,Marseille,119,51,9
+P00883,Maquillage,Ãpure d'Azur,103.29,68,2024-11-27,Lyon,34,-34,11
+P00884,Maquillage,Ligne LumiÃ¨re,353.58,24,2024-03-14,Marseille,219,195,3
+P00884,Maquillage,Ligne LumiÃ¨re,353.58,24,2024-12-27,Lyon,283,259,12
+P00884,Maquillage,Ligne LumiÃ¨re,353.58,24,2024-02-14,Paris,273,249,2
+P00885,Soins de la peau,Soin Absolu,186.13,39,2024-07-18,Lyon,251,212,7
+P00886,Parfums,Cosmétika,488.29,51,2024-05-19,Lyon,76,25,5
+P00886,Parfums,Cosmétika,488.29,51,2024-03-28,Paris,153,102,3
+P00887,Parfums,Jardin dâIvoire,327.67,46,2024-08-29,Lyon,235,189,8
+P00888,Accessoires,Beauté Origine,414.79,51,2024-02-23,Marseille,67,16,2
+P00888,Accessoires,Beauté Origine,414.79,51,2024-02-21,Paris,72,21,2
+P00889,Parfums,Orchidée Noire,83.61,44,2024-02-04,Lyon,53,9,2
+P00889,Parfums,Orchidée Noire,83.61,44,2024-09-16,Paris,193,149,9
+P00890,Soins capillaires,LâAtelier du Teint,433.77,96,2024-10-27,Lyon,43,-53,10
+P00890,Soins capillaires,LâAtelier du Teint,433.77,96,2024-05-23,Marseille,273,177,5
+P00891,Parfums,Déesse Cosmétique,462.92,15,2024-09-10,Paris,115,100,9
+P00892,Accessoires,Secret de Peau,253.79,77,2024-09-06,Paris,169,92,9
+P00892,Accessoires,Secret de Peau,253.79,77,2024-03-20,Lyon,227,150,3
+P00893,Parfums,Rose & Lin,311.0,27,2024-03-26,Lyon,50,23,3
+P00893,Parfums,Rose & Lin,311.0,27,2024-09-05,Paris,137,110,9
+P00894,Soins capillaires,Le Bain Royal,387.11,82,2024-02-28,Lyon,147,65,2
+P00895,Soins de la peau,Sérum de Lune,103.92,38,2024-06-22,Lyon,63,25,6
+P00895,Soins de la peau,Sérum de Lune,103.92,38,2024-11-08,Paris,115,77,11
+P00896,Accessoires,Aura Cristal,261.23,86,2024-03-29,Paris,228,142,3
+P00896,Accessoires,Aura Cristal,261.23,86,2024-10-23,Lyon,249,163,10
+P00897,Soins de la peau,Infusion Précieuse,211.36,68,2024-04-17,Marseille,265,197,4
+P00897,Soins de la peau,Infusion Précieuse,211.36,68,2024-10-19,Lyon,26,-42,10
+P00898,Soins de la peau,Velours Naturel,90.26,56,2024-05-22,Lyon,149,93,5
+P00899,Soins de la peau,Ãveil Ãlégant,196.42,26,2024-04-12,Paris,267,241,4
+P00900,Maquillage,Héritage Sensuel,52.72,31,2024-08-07,Paris,253,222,8
+P00900,Maquillage,Héritage Sensuel,52.72,31,2024-08-21,Lyon,157,126,8
+P00901,Maquillage,Clarté Botanique,32.39,77,2024-07-13,Paris,45,-32,7
+P00902,Soins de la peau,Atelier Minéral,84.88,78,2024-11-28,Lyon,167,89,11
+P00902,Soins de la peau,Atelier Minéral,84.88,78,2024-06-25,Marseille,136,58,6
+P00903,Accessoires,Silhouette Paris,482.3,46,2024-10-10,Marseille,36,-10,10
+P00903,Accessoires,Silhouette Paris,482.3,46,2024-08-10,Paris,221,175,8
+P00904,Soins capillaires,Natura Solaire,283.77,58,2024-09-29,Paris,211,153,9
+P00905,Soins capillaires,Les Essences Rares,483.59,22,2024-12-12,Paris,27,5,12
+P00905,Soins capillaires,Les Essences Rares,483.59,22,2024-10-21,Marseille,56,34,10
+P00906,Parfums,Maison Vitalis,227.6,43,2024-03-13,Paris,11,-32,3
+P00906,Parfums,Maison Vitalis,227.6,43,2024-09-30,Marseille,42,-1,9
+P00906,Parfums,Maison Vitalis,227.6,43,2024-08-18,Lyon,296,253,8
+P00907,Accessoires,Aroma Sublime,169.67,95,2024-10-31,Paris,181,86,10
+P00907,Accessoires,Aroma Sublime,169.67,95,2024-10-21,Lyon,175,80,10
+P00908,Maquillage,Ãpure d'Azur,262.95,62,2024-10-14,Paris,96,34,10
+P00909,Soins de la peau,Ligne LumiÃ¨re,230.97,96,2024-04-20,Lyon,56,-40,4
+P00910,Parfums,Soin Absolu,70.72,60,2024-01-07,Paris,5,-55,1
+P00911,Soins capillaires,Cosmétika,327.6,12,2024-10-10,Paris,16,4,10
+P00911,Soins capillaires,Cosmétika,327.6,12,2024-09-13,Marseille,85,73,9
+P00912,Maquillage,Jardin dâIvoire,123.7,51,2024-06-09,Paris,47,-4,6
+P00912,Maquillage,Jardin dâIvoire,123.7,51,2024-08-18,Lyon,49,-2,8
+P00913,Maquillage,Beauté Origine,317.4,41,2024-01-03,Paris,168,127,1
+P00914,Soins de la peau,Orchidée Noire,332.1,60,2024-05-31,Paris,245,185,5
+P00914,Soins de la peau,Orchidée Noire,332.1,60,2024-02-06,Lyon,292,232,2
+P00915,Soins capillaires,LâAtelier du Teint,92.97,94,2024-11-01,Paris,261,167,11
+P00916,Accessoires,Déesse Cosmétique,49.45,55,2024-01-24,Lyon,67,12,1
+P00916,Accessoires,Déesse Cosmétique,49.45,55,2024-08-13,Paris,159,104,8
+P00917,Maquillage,Secret de Peau,394.77,30,2024-12-25,Lyon,236,206,12
+P00917,Maquillage,Secret de Peau,394.77,30,2024-05-12,Paris,100,70,5
+P00918,Soins de la peau,Rose & Lin,240.7,53,2024-01-08,Lyon,208,155,1
+P00918,Soins de la peau,Rose & Lin,240.7,53,2024-12-10,Paris,279,226,12
+P00919,Accessoires,Le Bain Royal,47.92,20,2024-10-22,Paris,198,178,10
+P00920,Soins capillaires,Sérum de Lune,497.54,77,2024-02-17,Lyon,142,65,2
+P00920,Soins capillaires,Sérum de Lune,497.54,77,2024-06-02,Paris,224,147,6
+P00921,Maquillage,Aura Cristal,47.73,10,2024-07-29,Marseille,11,1,7
+P00921,Maquillage,Aura Cristal,47.73,10,2024-03-11,Paris,72,62,3
+P00922,Accessoires,Infusion Précieuse,353.62,72,2024-07-29,Lyon,85,13,7
+P00922,Accessoires,Infusion Précieuse,353.62,72,2024-11-02,Paris,65,-7,11
+P00923,Accessoires,Velours Naturel,492.17,33,2024-04-20,Marseille,161,128,4
+P00923,Accessoires,Velours Naturel,492.17,33,2024-10-25,Lyon,294,261,10
+P00924,Accessoires,Ãveil Ãlégant,134.81,22,2024-01-21,Lyon,252,230,1
+P00924,Accessoires,Ãveil Ãlégant,134.81,22,2024-07-14,Paris,10,-12,7
+P00925,Maquillage,Héritage Sensuel,88.28,20,2024-06-22,Marseille,189,169,6
+P00926,Maquillage,Clarté Botanique,78.26,60,2024-05-17,Marseille,233,173,5
+P00926,Maquillage,Clarté Botanique,78.26,60,2024-10-06,Paris,167,107,10
+P00927,Parfums,Atelier Minéral,165.57,26,2024-07-26,Lyon,75,49,7
+P00927,Parfums,Atelier Minéral,165.57,26,2024-07-25,Marseille,41,15,7
+P00928,Soins capillaires,Silhouette Paris,68.5,91,2024-09-10,Marseille,193,102,9
+P00929,Soins de la peau,Natura Solaire,352.24,95,2024-03-17,Paris,220,125,3
+P00930,Accessoires,Les Essences Rares,49.9,33,2024-08-02,Lyon,72,39,8
+P00930,Accessoires,Les Essences Rares,49.9,33,2024-08-12,Paris,119,86,8
+P00931,Parfums,Maison Vitalis,264.52,28,2024-09-18,Paris,206,178,9
+P00932,Soins de la peau,Aroma Sublime,498.41,46,2024-11-20,Lyon,44,-2,11
+P00932,Soins de la peau,Aroma Sublime,498.41,46,2024-12-01,Paris,267,221,12
+P00933,Parfums,Ãpure d'Azur,410.71,94,2024-02-12,Lyon,178,84,2
+P00933,Parfums,Ãpure d'Azur,410.71,94,2024-03-11,Paris,3,-91,3
+P00934,Maquillage,Ligne LumiÃ¨re,315.31,17,2024-01-10,Paris,88,71,1
+P00934,Maquillage,Ligne LumiÃ¨re,315.31,17,2024-06-21,Marseille,118,101,6
+P00935,Accessoires,Soin Absolu,167.0,37,2024-05-31,Lyon,146,109,5
+P00935,Accessoires,Soin Absolu,167.0,37,2024-08-18,Paris,263,226,8
+P00936,Soins de la peau,Cosmétika,319.47,14,2024-10-02,Paris,8,-6,10
+P00937,Soins de la peau,Jardin dâIvoire,272.98,26,2024-03-06,Marseille,202,176,3
+P00937,Soins de la peau,Jardin dâIvoire,272.98,26,2024-11-20,Paris,21,-5,11
+P00938,Soins de la peau,Beauté Origine,224.52,45,2024-03-14,Paris,23,-22,3
+P00939,Soins de la peau,Orchidée Noire,82.74,28,2024-12-03,Paris,173,145,12
+P00940,Soins de la peau,LâAtelier du Teint,445.57,73,2024-09-22,Paris,145,72,9
+P00941,Parfums,Déesse Cosmétique,235.9,20,2024-08-06,Lyon,105,85,8
+P00941,Parfums,Déesse Cosmétique,235.9,20,2024-05-20,Paris,224,204,5
+P00942,Accessoires,Secret de Peau,113.42,63,2024-12-19,Paris,240,177,12
+P00943,Maquillage,Rose & Lin,196.52,54,2024-01-03,Paris,222,168,1
+P00943,Maquillage,Rose & Lin,196.52,54,2024-12-29,Marseille,64,10,12
+P00944,Maquillage,Le Bain Royal,218.78,56,2024-06-24,Paris,244,188,6
+P00944,Maquillage,Le Bain Royal,218.78,56,2024-07-13,Lyon,81,25,7
+P00945,Maquillage,Sérum de Lune,417.22,21,2024-08-25,Marseille,29,8,8
+P00945,Maquillage,Sérum de Lune,417.22,21,2024-10-29,Lyon,30,9,10
+P00946,Maquillage,Aura Cristal,372.13,30,2024-02-02,Paris,263,233,2
+P00947,Parfums,Infusion Précieuse,389.27,20,2024-12-18,Paris,18,-2,12
+P00947,Parfums,Infusion Précieuse,389.27,20,2024-12-16,Lyon,32,12,12
+P00948,Soins capillaires,Velours Naturel,25.3,14,2024-05-03,Paris,139,125,5
+P00948,Soins capillaires,Velours Naturel,25.3,14,2024-10-20,Lyon,40,26,10
+P00949,Accessoires,Ãveil Ãlégant,219.75,90,2024-06-27,Paris,94,4,6
+P00949,Accessoires,Ãveil Ãlégant,219.75,90,2024-06-19,Marseille,293,203,6
+P00950,Soins de la peau,Héritage Sensuel,251.05,65,2024-09-11,Paris,73,8,9
+P00950,Soins de la peau,Héritage Sensuel,251.05,65,2024-06-17,Lyon,207,142,6
+P00951,Soins capillaires,Clarté Botanique,29.21,29,2024-10-30,Paris,11,-18,10
+P00952,Maquillage,Atelier Minéral,144.71,50,2024-12-04,Paris,252,202,12
+P00953,Soins capillaires,Silhouette Paris,384.94,55,2024-06-01,Paris,145,90,6
+P00954,Accessoires,Natura Solaire,85.81,21,2024-09-04,Lyon,237,216,9
+P00954,Accessoires,Natura Solaire,85.81,21,2024-05-10,Paris,5,-16,5
+P00955,Soins de la peau,Les Essences Rares,276.95,79,2024-05-29,Lyon,8,-71,5
+P00956,Soins de la peau,Maison Vitalis,123.3,26,2024-11-19,Paris,133,107,11
+P00957,Accessoires,Aroma Sublime,25.82,28,2024-08-15,Paris,202,174,8
+P00958,Accessoires,Ãpure d'Azur,135.78,35,2024-01-17,Marseille,264,229,1
+P00958,Accessoires,Ãpure d'Azur,135.78,35,2024-01-28,Paris,260,225,1
+P00959,Maquillage,Ligne LumiÃ¨re,488.42,57,2024-11-18,Paris,46,-11,11
+P00960,Soins de la peau,Soin Absolu,404.74,61,2024-08-07,Marseille,31,-30,8
+P00960,Soins de la peau,Soin Absolu,404.74,61,2024-02-07,Paris,75,14,2
+P00961,Soins capillaires,Cosmétika,480.6,79,2024-08-29,Paris,50,-29,8
+P00962,Parfums,Jardin dâIvoire,254.17,64,2024-06-04,Lyon,125,61,6
+P00962,Parfums,Jardin dâIvoire,254.17,64,2024-07-16,Paris,299,235,7
+P00963,Parfums,Beauté Origine,72.67,84,2024-08-13,Paris,112,28,8
+P00964,Accessoires,Orchidée Noire,283.02,42,2024-06-03,Paris,197,155,6
+P00964,Accessoires,Orchidée Noire,283.02,42,2024-01-01,Lyon,128,86,1
+P00965,Maquillage,LâAtelier du Teint,238.1,71,2024-02-17,Paris,54,-17,2
+P00965,Maquillage,LâAtelier du Teint,238.1,71,2024-08-31,Lyon,254,183,8
+P00966,Parfums,Déesse Cosmétique,425.29,97,2024-05-13,Marseille,20,-77,5
+P00967,Soins de la peau,Secret de Peau,67.08,32,2024-05-07,Paris,201,169,5
+P00968,Accessoires,Rose & Lin,254.36,24,2024-02-13,Paris,182,158,2
+P00968,Accessoires,Rose & Lin,254.36,24,2024-11-20,Lyon,10,-14,11
+P00969,Soins capillaires,Le Bain Royal,92.02,36,2024-12-28,Lyon,244,208,12
+P00969,Soins capillaires,Le Bain Royal,92.02,36,2024-11-06,Paris,133,97,11
+P00970,Accessoires,Sérum de Lune,175.84,84,2024-12-31,Lyon,198,114,12
+P00970,Accessoires,Sérum de Lune,175.84,84,2024-08-11,Paris,272,188,8
+P00971,Soins capillaires,Aura Cristal,373.93,73,2024-07-08,Paris,70,-3,7
+P00972,Accessoires,Infusion Précieuse,248.49,90,2024-06-05,Lyon,74,-16,6
+P00972,Accessoires,Infusion Précieuse,248.49,90,2024-12-15,Paris,229,139,12
+P00973,Accessoires,Velours Naturel,200.43,60,2024-05-28,Paris,87,27,5
+P00974,Accessoires,Ãveil Ãlégant,209.35,62,2024-11-05,Lyon,186,124,11
+P00974,Accessoires,Ãveil Ãlégant,209.35,62,2024-09-06,Paris,186,124,9
+P00975,Soins capillaires,Héritage Sensuel,240.53,87,2024-12-13,Lyon,218,131,12
+P00975,Soins capillaires,Héritage Sensuel,240.53,87,2024-12-22,Paris,36,-51,12
+P00976,Soins capillaires,Clarté Botanique,396.81,91,2024-05-18,Paris,176,85,5
+P00976,Soins capillaires,Clarté Botanique,396.81,91,2024-01-06,Marseille,134,43,1
+P00977,Accessoires,Atelier Minéral,448.2,60,2024-06-21,Paris,3,-57,6
+P00977,Accessoires,Atelier Minéral,448.2,60,2024-11-13,Marseille,45,-15,11
+P00978,Parfums,Silhouette Paris,478.56,56,2024-03-24,Paris,3,-53,3
+P00978,Parfums,Silhouette Paris,478.56,56,2024-02-29,Marseille,168,112,2
+P00979,Maquillage,Natura Solaire,397.71,13,2024-11-22,Paris,109,96,11
+P00979,Maquillage,Natura Solaire,397.71,13,2024-08-06,Marseille,271,258,8
+P00979,Maquillage,Natura Solaire,397.71,13,2024-01-31,Lyon,168,155,1
+P00980,Maquillage,Les Essences Rares,171.4,16,2024-01-13,Lyon,297,281,1
+P00980,Maquillage,Les Essences Rares,171.4,16,2024-05-20,Paris,158,142,5
+P00981,Maquillage,Maison Vitalis,350.3,44,2024-01-12,Lyon,279,235,1
+P00981,Maquillage,Maison Vitalis,350.3,44,2024-08-14,Paris,211,167,8
+P00982,Soins capillaires,Aroma Sublime,230.05,57,2024-08-06,Marseille,25,-32,8
+P00982,Soins capillaires,Aroma Sublime,230.05,57,2024-01-24,Paris,4,-53,1
+P00983,Soins capillaires,Ãpure d'Azur,142.24,82,2024-03-26,Paris,246,164,3
+P00983,Soins capillaires,Ãpure d'Azur,142.24,82,2024-03-17,Lyon,168,86,3
+P00984,Parfums,Ligne LumiÃ¨re,423.62,81,2024-01-04,Lyon,147,66,1
+P00984,Parfums,Ligne LumiÃ¨re,423.62,81,2024-07-22,Paris,268,187,7
+P00985,Maquillage,Soin Absolu,38.44,54,2024-09-04,Paris,218,164,9
+P00986,Maquillage,Cosmétika,452.85,90,2024-03-27,Paris,243,153,3
+P00986,Maquillage,Cosmétika,452.85,90,2024-11-09,Lyon,78,-12,11
+P00987,Accessoires,Jardin dâIvoire,241.51,90,2024-12-09,Lyon,254,164,12
+P00988,Soins capillaires,Beauté Origine,325.86,81,2024-02-28,Lyon,173,92,2
+P00988,Soins capillaires,Beauté Origine,325.86,81,2024-08-14,Paris,61,-20,8
+P00989,Maquillage,Orchidée Noire,336.49,28,2024-12-26,Lyon,179,151,12
+P00990,Parfums,LâAtelier du Teint,449.66,72,2024-08-05,Lyon,86,14,8
+P00990,Parfums,LâAtelier du Teint,449.66,72,2024-06-16,Paris,45,-27,6
+P00991,Parfums,Déesse Cosmétique,325.6,47,2024-09-22,Lyon,218,171,9
+P00991,Parfums,Déesse Cosmétique,325.6,47,2024-01-29,Paris,5,-42,1
+P00992,Maquillage,Secret de Peau,314.69,76,2024-09-14,Marseille,141,65,9
+P00993,Soins capillaires,Rose & Lin,51.99,68,2024-07-17,Paris,219,151,7
+P00993,Soins capillaires,Rose & Lin,51.99,68,2024-12-08,Marseille,70,2,12
+P00994,Parfums,Le Bain Royal,268.84,78,2024-11-23,Lyon,6,-72,11
+P00994,Parfums,Le Bain Royal,268.84,78,2024-11-16,Marseille,172,94,11
+P00995,Accessoires,Sérum de Lune,92.08,22,2024-07-31,Paris,57,35,7
+P00995,Accessoires,Sérum de Lune,92.08,22,2024-08-29,Marseille,214,192,8
+P00996,Parfums,Aura Cristal,373.97,56,2024-04-02,Paris,242,186,4
+P00996,Parfums,Aura Cristal,373.97,56,2024-12-11,Lyon,24,-32,12
+P00996,Parfums,Aura Cristal,373.97,56,2024-09-11,Marseille,177,121,9
+P00997,Soins de la peau,Infusion Précieuse,265.87,70,2024-05-03,Lyon,238,168,5
+P00997,Soins de la peau,Infusion Précieuse,265.87,70,2024-10-25,Marseille,221,151,10
+P00998,Soins de la peau,Velours Naturel,346.51,40,2024-07-12,Lyon,33,-7,7
+P00998,Soins de la peau,Velours Naturel,346.51,40,2024-05-10,Paris,250,210,5
+P00999,Soins capillaires,Ãveil Ãlégant,40.0,89,2024-12-10,Marseille,264,175,12
+P00999,Soins capillaires,Ãveil Ãlégant,40.0,89,2024-10-19,Paris,88,-1,10
+P01000,Maquillage,Héritage Sensuel,60.7,31,2024-07-05,Paris,127,96,7
+P01000,Maquillage,Héritage Sensuel,60.7,31,2024-05-30,Lyon,133,102,5
