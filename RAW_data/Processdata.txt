@@ -1,0 +1,21 @@
+- Cout de transport par unitée 
+Cout de transport / quantité 
+
+
+- Temps de traitement entreprot
+Date de commande - date expedition 
+
+- Cout total du transport par entrepot
+total_par_entrepot = df.groupby("entrepôt")["coût_transport"].transform("sum")
+df["coût_transport_total_entrepôt"] = total_par_entrepot
+
+
+
+Futur >
+- Verifier l'entrepot commande et expedition same 
+ 
+
+
+
+
+
